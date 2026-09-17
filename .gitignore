@@ -1,0 +1,18 @@
+# данные задания — не выкладываем
+test/
+sample_submission.csv
+
+# окружение и мусор
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+
+# большие внешние датасеты (качаются ссылками из ноутбука)
+data/union14m_l/
+data/ocr_cyrillic_printed6/
+data/ocr_cyrillic_printed10/
+data/russian_ocr_small/
+data/packed/
+data/synth_train/

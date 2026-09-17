@@ -1,0 +1,6 @@
+{
+  "params": 389921,
+  "checkpoint_mb": 1.5,
+  "cpu1_bs1_ms_per_crop": 9.064,
+  "cpu1_bs64_ms_per_crop": 16.584
+}

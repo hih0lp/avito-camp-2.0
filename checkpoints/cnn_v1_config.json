@@ -1,0 +1,16 @@
+{
+  "tag": "cnn_v1",
+  "epochs": 10,
+  "batch": 256,
+  "lr": 0.002,
+  "wd": 0.0001,
+  "dropout": 0.3,
+  "scale": 0.5,
+  "workers": 8,
+  "seed": 42,
+  "train_sources": {
+    "printed6": 60000,
+    "printed10": 60000,
+    "union_train": 80000
+  }
+}

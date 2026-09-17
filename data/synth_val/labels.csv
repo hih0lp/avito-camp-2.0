@@ -1,0 +1,3001 @@
+image_id,label,text,font
+val_00000,0,433 857 р.,Hiragino Sans GB.ttc
+val_00001,1,стулья мёд,Menlo.ttc
+val_00002,1,хранить Казань холодильник,AquaKana.ttc
+val_00003,0,339 451 р.,Hiragino Sans GB.ttc
+val_00004,0,11 374 р.,Trattatello.ttf
+val_00005,0,356 612 р.,Hoefler Text.ttc
+val_00006,0,Premium IKEA,GillSans.ttc
+val_00007,1,95587 руб.,Geneva.ttf
+val_00008,1,СОСТАВ,ChalkboardSE.ttc
+val_00009,0,+7 (957) 142-67-67,Georgia Bold Italic.ttf
+val_00010,0,China Xiaomi,Andale Mono.ttf
+val_00011,0,Б/У ЗВОНИТЕ,Hiragino Sans GB.ttc
+val_00012,0,самовывоз пальто качество,MarkerFelt.ttc
+val_00013,1,Телефон ноутбук посуточно,Verdana Italic.ttf
+val_00014,0,+7 (942) 971-25-53,PTSans.ttc
+val_00015,0,шины этаж сок,SFNS.ttf
+val_00016,0,33542 руб.,AmericanTypewriter.ttc
+val_00017,0,+7 (925) 362-76-38,GillSans.ttc
+val_00018,0,Nike,Andale Mono.ttf
+val_00019,1,куртка срок срок,Songti.ttc
+val_00020,1,73704 руб.,Trebuchet MS Italic.ttf
+val_00021,1,Сливочное,NewYorkItalic.ttf
+val_00022,0,КАЗАНЬ ШКАФ,AppleMyungjo.ttf
+val_00023,0,+7 (948) 688-84-88,LucidaGrande.ttc
+val_00024,1,IKEA Sony,Phosphate.ttc
+val_00025,0,Новосибирск,AppleSDGothicNeo.ttc
+val_00026,0,ТЕМПЕРАТУРЕ СОСТАВ,Andale Mono.ttf
+val_00027,1,работа продам,Trebuchet MS.ttf
+val_00028,0,шкаф зарплата,Comic Sans MS Bold.ttf
+val_00029,1,ПАЛЬТО,SignPainter.ttc
+val_00030,0,сок звоните смартфон,Avenir Next.ttc
+val_00031,1,ремонт водитель гарантия,ヒラギノ角ゴシック W1.ttc
+val_00032,1,акция,LucidaGrande.ttc
+val_00033,1,Kinder Samsung,Andale Mono.ttf
+val_00034,0,шкаф зимняя,Trebuchet MS Bold.ttf
+val_00035,0,34684 руб.,SFCompact.ttf
+val_00036,1,+7 (921) 614-56-58,Times New Roman Italic.ttf
+val_00037,0,водитель работа,Helvetica.ttc
+val_00038,0,куртка,Georgia Italic.ttf
+val_00039,0,магазин масса,MarkerFelt.ttc
+val_00040,0,+7 (962) 189-33-72,Baskerville.ttc
+val_00041,1,+7 (930) 528-60-87,Trattatello.ttf
+val_00042,0,печенье 238%,HelveticaNeue.ttc
+val_00043,0,Екатеринбург,STHeiti Medium.ttc
+val_00044,1,NEW Nike,HelveticaNeue.ttc
+val_00045,0,ВАКАНСИЯ САМОВЫВОЗ ДИСКИ,Hiragino Sans GB.ttc
+val_00046,1,ЗАРЯДКА,ヒラギノ角ゴシック W6.ttc
+val_00047,1,вакансия,Times.ttc
+val_00048,0,Краснодар 221,Avenir.ttc
+val_00049,0,61 488 р.,SFNSItalic.ttf
+val_00050,0,42986 руб.,Avenir.ttc
+val_00051,1,цена,PTMono.ttc
+val_00052,0,ПРОИЗВОДИТЕЛЬ ЗАРПЛАТА,SFCompactRounded.ttf
+val_00053,1,шоколад годности шерсть,Arial Narrow Bold Italic.ttf
+val_00054,1,ОПЫТ ГРАФИК,Seravek.ttc
+val_00055,0,СТОЛ ЧАЙ,Savoye LET.ttc
+val_00056,0,ПРОДАВЕЦ КУХНЯ МОСКВА,ヒラギノ明朝 ProN.ttc
+val_00057,0,работа 428 шт,Georgia Italic.ttf
+val_00058,0,Apple Philips,Courier New Italic.ttf
+val_00059,1,Nestle in,Menlo.ttc
+val_00060,0,Опыт балкон зарплата,SnellRoundhand.ttc
+val_00061,1,Original Made,STIXGeneralItalic.otf
+val_00062,0,Смартфон магазин производитель,Luminari.ttf
+val_00063,0,инструкция 480 шт,PTMono.ttc
+val_00064,1,изготовитель,ヒラギノ丸ゴ ProN W4.ttc
+val_00065,1,молоко платье шины,Palatino.ttc
+val_00066,0,Nestle,Menlo.ttc
+val_00067,1,температуре,Hoefler Text.ttc
+val_00068,0,Original,ヒラギノ角ゴシック W2.ttc
+val_00069,0,запчасти,ヒラギノ角ゴシック W6.ttc
+val_00070,0,284 274 р.,AppleSDGothicNeo.ttc
+val_00071,0,Сумка,AmericanTypewriter.ttc
+val_00072,1,СТУЛЬЯ,Cochin.ttc
+val_00073,0,iPhone Size,ヒラギノ丸ゴ ProN W4.ttc
+val_00074,1,ЗАПЧАСТИ АРЕНДА,Athelas.ttc
+val_00075,0,ХОЛОДИЛЬНИК,ヒラギノ角ゴシック W3.ttc
+val_00076,1,ремонт,Seravek.ttc
+val_00077,0,693 337 р.,AppleMyungjo.ttf
+val_00078,1,Apple,Trebuchet MS Bold Italic.ttf
+val_00079,1,+7 (970) 368-59-92,ヒラギノ角ゴシック W6.ttc
+val_00080,1,+7 (987) 801-93-39,Phosphate.ttc
+val_00081,1,САМОВЫВОЗ НАТУРАЛЬНАЯ,STHeiti Light.ttc
+val_00082,0,машина,Didot.ttc
+val_00083,0,ШКАФ ОРИГИНАЛ,Trebuchet MS.ttf
+val_00084,0,Zara,PTSerifCaption.ttc
+val_00085,1,КАЧЕСТВО СОСТАВ,Hiragino Sans GB.ttc
+val_00086,1,ПЛОЩАДЬ ЗВОНИТЕ,PTSerifCaption.ttc
+val_00087,1,+7 (908) 262-91-25,Marion.ttc
+val_00088,1,кожа 169 мл,Avenir Next.ttc
+val_00089,0,БАЛКОН,Baskerville.ttc
+val_00090,0,Качество куплю ванная,PTSans.ttc
+val_00091,0,АККУМУЛЯТОР,Bradley Hand Bold.ttf
+val_00092,1,Quality Pro,ヒラギノ角ゴシック W5.ttc
+val_00093,0,Ростов велосипед,STIXGeneralBol.otf
+val_00094,1,осень 269%,ヒラギノ角ゴシック W3.ttc
+val_00095,1,АРЕНДА СТУДИЯ МАГАЗИН,Geneva.ttf
+val_00096,0,масса смартфон сыр,PTMono.ttc
+val_00097,0,Самара инструкция кроссовки,Arial Narrow Italic.ttf
+val_00098,1,+7 (949) 617-77-21,Trebuchet MS.ttf
+val_00099,0,изготовитель 358 г,Charter.ttc
+val_00100,1,ЗАПЧАСТИ,ヒラギノ角ゴシック W7.ttc
+val_00101,1,склад 297 мл,Verdana Bold.ttf
+val_00102,1,+7 (945) 597-37-66,ChalkboardSE.ttc
+val_00103,0,Lada Pro,DIN Alternate Bold.ttf
+val_00104,0,Аренда вход,Songti.ttc
+val_00105,1,СТОЛ ДЕТСКИЙ ШОКОЛАД,MarkerFelt.ttc
+val_00106,1,состав новый зарплата,LucidaGrande.ttc
+val_00107,0,холодильник,Phosphate.ttc
+val_00108,0,КАЗАНЬ ВНИМАНИЕ,Sathu.ttf
+val_00109,0,20953 руб.,DIN Alternate Bold.ttf
+val_00110,1,САМАРА ЧАЙ,SnellRoundhand.ttc
+val_00111,0,орехи 297 см,Phosphate.ttc
+val_00112,1,+7 (950) 269-37-89,Hiragino Sans GB.ttc
+val_00113,1,диски 72 мл,Baskerville.ttc
+val_00114,0,телефон звоните Самара,Georgia.ttf
+val_00115,1,весна вход ремонт,STIXTwoMath.otf
+val_00116,0,25209 руб.,Seravek.ttc
+val_00117,0,квартира смартфон стулья,SignPainter.ttc
+val_00118,0,Казань 269 шт,Copperplate.ttc
+val_00119,1,NEW,Geneva.ttf
+val_00120,1,Philips,Arial Italic.ttf
+val_00121,0,ноутбук хлопок,Avenir Next.ttc
+val_00122,0,90666 руб.,Microsoft Sans Serif.ttf
+val_00123,1,Платье вакансия,SFCompact.ttf
+val_00124,0,Noire Nike,ヒラギノ角ゴシック W7.ttc
+val_00125,1,Этаж этаж краснодар,Trattatello.ttf
+val_00126,0,АРЕНДА,Avenir Next.ttc
+val_00127,0,27495 руб.,ヒラギノ角ゴシック W8.ttc
+val_00128,0,Выход балкон кровать,GillSans.ttc
+val_00129,0,Apple IKEA,ヒラギノ角ゴシック W9.ttc
+val_00130,1,62215 руб.,Rockwell.ttc
+val_00131,0,хлопок,Thonburi.ttc
+val_00132,0,кроссовки сумка,SignPainter.ttc
+val_00133,1,этаж мёд мёд,Menlo.ttc
+val_00134,0,Открыто размер,Trebuchet MS Bold.ttf
+val_00135,0,611 066 р.,Savoye LET.ttc
+val_00136,1,Кожа новосибирск,AppleSDGothicNeo.ttc
+val_00137,1,China Toyota,Georgia.ttf
+val_00138,0,НАУШНИКИ ПРИ СТОЛ,Bradley Hand Bold.ttf
+val_00139,1,куплю вода кожа,Trebuchet MS Italic.ttf
+val_00140,0,Краснодар мужская масса,ChalkboardSE.ttc
+val_00141,0,Apple LG,AppleMyungjo.ttf
+val_00142,1,+7 (915) 825-22-11,SignPainter.ttc
+val_00143,1,СОСТАВ НОВЫЙ ДИВАН,PTSans.ttc
+val_00144,0,Max Adidas,STIXTwoText-Italic.ttf
+val_00145,0,натуральная кровать смартфон,Rockwell.ttc
+val_00146,1,Toyota,Microsoft Sans Serif.ttf
+val_00147,1,Санкт-Петербург новый,Trebuchet MS Bold Italic.ttf
+val_00148,0,42 717 р.,Arial Italic.ttf
+val_00149,1,Сливочное женская размер,ヒラギノ角ゴシック W7.ttc
+val_00150,0,in,Rockwell.ttc
+val_00151,0,Продам,ヒラギノ角ゴシック W0.ttc
+val_00152,0,159 050 р.,ヒラギノ角ゴシック W3.ttc
+val_00153,1,+7 (901) 506-60-25,ChalkboardSE.ttc
+val_00154,0,+7 (956) 631-47-30,Avenir Next.ttc
+val_00155,0,19957 руб.,SnellRoundhand.ttc
+val_00156,1,703 708 р.,HelveticaNeue.ttc
+val_00157,0,ВАКАНСИЯ,Tahoma.ttf
+val_00158,1,летняя 251 мл,STIXGeneralItalic.otf
+val_00159,1,осторожно самовывоз ремонт,STIXGeneralBolIta.otf
+val_00160,0,+7 (961) 201-88-45,SnellRoundhand.ttc
+val_00161,0,аккумулятор 7 мл,Thonburi.ttc
+val_00162,0,шерсть 98 г,Times.ttc
+val_00163,0,+7 (946) 597-94-87,ChalkboardSE.ttc
+val_00164,1,Торг машина масло,Baskerville.ttc
+val_00165,0,Инструкция гарантия наушники,Athelas.ttc
+val_00166,0,+7 (964) 816-28-30,Times.ttc
+val_00167,1,+7 (943) 821-77-97,Palatino.ttc
+val_00168,0,444 901 р.,AppleSDGothicNeo.ttc
+val_00169,1,ОМСК ПИШИТЕ,Songti.ttc
+val_00170,1,печенье масло конфеты,Comic Sans MS.ttf
+val_00171,1,ремонт 382%,ヒラギノ角ゴシック W4.ttc
+val_00172,1,диван,Times New Roman Italic.ttf
+val_00173,1,+7 (984) 584-61-63,Times New Roman Italic.ttf
+val_00174,0,вакансия работа авто,ヒラギノ角ゴシック W6.ttc
+val_00175,1,сыр,ChalkboardSE.ttc
+val_00176,1,Екатеринбург,Thonburi.ttc
+val_00177,1,открыто 177,Luminari.ttf
+val_00178,0,+7 (916) 138-30-23,Songti.ttc
+val_00179,0,КУРЬЕР ПАЛЬТО,PTSerif.ttc
+val_00180,1,чай холодильник,Impact.ttf
+val_00181,1,Цена,ヒラギノ角ゴシック W6.ttc
+val_00182,0,+7 (901) 221-47-21,Thonburi.ttc
+val_00183,0,IKEA,SFNS.ttf
+val_00184,1,комната инструкция,AppleGothic.ttf
+val_00185,1,шоколад,STIXGeneralItalic.otf
+val_00186,1,Noire Premium,Copperplate.ttc
+val_00187,0,ЗВОНИТЕ,ヒラギノ角ゴシック W9.ttc
+val_00188,1,сливочное ремонт,Marion.ttc
+val_00189,0,ОТКРЫТО ХЛЕБ,SuperClarendon.ttc
+val_00190,1,ХЛОПОК ИНСТРУКЦИЯ,Georgia Bold Italic.ttf
+val_00191,0,продавец стол,Menlo.ttc
+val_00192,0,+7 (993) 469-48-15,Courier New Bold.ttf
+val_00193,0,+7 (998) 562-33-38,STIXGeneralBolIta.otf
+val_00194,0,+7 (946) 635-54-49,Athelas.ttc
+val_00195,0,продаж,ヒラギノ角ゴシック W7.ttc
+val_00196,1,гарантия 109,PTMono.ttc
+val_00197,1,качество 268%,ヒラギノ角ゴシック W5.ttc
+val_00198,0,ДИСКИ,PTMono.ttc
+val_00199,1,цена Санкт-Петербург опыт,ChalkboardSE.ttc
+val_00200,1,681 734 р.,Savoye LET.ttc
+val_00201,1,торг печенье гарантия,Trebuchet MS Bold.ttf
+val_00202,0,хлеб 398%,Brush Script.ttf
+val_00203,0,кровать 482 мл,LucidaGrande.ttc
+val_00204,1,орехи диван,ヒラギノ明朝 ProN.ttc
+val_00205,0,КУРЬЕР РОСТОВ АКЦИЯ,Arial.ttf
+val_00206,0,Площадь,Times New Roman.ttf
+val_00207,1,ноутбук кожа Омск,Savoye LET.ttc
+val_00208,0,54307 руб.,ヒラギノ角ゴシック W0.ttc
+val_00209,0,Apple,Avenir Next.ttc
+val_00210,1,зарплата 396,ヒラギノ角ゴシック W1.ttc
+val_00211,1,Size,HelveticaNeue.ttc
+val_00212,0,КУРЬЕР,STIXGeneral.otf
+val_00213,0,вход,SuperClarendon.ttc
+val_00214,0,Стиральная,Arial Bold Italic.ttf
+val_00215,0,мёд,PTSerif.ttc
+val_00216,1,Size,Palatino.ttc
+val_00217,0,аккумулятор Самара нетто,PTSerifCaption.ttc
+val_00218,1,пальто конфеты,HelveticaNeue.ttc
+val_00219,0,+7 (980) 866-86-63,Noteworthy.ttc
+val_00220,1,152 руб.,Andale Mono.ttf
+val_00221,1,ХОЛОДИЛЬНИК СТИРАЛЬНАЯ ВЫХОД,Marion.ttc
+val_00222,0,10272 руб.,Verdana Italic.ttf
+val_00223,0,ПРОДАВЕЦ,Verdana Bold.ttf
+val_00224,0,склад при,HelveticaNeue.ttc
+val_00225,1,ГОДНОСТИ КРОВАТЬ СТИРАЛЬНАЯ,MarkerFelt.ttc
+val_00226,1,склад 22 шт,SFNSMono.ttf
+val_00227,1,телефон,ヒラギノ角ゴシック W8.ttc
+val_00228,0,конфеты кожа,AmericanTypewriter.ttc
+val_00229,1,сумка новый,Seravek.ttc
+val_00230,1,Noire,Baskerville.ttc
+val_00231,1,81687 руб.,Verdana Italic.ttf
+val_00232,0,+7 (970) 749-49-43,ヒラギノ角ゴシック W5.ttc
+val_00233,1,Size NEW,STHeiti Light.ttc
+val_00234,1,куртка 20%,ヒラギノ角ゴシック W6.ttc
+val_00235,1,+7 (972) 272-87-25,STHeiti Medium.ttc
+val_00236,0,+7 (913) 989-83-96,Trebuchet MS Bold Italic.ttf
+val_00237,1,729 724 р.,GillSans.ttc
+val_00238,1,АКЦИЯ СТУЛЬЯ ОТКРЫТО,Impact.ttf
+val_00239,1,+7 (949) 484-78-35,Arial Black.ttf
+val_00240,1,Adidas,Arial Unicode.ttf
+val_00241,0,Ростов,Georgia Italic.ttf
+val_00242,1,весна,Times New Roman Bold Italic.ttf
+val_00243,0,срок 12 мл,Trebuchet MS.ttf
+val_00244,1,64170 руб.,Savoye LET.ttc
+val_00245,1,Масло сливочное,Didot.ttc
+val_00246,1,IKEA Nestle,Courier New Bold Italic.ttf
+val_00247,0,Carte,Trebuchet MS Bold Italic.ttf
+val_00248,0,68907 руб.,Trebuchet MS Italic.ttf
+val_00249,1,АКЦИЯ ВЕЛОСИПЕД,Courier New.ttf
+val_00250,1,опыт 212 г,Sathu.ttf
+val_00251,0,59943 руб.,Comic Sans MS Bold.ttf
+val_00252,0,пишите,Hiragino Sans GB.ttc
+val_00253,0,детский 174,AppleSDGothicNeo.ttc
+val_00254,0,молоко телефон,Menlo.ttc
+val_00255,1,смартфон хлеб работа,Avenir Next Condensed.ttc
+val_00256,0,новый,Seravek.ttc
+val_00257,0,температуре женская авто,ヒラギノ角ゴシック W9.ttc
+val_00258,0,NEW,ヒラギノ角ゴシック W2.ttc
+val_00259,1,Омск,PTSans.ttc
+val_00260,1,женская 200,Charter.ttc
+val_00261,0,Max Philips,Impact.ttf
+val_00262,1,Zara,GillSans.ttc
+val_00263,0,продам 64 мл,ヒラギノ角ゴシック W8.ttc
+val_00264,0,Аренда,Charter.ttc
+val_00265,0,in Apple,Hoefler Text.ttc
+val_00266,1,сыр ремонт холодильник,AppleGothic.ttf
+val_00267,1,93297 руб.,Hiragino Sans GB.ttc
+val_00268,1,ноутбук хит,Hoefler Text.ttc
+val_00269,0,натуральная 449 г,Cochin.ttc
+val_00270,0,КОЖА СОК МАГАЗИН,STIXTwoText-Italic.ttf
+val_00271,0,СМАРТФОН ОТКРЫТО НОВОСИБИРСК,Athelas.ttc
+val_00272,1,график запчасти оригинал,Verdana.ttf
+val_00273,1,квартира,Avenir Next Condensed.ttc
+val_00274,0,iPhone,Noteworthy.ttc
+val_00275,1,53161 руб.,Rockwell.ttc
+val_00276,0,65262 руб.,SFNS.ttf
+val_00277,1,+7 (990) 500-44-90,Trebuchet MS.ttf
+val_00278,0,зарплата студия хлеб,Palatino.ttc
+val_00279,0,Шкаф летняя торг,STIXTwoText.ttf
+val_00280,1,Краснодар 25 шт,Avenir Next.ttc
+val_00281,1,ГОДНОСТИ КРОССОВКИ ТОРГ,HelveticaNeue.ttc
+val_00282,0,72844 руб.,Hiragino Sans GB.ttc
+val_00283,1,торг,Baskerville.ttc
+val_00284,0,ноутбук стулья мужская,Seravek.ttc
+val_00285,1,зарплата шоколад продаж,AmericanTypewriter.ttc
+val_00286,0,МАГАЗИН,Avenir.ttc
+val_00287,0,Zara,ヒラギノ角ゴシック W5.ttc
+val_00288,1,при велосипед,Helvetica.ttc
+val_00289,0,вход 421%,Palatino.ttc
+val_00290,1,+7 (937) 792-87-14,PTSans.ttc
+val_00291,0,ВАКАНСИЯ,Menlo.ttc
+val_00292,0,зимняя,MarkerFelt.ttc
+val_00293,1,Size,Menlo.ttc
+val_00294,0,масло,STIXGeneralBolIta.otf
+val_00295,1,ВОДИТЕЛЬ КУХНЯ ХРАНИТЬ,STIXGeneralBol.otf
+val_00296,1,ХРАНИТЬ,PTSerifCaption.ttc
+val_00297,1,ТЕМПЕРАТУРЕ ПЕЧЕНЬЕ КОФЕ,Palatino.ttc
+val_00298,0,Казань наушники,Seravek.ttc
+val_00299,0,487 494 р.,ChalkboardSE.ttc
+val_00300,0,Made Noire,SFCompact.ttf
+val_00301,0,China,Tahoma Bold.ttf
+val_00302,1,+7 (974) 114-29-79,Futura.ttc
+val_00303,1,28408 руб.,SFCompact.ttf
+val_00304,0,Омск производитель размер,Athelas.ttc
+val_00305,0,открыто продавец,ヒラギノ角ゴシック W4.ttc
+val_00306,1,натуральная,ヒラギノ丸ゴ ProN W4.ttc
+val_00307,1,Омск 487 шт,STIXGeneralBol.otf
+val_00308,0,26716 руб.,Futura.ttc
+val_00309,0,обмен,STIXGeneral.otf
+val_00310,1,балкон,Arial.ttf
+val_00311,0,новый хит,Baskerville.ttc
+val_00312,0,+7 (927) 755-63-94,ヒラギノ角ゴシック W0.ttc
+val_00313,0,Pro,LucidaGrande.ttc
+val_00314,0,кухня 10%,Thonburi.ttc
+val_00315,0,МАСЛО ШОКОЛАД ПРОИЗВОДИТЕЛЬ,ヒラギノ角ゴシック W0.ttc
+val_00316,1,678 910 р.,Avenir Next.ttc
+val_00317,1,ПОСУТОЧНО,Avenir Next Condensed.ttc
+val_00318,1,+7 (968) 253-64-86,Copperplate.ttc
+val_00319,1,Premium Nike,Arial Unicode.ttf
+val_00320,1,Sony,SFCompactItalic.ttf
+val_00321,0,885 074 р.,SFNSMonoItalic.ttf
+val_00322,0,43415 руб.,Sathu.ttf
+val_00323,0,Philips Quality,ヒラギノ明朝 ProN.ttc
+val_00324,1,ЗАПЧАСТИ КРОССОВКИ Б/У,Arial Bold.ttf
+val_00325,0,+7 (928) 160-56-85,Georgia Bold Italic.ttf
+val_00326,0,NEW Kinder,STHeiti Medium.ttc
+val_00327,0,+7 (920) 813-72-52,Courier New.ttf
+val_00328,1,Zara,Arial.ttf
+val_00329,0,Обмен,Trebuchet MS Italic.ttf
+val_00330,0,стулья,SFNS.ttf
+val_00331,1,обмен натуральная орехи,Cochin.ttc
+val_00332,0,+7 (908) 139-43-56,PTSans.ttc
+val_00333,0,LG Premium,Geneva.ttf
+val_00334,0,пальто Екатеринбург,ヒラギノ角ゴシック W6.ttc
+val_00335,0,653 156 р.,Marion.ttc
+val_00336,1,Kinder Carte,NewYorkItalic.ttf
+val_00337,1,36792 руб.,AquaKana.ttc
+val_00338,1,натуральная Казань открыто,Thonburi.ttc
+val_00339,1,кофе,SFNSItalic.ttf
+val_00340,0,IKEA Max,SFNSMonoItalic.ttf
+val_00341,1,Carte iPhone,PTMono.ttc
+val_00342,1,производитель шоколад гарантия,ヒラギノ角ゴシック W5.ttc
+val_00343,1,сливочное орехи,Cochin.ttc
+val_00344,1,Краснодар,Thonburi.ttc
+val_00345,0,ВАКАНСИЯ ТОРГ,Arial Bold Italic.ttf
+val_00346,1,ВАННАЯ,LucidaGrande.ttc
+val_00347,0,ЧАЙ ЦЕНА Б/У,Brush Script.ttf
+val_00348,1,Москва температуре,STIXGeneralBolIta.otf
+val_00349,1,Kinder,PTMono.ttc
+val_00350,1,закрыто наушники пишите,Times New Roman.ttf
+val_00351,0,СУМКА ХЛЕБ ПРОДАВЕЦ,GillSans.ttc
+val_00352,0,China SALE,LucidaGrande.ttc
+val_00353,1,Акция,ヒラギノ角ゴシック W8.ttc
+val_00354,0,+7 (984) 709-77-85,ヒラギノ丸ゴ ProN W4.ttc
+val_00355,1,студия,AppleSDGothicNeo.ttc
+val_00356,0,ИНСТРУКЦИЯ,Courier New Bold Italic.ttf
+val_00357,1,Кожа шины,PTSerif.ttc
+val_00358,0,новый 93,Arial Black.ttf
+val_00359,0,изготовитель годности,Thonburi.ttc
+val_00360,0,продавец 221,Avenir Next.ttc
+val_00361,1,783 594 р.,Helvetica.ttc
+val_00362,0,ЦЕНА СОК,SFNSMonoItalic.ttf
+val_00363,1,+7 (973) 799-98-16,ヒラギノ角ゴシック W1.ttc
+val_00364,1,СРОК ЗИМНЯЯ,Impact.ttf
+val_00365,0,Годности кухня,STHeiti Medium.ttc
+val_00366,1,КВАРТИРА ВЕЛОСИПЕД,ヒラギノ角ゴシック W3.ttc
+val_00367,0,зарплата студия кожа,Arial Bold Italic.ttf
+val_00368,0,ГРАФИК МАШИНА,Helvetica.ttc
+val_00369,1,NEW Adidas,SuperClarendon.ttc
+val_00370,0,нетто гарантия,ヒラギノ角ゴシック W6.ttc
+val_00371,1,НОУТБУК ПЛАТЬЕ,ヒラギノ角ゴシック W6.ttc
+val_00372,0,детский изготовитель,ヒラギノ角ゴシック W2.ttc
+val_00373,1,+7 (925) 121-14-23,Menlo.ttc
+val_00374,1,+7 (975) 495-45-94,Verdana Italic.ttf
+val_00375,1,Zara,Copperplate.ttc
+val_00376,0,ХЛЕБ,AppleSDGothicNeo.ttc
+val_00377,1,ноутбук,STHeiti Medium.ttc
+val_00378,0,наушники сливочное,AppleMyungjo.ttf
+val_00379,0,Новосибирск площадь,PTSerifCaption.ttc
+val_00380,1,Kinder,ヒラギノ角ゴシック W3.ttc
+val_00381,0,оригинал,Palatino.ttc
+val_00382,1,+7 (933) 454-28-68,Noteworthy.ttc
+val_00383,1,орехи ремонт стиральная,Menlo.ttc
+val_00384,0,Сумка,DIN Condensed Bold.ttf
+val_00385,1,кофе стулья,Avenir.ttc
+val_00386,0,198 982 р.,Noteworthy.ttc
+val_00387,0,740 853 р.,Georgia Bold Italic.ttf
+val_00388,1,АВТО ПОСУТОЧНО,STHeiti Light.ttc
+val_00389,0,запчасти 255 мл,Trebuchet MS Bold.ttf
+val_00390,1,внимание размер,Marion.ttc
+val_00391,1,балкон,HelveticaNeue.ttc
+val_00392,0,97053 руб.,Arial Narrow Bold.ttf
+val_00393,1,Apple Samsung,Thonburi.ttc
+val_00394,1,501 568 р.,SFNS.ttf
+val_00395,1,комната 12 мл,Courier New Bold Italic.ttf
+val_00396,0,641 603 р.,ヒラギノ角ゴシック W0.ttc
+val_00397,0,+7 (904) 517-11-91,ヒラギノ丸ゴ ProN W4.ttc
+val_00398,0,производитель кофе телефон,Copperplate.ttc
+val_00399,0,состав состав,ヒラギノ明朝 ProN.ttc
+val_00400,1,in Noire,ヒラギノ角ゴシック W0.ttc
+val_00401,0,Вакансия состав,ヒラギノ角ゴシック W7.ttc
+val_00402,0,изготовитель 44%,STIXTwoText-Italic.ttf
+val_00403,0,+7 (933) 100-66-86,ヒラギノ角ゴシック W3.ttc
+val_00404,1,155 704 р.,SFNSMono.ttf
+val_00405,1,Вакансия натуральная новая,PTSans.ttc
+val_00406,0,Платье график,ヒラギノ明朝 ProN.ttc
+val_00407,0,Самара 346 мл,ヒラギノ角ゴシック W2.ttc
+val_00408,1,производитель студия,Noteworthy.ttc
+val_00409,1,телефон торг,STIXGeneralBol.otf
+val_00410,1,ГОДНОСТИ САМОВЫВОЗ,SignPainter.ttc
+val_00411,0,Печенье сумка краснодар,Savoye LET.ttc
+val_00412,1,Курьер,Georgia Bold Italic.ttf
+val_00413,1,China Kinder,ヒラギノ角ゴシック W1.ttc
+val_00414,0,РЕМОНТ,Avenir Next.ttc
+val_00415,0,Nestle Max,AmericanTypewriter.ttc
+val_00416,0,МОСКВА ЧАЙ АККУМУЛЯТОР,Times New Roman Bold Italic.ttf
+val_00417,1,этаж самовывоз,Microsoft Sans Serif.ttf
+val_00418,1,iPhone Xiaomi,Tahoma Bold.ttf
+val_00419,1,+7 (928) 898-21-67,ChalkboardSE.ttc
+val_00420,1,Новосибирск 470%,ヒラギノ角ゴシック W6.ttc
+val_00421,0,Б/У,ヒラギノ明朝 ProN.ttc
+val_00422,0,Noire,ChalkboardSE.ttc
+val_00423,1,ОСТОРОЖНО БАЛКОН АРЕНДА,ヒラギノ角ゴシック W8.ttc
+val_00424,1,шоколад,ヒラギノ角ゴシック W7.ttc
+val_00425,0,орехи хлопок сумка,SignPainter.ttc
+val_00426,0,583 080 р.,Charter.ttc
+val_00427,1,in,AquaKana.ttc
+val_00428,1,осень осень,Cochin.ttc
+val_00429,0,вода,Impact.ttf
+val_00430,1,аренда куплю,Georgia Italic.ttf
+val_00431,1,масса,AquaKana.ttc
+val_00432,0,КОМНАТА,Arial Narrow Bold Italic.ttf
+val_00433,1,осторожно пишите звоните,LucidaGrande.ttc
+val_00434,0,42472 руб.,Thonburi.ttc
+val_00435,0,диван 115 шт,PTSerifCaption.ttc
+val_00436,0,РЕМОНТ НОВАЯ КОЛЯСКА,ヒラギノ角ゴシック W9.ttc
+val_00437,0,АКЦИЯ ЕКАТЕРИНБУРГ ПИШИТЕ,AppleMyungjo.ttf
+val_00438,0,Масса кухня,ヒラギノ角ゴシック W8.ttc
+val_00439,0,500 023 р.,ヒラギノ角ゴシック W2.ttc
+val_00440,0,Size,GillSans.ttc
+val_00441,0,Обмен,NewYork.ttf
+val_00442,1,Quality Size,SuperClarendon.ttc
+val_00443,1,in Philips,Verdana Italic.ttf
+val_00444,1,676 637 р.,ChalkboardSE.ttc
+val_00445,1,При,SFCompactItalic.ttf
+val_00446,1,наушники 212 см,STHeiti Medium.ttc
+val_00447,0,Хлеб,Times.ttc
+val_00448,1,Size SALE,Trattatello.ttf
+val_00449,0,ВАННАЯ,Menlo.ttc
+val_00450,0,324 426 р.,Seravek.ttc
+val_00451,1,хранить 349 г,ヒラギノ角ゴシック W0.ttc
+val_00452,0,Смартфон,Times New Roman Bold Italic.ttf
+val_00453,1,СОСТАВ АВТО ДИСКИ,ヒラギノ丸ゴ ProN W4.ttc
+val_00454,1,состав 423 мл,SFCompact.ttf
+val_00455,1,ПОСУТОЧНО,DIN Alternate Bold.ttf
+val_00456,0,ПАЛЬТО ЦЕНА НОУТБУК,Tahoma.ttf
+val_00457,0,молоко,Songti.ttc
+val_00458,0,ЖЕНСКАЯ,Baskerville.ttc
+val_00459,0,+7 (963) 750-45-31,PTSerif.ttc
+val_00460,1,Москва 296 см,ヒラギノ丸ゴ ProN W4.ttc
+val_00461,0,Noire,STIXTwoText-Italic.ttf
+val_00462,1,гарантия,Avenir Next Condensed.ttc
+val_00463,0,КОЖА КУХНЯ,STHeiti Light.ttc
+val_00464,1,ХЛОПОК,ヒラギノ角ゴシック W8.ttc
+val_00465,0,+7 (950) 753-88-28,Georgia Italic.ttf
+val_00466,1,балкон,SuperClarendon.ttc
+val_00467,1,Toyota Apple,Charter.ttc
+val_00468,1,Ростов мёд изготовитель,AquaKana.ttc
+val_00469,1,температуре 17 мл,STIXGeneralItalic.otf
+val_00470,1,внимание,SignPainter.ttc
+val_00471,1,Самара 108 г,SignPainter.ttc
+val_00472,1,Max,ヒラギノ角ゴシック W5.ttc
+val_00473,0,Платье телефон,PTMono.ttc
+val_00474,0,звоните склад работа,SnellRoundhand.ttc
+val_00475,0,выход комната квартира,Menlo.ttc
+val_00476,0,39487 руб.,Verdana.ttf
+val_00477,1,Женская,Arial Unicode.ttf
+val_00478,0,NEW,Hoefler Text.ttc
+val_00479,0,350 384 р.,HelveticaNeue.ttc
+val_00480,1,59742 руб.,Trebuchet MS.ttf
+val_00481,1,LG Zara,Futura.ttc
+val_00482,1,звоните стулья хлеб,Phosphate.ttc
+val_00483,1,+7 (929) 683-54-87,SuperClarendon.ttc
+val_00484,0,86104 руб.,Trattatello.ttf
+val_00485,0,+7 (915) 399-62-90,ヒラギノ明朝 ProN.ttc
+val_00486,1,+7 (927) 938-84-60,ヒラギノ角ゴシック W5.ttc
+val_00487,0,41496 руб.,ヒラギノ角ゴシック W2.ttc
+val_00488,1,Philips,ChalkboardSE.ttc
+val_00489,1,АРЕНДА ВНИМАНИЕ КАЗАНЬ,SignPainter.ttc
+val_00490,0,этаж курьер куплю,PTMono.ttc
+val_00491,0,Новосибирск,Arial Italic.ttf
+val_00492,1,зарплата качество курьер,PTSans.ttc
+val_00493,1,Apple,NewYorkItalic.ttf
+val_00494,1,Adidas Apple,Andale Mono.ttf
+val_00495,0,Samsung,Comic Sans MS.ttf
+val_00496,1,39252 руб.,Cochin.ttc
+val_00497,0,Сливочное изготовитель,MarkerFelt.ttc
+val_00498,1,срок,ヒラギノ角ゴシック W4.ttc
+val_00499,0,+7 (971) 156-58-17,Athelas.ttc
+val_00500,1,Диски стиральная,MarkerFelt.ttc
+val_00501,1,+7 (901) 877-57-79,ヒラギノ角ゴシック W4.ttc
+val_00502,0,Летняя ростов,AmericanTypewriter.ttc
+val_00503,1,Toyota,Monaco.ttf
+val_00504,1,оригинал продавец,Helvetica.ttc
+val_00505,0,СТУЛЬЯ ПЛОЩАДЬ,ChalkboardSE.ttc
+val_00506,0,79387 руб.,Helvetica.ttc
+val_00507,0,Хранить,ヒラギノ丸ゴ ProN W4.ttc
+val_00508,0,КВАРТИРА,Hoefler Text.ttc
+val_00509,0,Площадь хранить запчасти,Palatino.ttc
+val_00510,1,шерсть звоните,Songti.ttc
+val_00511,0,хит 189 мл,STIXTwoText.ttf
+val_00512,1,+7 (981) 864-87-43,Brush Script.ttf
+val_00513,1,МАШИНА,Hoefler Text.ttc
+val_00514,0,велосипед,ヒラギノ角ゴシック W7.ttc
+val_00515,1,Вход,AppleSDGothicNeo.ttc
+val_00516,0,644 225 р.,SuperClarendon.ttc
+val_00517,1,Этаж,ヒラギノ明朝 ProN.ttc
+val_00518,1,+7 (913) 847-34-10,Arial Unicode.ttf
+val_00519,0,Quality,Rockwell.ttc
+val_00520,1,СКИДКА,Arial Bold.ttf
+val_00521,0,Новый конфеты стиральная,SuperClarendon.ttc
+val_00522,1,кофе,Menlo.ttc
+val_00523,1,Samsung Kinder,Palatino.ttc
+val_00524,0,вода производитель аккумулятор,Arial Narrow.ttf
+val_00525,1,СТОЛ,ヒラギノ角ゴシック W0.ttc
+val_00526,1,ЗИМНЯЯ,STHeiti Medium.ttc
+val_00527,1,ванная 109 мл,DIN Alternate Bold.ttf
+val_00528,0,Холодильник,STHeiti Medium.ttc
+val_00529,1,кожа 246 шт,Avenir Next Condensed.ttc
+val_00530,0,склад конфеты,ヒラギノ角ゴシック W9.ttc
+val_00531,1,НЕТТО СКЛАД МОЛОКО,Palatino.ttc
+val_00532,0,854 816 р.,STHeiti Medium.ttc
+val_00533,1,смартфон зарплата хлопок,Iowan Old Style.ttc
+val_00534,0,ОТКРЫТО АВТО ИЗГОТОВИТЕЛЬ,Iowan Old Style.ttc
+val_00535,1,+7 (957) 605-28-61,Seravek.ttc
+val_00536,1,Size,Hoefler Text.ttc
+val_00537,1,Size,Andale Mono.ttf
+val_00538,1,+7 (927) 716-57-36,Cochin.ttc
+val_00539,0,ОСЕНЬ КОНФЕТЫ КВАРТИРА,Arial Black.ttf
+val_00540,0,LG,Copperplate.ttc
+val_00541,1,Шины,PTSerifCaption.ttc
+val_00542,1,РЕМОНТ ИЗГОТОВИТЕЛЬ,Trattatello.ttf
+val_00543,1,СКИДКА,SFNSItalic.ttf
+val_00544,1,вакансия б/у,SignPainter.ttc
+val_00545,1,шоколад молоко закрыто,Hoefler Text.ttc
+val_00546,1,ПЕЧЕНЬЕ ПЕЧЕНЬЕ,Avenir Next.ttc
+val_00547,1,SALE Apple,ヒラギノ角ゴシック W2.ttc
+val_00548,1,зарплата 39 шт,SnellRoundhand.ttc
+val_00549,1,Самовывоз,Verdana Bold Italic.ttf
+val_00550,1,кофе,ヒラギノ角ゴシック W4.ttc
+val_00551,0,Москва чай,Thonburi.ttc
+val_00552,0,ЗАКРЫТО,LucidaGrande.ttc
+val_00553,1,ХРАНИТЬ,GillSans.ttc
+val_00554,0,52054 руб.,Rockwell.ttc
+val_00555,1,ВХОД ЕКАТЕРИНБУРГ НОВАЯ,Avenir.ttc
+val_00556,1,+7 (977) 600-94-24,ヒラギノ角ゴシック W9.ttc
+val_00557,0,РАБОТА ЗВОНИТЕ НЕТТО,ヒラギノ角ゴシック W5.ttc
+val_00558,1,Закрыто,Courier New.ttf
+val_00559,1,ДИВАН,AquaKana.ttc
+val_00560,0,58752 руб.,Arial Narrow Bold.ttf
+val_00561,0,платье масло,Microsoft Sans Serif.ttf
+val_00562,0,этаж Казань,ChalkboardSE.ttc
+val_00563,0,Toyota Max,Didot.ttc
+val_00564,0,Масса машина зарядка,Athelas.ttc
+val_00565,0,БАЛКОН ПРОИЗВОДИТЕЛЬ,Trebuchet MS.ttf
+val_00566,1,Качество екатеринбург,HelveticaNeue.ttc
+val_00567,1,Магазин санкт-петербург кровать,NewYorkItalic.ttf
+val_00568,0,765 767 р.,Hoefler Text.ttc
+val_00569,0,чай состав звоните,AquaKana.ttc
+val_00570,0,16649 руб.,SuperClarendon.ttc
+val_00571,0,шины 481 мл,ヒラギノ角ゴシック W3.ttc
+val_00572,1,ПЛОЩАДЬ ВЕЛОСИПЕД ТЕМПЕРАТУРЕ,Brush Script.ttf
+val_00573,0,МАШИНА КУПЛЮ,Hiragino Sans GB.ttc
+val_00574,0,Екатеринбург зарплата шерсть,Hiragino Sans GB.ttc
+val_00575,0,Premium,MarkerFelt.ttc
+val_00576,1,летняя 243,Phosphate.ttc
+val_00577,0,+7 (946) 553-72-71,ヒラギノ角ゴシック W6.ttc
+val_00578,1,шины 50 г,STIXGeneral.otf
+val_00579,0,Carte,Noteworthy.ttc
+val_00580,1,ИЗГОТОВИТЕЛЬ,SFNSItalic.ttf
+val_00581,0,337 101 р.,PTSerif.ttc
+val_00582,0,акция Ростов кровать,Palatino.ttc
+val_00583,1,Мёд вакансия акция,Athelas.ttc
+val_00584,1,звоните 318 г,Impact.ttf
+val_00585,1,НОУТБУК КРОССОВКИ РОСТОВ,Trattatello.ttf
+val_00586,1,балкон 3 мл,Songti.ttc
+val_00587,0,+7 (998) 912-82-95,LucidaGrande.ttc
+val_00588,0,+7 (950) 414-44-34,Tahoma Bold.ttf
+val_00589,0,ДЕТСКИЙ,Savoye LET.ttc
+val_00590,0,Стиральная вакансия инструкция,Trebuchet MS Bold.ttf
+val_00591,1,НОВАЯ ПИШИТЕ АВТО,ヒラギノ明朝 ProN.ttc
+val_00592,0,Sony LG,ヒラギノ角ゴシック W8.ttc
+val_00593,0,+7 (992) 979-96-84,Brush Script.ttf
+val_00594,0,Масло,Georgia Italic.ttf
+val_00595,1,+7 (908) 836-48-76,Arial Bold Italic.ttf
+val_00596,1,шоколад Санкт-Петербург Москва,Helvetica.ttc
+val_00597,0,Quality Carte,HelveticaNeue.ttc
+val_00598,1,Осень сыр срок,Thonburi.ttc
+val_00599,0,+7 (963) 545-45-27,STIXTwoText-Italic.ttf
+val_00600,0,продаж кожа запчасти,Savoye LET.ttc
+val_00601,1,+7 (967) 655-18-53,SnellRoundhand.ttc
+val_00602,1,9634 руб.,Songti.ttc
+val_00603,0,КАЧЕСТВО,Marion.ttc
+val_00604,1,НОУТБУК ШКАФ КВАРТИРА,ヒラギノ角ゴシック W5.ttc
+val_00605,0,Ростов,Noteworthy.ttc
+val_00606,1,инструкция,Menlo.ttc
+val_00607,1,Опыт вода опыт,STIXGeneral.otf
+val_00608,1,НОУТБУК,Comic Sans MS.ttf
+val_00609,1,ХИТ ПРОДАВЕЦ ШЕРСТЬ,STHeiti Medium.ttc
+val_00610,1,Pro Nike,SnellRoundhand.ttc
+val_00611,1,Philips Kinder,Andale Mono.ttf
+val_00612,1,Philips,Times.ttc
+val_00613,1,Kinder LG,PTMono.ttc
+val_00614,0,+7 (915) 309-46-62,Marion.ttc
+val_00615,1,производитель курьер,AppleSDGothicNeo.ttc
+val_00616,1,опыт квартира,Helvetica.ttc
+val_00617,0,+7 (964) 572-42-58,Times.ttc
+val_00618,1,НАУШНИКИ КРОССОВКИ,HelveticaNeue.ttc
+val_00619,0,печенье чай,Seravek.ttc
+val_00620,1,машина,Arial Black.ttf
+val_00621,0,инструкция внимание мёд,Georgia Bold Italic.ttf
+val_00622,0,печенье,Arial Black.ttf
+val_00623,1,разбор 446%,Verdana Bold Italic.ttf
+val_00624,0,Санкт-Петербург,MarkerFelt.ttc
+val_00625,1,качество 305 мл,Trebuchet MS Bold.ttf
+val_00626,1,Балкон печенье,PTSans.ttc
+val_00627,0,нетто,Hoefler Text.ttc
+val_00628,1,производитель гарантия ноутбук,Seravek.ttc
+val_00629,1,СКИДКА ГАРАНТИЯ,Comic Sans MS Bold.ttf
+val_00630,0,Б/У,HelveticaNeue.ttc
+val_00631,0,сок,SFNSRounded.ttf
+val_00632,0,пишите,ヒラギノ角ゴシック W0.ttc
+val_00633,1,Шины екатеринбург самара,PTSerifCaption.ttc
+val_00634,0,Телефон холодильник,Comic Sans MS.ttf
+val_00635,0,ДИВАН ВЫХОД,Brush Script.ttf
+val_00636,1,При авто кожа,Palatino.ttc
+val_00637,1,Женская цена диван,Bradley Hand Bold.ttf
+val_00638,1,зимняя 472%,Futura.ttc
+val_00639,0,Срок,Rockwell.ttc
+val_00640,0,КАЧЕСТВО ХИТ АКЦИЯ,Avenir Next Condensed.ttc
+val_00641,0,38395 руб.,Athelas.ttc
+val_00642,0,телефон 193,Hoefler Text.ttc
+val_00643,1,телефон сумка,STIXTwoMath.otf
+val_00644,1,Продам шоколад пишите,Songti.ttc
+val_00645,0,зимняя,Luminari.ttf
+val_00646,1,обмен ванная печенье,ヒラギノ角ゴシック W0.ttc
+val_00647,0,пишите осторожно кровать,Georgia Bold.ttf
+val_00648,0,КОМНАТА НЕТТО НАУШНИКИ,AppleSDGothicNeo.ttc
+val_00649,0,авто,ヒラギノ角ゴシック W6.ttc
+val_00650,1,НОУТБУК Б/У,ヒラギノ明朝 ProN.ttc
+val_00651,0,новая,Menlo.ttc
+val_00652,1,зарядка,Georgia Bold.ttf
+val_00653,0,Noire Adidas,Menlo.ttc
+val_00654,1,АРЕНДА КОНФЕТЫ СТИРАЛЬНАЯ,Baskerville.ttc
+val_00655,1,Lada BMW,PTSans.ttc
+val_00656,0,Внимание весна б/у,Courier New.ttf
+val_00657,1,торг,Arial Narrow Bold.ttf
+val_00658,0,Kinder,Arial Narrow Bold Italic.ttf
+val_00659,1,30710 руб.,Arial Unicode.ttf
+val_00660,0,продам,Courier New.ttf
+val_00661,0,размер 391 мл,MarkerFelt.ttc
+val_00662,0,СОК ДЕТСКИЙ,Marion.ttc
+val_00663,0,934 941 р.,Marion.ttc
+val_00664,0,23848 руб.,ヒラギノ明朝 ProN.ttc
+val_00665,0,Состав годности стол,Seravek.ttc
+val_00666,1,орехи коляска,Hoefler Text.ttc
+val_00667,1,хит шоколад,Rockwell.ttc
+val_00668,1,КУРТКА СРОК НОВЫЙ,SuperClarendon.ttc
+val_00669,0,смартфон коляска,Charter.ttc
+val_00670,0,стол 244%,MarkerFelt.ttc
+val_00671,1,Омск 3 см,SignPainter.ttc
+val_00672,0,РОСТОВ АРЕНДА,ChalkboardSE.ttc
+val_00673,1,92570 руб.,Impact.ttf
+val_00674,0,продаж обмен,Times New Roman Bold Italic.ttf
+val_00675,0,Казань,Arial Narrow.ttf
+val_00676,1,Nestle,ヒラギノ角ゴシック W7.ttc
+val_00677,0,цена гарантия,Arial.ttf
+val_00678,1,акция Краснодар,Didot.ttc
+val_00679,1,+7 (991) 340-72-36,Didot.ttc
+val_00680,1,холодильник стол торг,Charter.ttc
+val_00681,1,Zara Zara,Arial Black.ttf
+val_00682,0,IKEA,PTSerif.ttc
+val_00683,1,Made,Helvetica.ttc
+val_00684,0,94428 руб.,Tahoma Bold.ttf
+val_00685,1,продам,Trebuchet MS Bold.ttf
+val_00686,0,ШЕРСТЬ ХОЛОДИЛЬНИК КРАСНОДАР,Trebuchet MS Italic.ttf
+val_00687,1,Ростов печенье,Songti.ttc
+val_00688,1,сумка платье шерсть,Helvetica.ttc
+val_00689,0,новая скидка размер,Times New Roman Bold.ttf
+val_00690,0,студия детский,SFNSMonoItalic.ttf
+val_00691,1,САМОВЫВОЗ ЦЕНА,STIXGeneralBol.otf
+val_00692,0,натуральная посуточно Санкт-Петербург,ヒラギノ角ゴシック W4.ttc
+val_00693,0,РАБОТА,Baskerville.ttc
+val_00694,0,ШКАФ КРАСНОДАР АРЕНДА,NewYorkItalic.ttf
+val_00695,0,КАЧЕСТВО РАЗБОР,LucidaGrande.ttc
+val_00696,0,При пишите краснодар,ヒラギノ丸ゴ ProN W4.ttc
+val_00697,0,нетто продавец,Iowan Old Style.ttc
+val_00698,0,Состав,ヒラギノ丸ゴ ProN W4.ttc
+val_00699,0,ХЛОПОК,ヒラギノ角ゴシック W0.ttc
+val_00700,0,+7 (948) 263-11-91,Noteworthy.ttc
+val_00701,0,сок авто обмен,Menlo.ttc
+val_00702,1,сливочное площадь торг,Marion.ttc
+val_00703,0,курьер ванная,Courier New Bold.ttf
+val_00704,1,Premium,Bradley Hand Bold.ttf
+val_00705,0,ванная 47 г,Palatino.ttc
+val_00706,1,Краснодар телефон,AppleGothic.ttf
+val_00707,1,+7 (905) 301-71-60,DIN Alternate Bold.ttf
+val_00708,0,продавец запчасти,STIXGeneralItalic.otf
+val_00709,1,обмен ванная,Trebuchet MS.ttf
+val_00710,0,график диски продам,Cochin.ttc
+val_00711,0,авто шины,ヒラギノ角ゴシック W3.ttc
+val_00712,1,аренда график мужская,Luminari.ttf
+val_00713,0,65839 руб.,Rockwell.ttc
+val_00714,0,конфеты сок,PTSans.ttc
+val_00715,0,температуре посуточно диски,Arial Narrow.ttf
+val_00716,1,печенье продавец,SnellRoundhand.ttc
+val_00717,0,ЗАРЯДКА ДЕТСКИЙ КУРЬЕР,Hiragino Sans GB.ttc
+val_00718,0,Екатеринбург 109 см,Georgia Italic.ttf
+val_00719,0,мёд,PTMono.ttc
+val_00720,1,+7 (907) 478-85-97,SFCompact.ttf
+val_00721,1,КРАСНОДАР,Times.ttc
+val_00722,1,сыр открыто,PTSerif.ttc
+val_00723,1,Zara Carte,Trattatello.ttf
+val_00724,0,кофе склад аренда,MarkerFelt.ttc
+val_00725,0,Кровать летняя,MarkerFelt.ttc
+val_00726,0,продаж 353 г,Courier New.ttf
+val_00727,0,Nestle,Arial Unicode.ttf
+val_00728,0,+7 (937) 487-22-46,ヒラギノ角ゴシック W5.ttc
+val_00729,0,Звоните,Hoefler Text.ttc
+val_00730,0,Москва мёд,Impact.ttf
+val_00731,1,велосипед хлеб,Didot.ttc
+val_00732,1,акция,DIN Condensed Bold.ttf
+val_00733,1,аккумулятор масса аккумулятор,Palatino.ttc
+val_00734,0,нетто 419 см,STIXGeneralBol.otf
+val_00735,1,Работа казань график,Ayuthaya.ttf
+val_00736,0,Philips,ヒラギノ角ゴシック W4.ttc
+val_00737,0,торг скидка зарядка,Rockwell.ttc
+val_00738,0,скидка,ヒラギノ角ゴシック W6.ttc
+val_00739,1,706 354 р.,Avenir.ttc
+val_00740,1,ПЛОЩАДЬ ПЛАТЬЕ,Seravek.ttc
+val_00741,0,+7 (961) 926-37-41,Palatino.ttc
+val_00742,1,+7 (925) 214-81-35,AmericanTypewriter.ttc
+val_00743,1,Carte,SFCompact.ttf
+val_00744,0,+7 (950) 831-46-45,Arial.ttf
+val_00745,0,IKEA,STIXTwoText-Italic.ttf
+val_00746,0,ХЛОПОК АРЕНДА КУРТКА,SnellRoundhand.ttc
+val_00747,0,опыт аренда мёд,Copperplate.ttc
+val_00748,0,Nestle,Hoefler Text.ttc
+val_00749,0,ЗАКРЫТО,PTSerif.ttc
+val_00750,0,ТЕМПЕРАТУРЕ,Hoefler Text.ttc
+val_00751,0,ДИВАН,Hoefler Text.ttc
+val_00752,0,График,AmericanTypewriter.ttc
+val_00753,1,САНКТ-ПЕТЕРБУРГ,PTSerif.ttc
+val_00754,1,Зарплата вода,Bradley Hand Bold.ttf
+val_00755,0,Диски коляска,ヒラギノ角ゴシック W5.ttc
+val_00756,1,КРОВАТЬ ВХОД РАЗМЕР,Songti.ttc
+val_00757,0,звоните доставка,PTSerif.ttc
+val_00758,0,сыр,PTSerif.ttc
+val_00759,0,ДЕТСКИЙ РАЗМЕР ГАРАНТИЯ,Charter.ttc
+val_00760,1,масло диван,AppleSDGothicNeo.ttc
+val_00761,1,+7 (965) 465-29-79,ヒラギノ丸ゴ ProN W4.ttc
+val_00762,1,пишите,ヒラギノ角ゴシック W2.ttc
+val_00763,1,+7 (918) 401-56-71,ヒラギノ角ゴシック W0.ttc
+val_00764,0,95233 руб.,Athelas.ttc
+val_00765,0,АВТО ЗАКРЫТО,Charter.ttc
+val_00766,0,ОРЕХИ КОЛЯСКА,SFCompactItalic.ttf
+val_00767,1,Carte NEW,Arial Black.ttf
+val_00768,1,ДЕТСКИЙ,Arial Narrow Bold Italic.ttf
+val_00769,1,36240 руб.,ヒラギノ明朝 ProN.ttc
+val_00770,1,Детский срок,Helvetica.ttc
+val_00771,1,825 702 р.,Verdana.ttf
+val_00772,1,квартира,SuperClarendon.ttc
+val_00773,1,+7 (952) 377-62-62,Avenir Next.ttc
+val_00774,1,+7 (944) 330-56-57,Monaco.ttf
+val_00775,0,+7 (937) 532-25-42,Menlo.ttc
+val_00776,0,Омск,Luminari.ttf
+val_00777,0,Сумка аккумулятор,ヒラギノ角ゴシック W6.ttc
+val_00778,1,НОВОСИБИРСК КАЧЕСТВО,Seravek.ttc
+val_00779,1,шины,Phosphate.ttc
+val_00780,0,Срок,Andale Mono.ttf
+val_00781,1,продавец,Palatino.ttc
+val_00782,1,при 181,HelveticaNeue.ttc
+val_00783,1,76632 руб.,HelveticaNeue.ttc
+val_00784,1,ГОДНОСТИ,Times New Roman Bold.ttf
+val_00785,0,Оригинал качество наушники,Times New Roman Bold Italic.ttf
+val_00786,1,36885 руб.,STIXTwoMath.otf
+val_00787,0,кожа куртка,HelveticaNeue.ttc
+val_00788,0,СОК ДИВАН,Rockwell.ttc
+val_00789,0,+7 (977) 737-59-20,Songti.ttc
+val_00790,0,Хлеб осень,Trattatello.ttf
+val_00791,0,ЖЕНСКАЯ ХРАНИТЬ СУМКА,PTSans.ttc
+val_00792,1,+7 (919) 866-39-94,Hiragino Sans GB.ttc
+val_00793,0,ЗВОНИТЕ,Palatino.ttc
+val_00794,1,Летняя,PTSerif.ttc
+val_00795,1,iPhone,Verdana Bold.ttf
+val_00796,1,IKEA,PTSans.ttc
+val_00797,1,Зарядка кофе платье,Helvetica.ttc
+val_00798,1,внимание,SFNSItalic.ttf
+val_00799,0,Сок,Marion.ttc
+val_00800,1,вода Казань осторожно,SnellRoundhand.ttc
+val_00801,0,84526 руб.,Cochin.ttc
+val_00802,1,диски,ヒラギノ角ゴシック W3.ttc
+val_00803,0,Масло студия запчасти,Thonburi.ttc
+val_00804,1,1638 руб.,Courier New Bold Italic.ttf
+val_00805,0,iPhone,Copperplate.ttc
+val_00806,0,Size Xiaomi,AmericanTypewriter.ttc
+val_00807,0,26516 руб.,Thonburi.ttc
+val_00808,0,ПОСУТОЧНО ШОКОЛАД ЗАРПЛАТА,Copperplate.ttc
+val_00809,0,аккумулятор кожа,AquaKana.ttc
+val_00810,1,Max Pro,HelveticaNeue.ttc
+val_00811,1,128 036 р.,HelveticaNeue.ttc
+val_00812,0,Чай доставка,Palatino.ttc
+val_00813,0,качество,STIXGeneralBolIta.otf
+val_00814,1,МАГАЗИН ГАРАНТИЯ САМАРА,AppleSDGothicNeo.ttc
+val_00815,1,Samsung,NewYorkItalic.ttf
+val_00816,1,акция Новосибирск балкон,STIXGeneral.otf
+val_00817,0,ремонт 280 см,Cochin.ttc
+val_00818,1,+7 (992) 994-46-19,ヒラギノ角ゴシック W7.ttc
+val_00819,1,38401 руб.,SuperClarendon.ttc
+val_00820,1,водитель 150,Rockwell.ttc
+val_00821,0,Санкт-Петербург стиральная хлеб,Copperplate.ttc
+val_00822,0,ПРОДАМ КОМНАТА,STHeiti Medium.ttc
+val_00823,0,Apple,Didot.ttc
+val_00824,1,472 845 р.,AppleSDGothicNeo.ttc
+val_00825,0,авто,AmericanTypewriter.ttc
+val_00826,1,Самара состав,STHeiti Light.ttc
+val_00827,0,Xiaomi BMW,Helvetica.ttc
+val_00828,1,открыто,Courier New Bold Italic.ttf
+val_00829,1,Samsung,Avenir Next.ttc
+val_00830,1,открыто,AppleSDGothicNeo.ttc
+val_00831,1,КУХНЯ СЛИВОЧНОЕ,Arial Bold.ttf
+val_00832,1,Made,STIXTwoMath.otf
+val_00833,0,Кожа санкт-петербург весна,SFCompact.ttf
+val_00834,1,новый телефон,ヒラギノ明朝 ProN.ttc
+val_00835,1,РОСТОВ ЕКАТЕРИНБУРГ,Thonburi.ttc
+val_00836,1,Pro,Courier New Bold.ttf
+val_00837,1,90973 руб.,Hoefler Text.ttc
+val_00838,1,SALE Nestle,STIXGeneralBolIta.otf
+val_00839,1,747 082 р.,Cochin.ttc
+val_00840,0,ПРОДАМ СМАРТФОН,Athelas.ttc
+val_00841,1,б/у сыр,Copperplate.ttc
+val_00842,0,КРАСНОДАР РОСТОВ ВАКАНСИЯ,ヒラギノ角ゴシック W0.ttc
+val_00843,0,Carte IKEA,ヒラギノ角ゴシック W5.ttc
+val_00844,0,МОЛОКО,Palatino.ttc
+val_00845,0,опыт шоколад,STIXGeneralBolIta.otf
+val_00846,0,940 060 р.,Menlo.ttc
+val_00847,0,Philips Samsung,Times.ttc
+val_00848,0,+7 (937) 679-69-48,Rockwell.ttc
+val_00849,1,хлеб,Hoefler Text.ttc
+val_00850,1,64 185 р.,NewYorkItalic.ttf
+val_00851,0,кроссовки 259,Athelas.ttc
+val_00852,0,платье куртка куртка,Menlo.ttc
+val_00853,1,срок,Avenir.ttc
+val_00854,1,+7 (979) 660-79-20,Arial Italic.ttf
+val_00855,0,ЗАПЧАСТИ НОУТБУК СЛИВОЧНОЕ,STIXGeneralBolIta.otf
+val_00856,0,Оригинал,Avenir Next.ttc
+val_00857,1,in,Marion.ttc
+val_00858,0,ВЕЛОСИПЕД ЗИМНЯЯ,Noteworthy.ttc
+val_00859,1,шоколад 26 см,ヒラギノ角ゴシック W8.ttc
+val_00860,1,Xiaomi Toyota,Athelas.ttc
+val_00861,0,Quality Xiaomi,Palatino.ttc
+val_00862,1,NEW Lada,Athelas.ttc
+val_00863,0,хлеб доставка велосипед,Baskerville.ttc
+val_00864,0,МАСЛО,Hiragino Sans GB.ttc
+val_00865,1,мёд 174 г,Athelas.ttc
+val_00866,1,Санкт-Петербург,MarkerFelt.ttc
+val_00867,0,БАЛКОН ЖЕНСКАЯ,Phosphate.ttc
+val_00868,0,771 135 р.,LucidaGrande.ttc
+val_00869,1,41142 руб.,Cochin.ttc
+val_00870,1,кроссовки нетто,Songti.ttc
+val_00871,0,КОФЕ,AmericanTypewriter.ttc
+val_00872,1,печенье,STHeiti Light.ttc
+val_00873,1,Size Made,ヒラギノ角ゴシック W6.ttc
+val_00874,1,ХРАНИТЬ,Palatino.ttc
+val_00875,1,инструкция опыт график,Arial Narrow Bold Italic.ttf
+val_00876,0,ЧАЙ ПОСУТОЧНО ТЕМПЕРАТУРЕ,Athelas.ttc
+val_00877,1,LG Noire,Copperplate.ttc
+val_00878,1,+7 (922) 719-40-82,GillSans.ttc
+val_00879,0,ХРАНИТЬ ВЕЛОСИПЕД СТИРАЛЬНАЯ,Courier New.ttf
+val_00880,0,вход хранить,AppleSDGothicNeo.ttc
+val_00881,0,ТЕМПЕРАТУРЕ ЗВОНИТЕ,Baskerville.ttc
+val_00882,1,доставка площадь,Copperplate.ttc
+val_00883,1,1666 руб.,Seravek.ttc
+val_00884,1,Size Nike,Baskerville.ttc
+val_00885,0,АКЦИЯ КОФЕ НАТУРАЛЬНАЯ,ヒラギノ角ゴシック W0.ttc
+val_00886,0,запчасти наушники кроссовки,Verdana.ttf
+val_00887,1,САМАРА,Trebuchet MS Italic.ttf
+val_00888,1,СЫР РЕМОНТ МАСЛО,HelveticaNeue.ttc
+val_00889,1,женская мёд масло,ヒラギノ角ゴシック W0.ttc
+val_00890,1,9784 руб.,Arial Narrow Italic.ttf
+val_00891,1,ГАРАНТИЯ КУПЛЮ,HelveticaNeue.ttc
+val_00892,1,Срок склад магазин,AppleGothic.ttf
+val_00893,1,масса куплю,AmericanTypewriter.ttc
+val_00894,1,Zara,Impact.ttf
+val_00895,0,Омск 350 г,Brush Script.ttf
+val_00896,1,диски,NewYorkItalic.ttf
+val_00897,0,Сливочное куплю,Songti.ttc
+val_00898,0,МАГАЗИН ГАРАНТИЯ ОСЕНЬ,ヒラギノ角ゴシック W5.ttc
+val_00899,0,продавец студия,ヒラギノ明朝 ProN.ttc
+val_00900,0,мёд ремонт,ヒラギノ角ゴシック W7.ttc
+val_00901,1,конфеты,Trebuchet MS Bold Italic.ttf
+val_00902,1,машина 368 мл,Times New Roman Bold.ttf
+val_00903,0,производитель шкаф зарядка,Copperplate.ttc
+val_00904,0,смартфон 470 г,Iowan Old Style.ttc
+val_00905,1,BMW,Verdana Bold.ttf
+val_00906,0,НАУШНИКИ,Athelas.ttc
+val_00907,1,телефон вакансия осень,SFCompactRounded.ttf
+val_00908,1,САМОВЫВОЗ САМАРА,PTSerif.ttc
+val_00909,0,212 358 р.,Bradley Hand Bold.ttf
+val_00910,1,SALE,PTSerif.ttc
+val_00911,1,Nestle,ヒラギノ角ゴシック W2.ttc
+val_00912,0,шоколад,DIN Condensed Bold.ttf
+val_00913,0,+7 (908) 592-58-25,Savoye LET.ttc
+val_00914,1,ДЕТСКИЙ МОСКВА НОУТБУК,Seravek.ttc
+val_00915,0,весна диван,STIXTwoText-Italic.ttf
+val_00916,1,шины 292%,SFNSMonoItalic.ttf
+val_00917,1,21462 руб.,Courier New Bold.ttf
+val_00918,1,Сыр смартфон,Arial Bold Italic.ttf
+val_00919,1,971 939 р.,ヒラギノ明朝 ProN.ttc
+val_00920,0,КОМНАТА КОЖА,SnellRoundhand.ttc
+val_00921,0,Made,Iowan Old Style.ttc
+val_00922,0,СЛИВОЧНОЕ,Helvetica.ttc
+val_00923,1,Краснодар,Georgia Bold Italic.ttf
+val_00924,1,НОВЫЙ,ヒラギノ角ゴシック W2.ttc
+val_00925,1,+7 (910) 778-85-24,SuperClarendon.ttc
+val_00926,1,+7 (931) 424-95-80,PTSerif.ttc
+val_00927,0,годности курьер,Noteworthy.ttc
+val_00928,1,LG,HelveticaNeue.ttc
+val_00929,0,РАЗМЕР,GillSans.ttc
+val_00930,0,посуточно орехи Екатеринбург,Seravek.ttc
+val_00931,0,ОСЕНЬ СТУДИЯ,Cochin.ttc
+val_00932,0,94 151 р.,ヒラギノ角ゴシック W7.ttc
+val_00933,0,+7 (901) 358-51-14,Ayuthaya.ttf
+val_00934,0,482 553 р.,ヒラギノ角ゴシック W8.ttc
+val_00935,1,Состав инструкция,HelveticaNeue.ttc
+val_00936,0,Годности куплю,Charter.ttc
+val_00937,0,натуральная 431 г,GillSans.ttc
+val_00938,0,+7 (904) 147-74-79,ヒラギノ角ゴシック W7.ttc
+val_00939,0,кроссовки 64 г,Times New Roman Bold Italic.ttf
+val_00940,1,+7 (971) 353-66-86,Trebuchet MS Italic.ttf
+val_00941,1,Noire BMW,Verdana Italic.ttf
+val_00942,0,опыт,PTSerif.ttc
+val_00943,1,торг зарядка,PTMono.ttc
+val_00944,1,аккумулятор пальто стиральная,Marion.ttc
+val_00945,0,+7 (978) 768-30-42,ヒラギノ角ゴシック W4.ttc
+val_00946,0,стулья,ヒラギノ角ゴシック W3.ttc
+val_00947,1,1504 руб.,Geneva.ttf
+val_00948,1,хранить,ChalkboardSE.ttc
+val_00949,1,чай,PTSerifCaption.ttc
+val_00950,1,ВАННАЯ ВЕЛОСИПЕД,Didot.ttc
+val_00951,1,+7 (949) 205-21-84,Times New Roman Italic.ttf
+val_00952,0,Philips Made,HelveticaNeue.ttc
+val_00953,1,+7 (936) 874-10-22,PTSans.ttc
+val_00954,1,LG Adidas,Copperplate.ttc
+val_00955,1,Premium Samsung,Ayuthaya.ttf
+val_00956,0,+7 (939) 306-47-74,Rockwell.ttc
+val_00957,1,Диван продаж мужская,PTMono.ttc
+val_00958,0,201 024 р.,ヒラギノ角ゴシック W3.ttc
+val_00959,0,состав осторожно,Hoefler Text.ttc
+val_00960,1,ВОДИТЕЛЬ ВХОД ХИТ,Microsoft Sans Serif.ttf
+val_00961,0,+7 (924) 159-98-20,Baskerville.ttc
+val_00962,1,Toyota Pro,SFNSMonoItalic.ttf
+val_00963,1,осень продавец,STIXGeneralBolIta.otf
+val_00964,0,Чай краснодар,ヒラギノ角ゴシック W6.ttc
+val_00965,1,Опыт ноутбук,AmericanTypewriter.ttc
+val_00966,0,Carte Zara,AppleSDGothicNeo.ttc
+val_00967,1,ДИВАН,Trebuchet MS Italic.ttf
+val_00968,1,+7 (977) 145-71-76,SignPainter.ttc
+val_00969,0,ВОДА,Palatino.ttc
+val_00970,1,мужская,PTSerif.ttc
+val_00971,1,Москва 379 см,Arial Narrow Bold.ttf
+val_00972,0,ремонт склад ремонт,Courier New Bold.ttf
+val_00973,1,+7 (914) 486-83-42,Avenir Next.ttc
+val_00974,1,холодильник 365%,LucidaGrande.ttc
+val_00975,0,10567 руб.,Hiragino Sans GB.ttc
+val_00976,1,46052 руб.,SignPainter.ttc
+val_00977,1,+7 (950) 903-89-31,Times New Roman Bold Italic.ttf
+val_00978,1,производитель 290 г,ヒラギノ明朝 ProN.ttc
+val_00979,0,+7 (930) 744-44-76,Seravek.ttc
+val_00980,1,ОСТОРОЖНО,ヒラギノ角ゴシック W8.ttc
+val_00981,1,работа 78,MarkerFelt.ttc
+val_00982,0,детский 499 г,STIXTwoText-Italic.ttf
+val_00983,1,Toyota,MarkerFelt.ttc
+val_00984,0,Б/у,AppleSDGothicNeo.ttc
+val_00985,1,смартфон 316 г,Seravek.ttc
+val_00986,1,осторожно продам,ヒラギノ角ゴシック W3.ttc
+val_00987,0,36607 руб.,PTSerif.ttc
+val_00988,0,+7 (969) 793-55-45,ChalkboardSE.ttc
+val_00989,1,China,SFNSMono.ttf
+val_00990,0,наушники стиральная смартфон,PTMono.ttc
+val_00991,0,+7 (925) 893-45-49,GillSans.ttc
+val_00992,0,ЗИМНЯЯ ОТКРЫТО ЗАРЯДКА,Seravek.ttc
+val_00993,0,ЗВОНИТЕ КУРЬЕР,Avenir Next Condensed.ttc
+val_00994,1,диски,Helvetica.ttc
+val_00995,0,+7 (905) 627-38-65,Trebuchet MS.ttf
+val_00996,0,курьер сумка обмен,GillSans.ttc
+val_00997,1,НОВОСИБИРСК КОЖА,Rockwell.ttc
+val_00998,0,Зарядка,SnellRoundhand.ttc
+val_00999,0,запчасти,Palatino.ttc
+val_01000,1,Nestle,Noteworthy.ttc
+val_01001,0,Bosch,ヒラギノ明朝 ProN.ttc
+val_01002,1,АРЕНДА СТИРАЛЬНАЯ,PTSerifCaption.ttc
+val_01003,0,Температуре качество,ヒラギノ角ゴシック W0.ttc
+val_01004,0,состав ванная,Marion.ttc
+val_01005,0,курьер водитель,ヒラギノ角ゴシック W7.ttc
+val_01006,0,Казань самовывоз,Verdana Bold Italic.ttf
+val_01007,1,ВНИМАНИЕ ПРОДАМ,Comic Sans MS Bold.ttf
+val_01008,1,+7 (981) 771-14-35,ヒラギノ丸ゴ ProN W4.ttc
+val_01009,0,САМОВЫВОЗ СУМКА ЖЕНСКАЯ,STIXTwoText.ttf
+val_01010,1,сливочное натуральная,ChalkboardSE.ttc
+val_01011,1,+7 (935) 565-69-10,SuperClarendon.ttc
+val_01012,1,NEW,ヒラギノ角ゴシック W3.ttc
+val_01013,0,ремонт куртка мёд,ヒラギノ角ゴシック W6.ttc
+val_01014,0,Натуральная курьер,Hiragino Sans GB.ttc
+val_01015,0,NEW,Charter.ttc
+val_01016,0,велосипед размер,STIXGeneral.otf
+val_01017,0,сумка пальто,SFNSItalic.ttf
+val_01018,0,студия 368 г,MarkerFelt.ttc
+val_01019,1,+7 (956) 791-81-29,Avenir Next Condensed.ttc
+val_01020,0,посуточно Самара при,AppleMyungjo.ttf
+val_01021,0,ОСЕНЬ,Baskerville.ttc
+val_01022,0,+7 (976) 108-23-93,Palatino.ttc
+val_01023,1,76054 руб.,Avenir Next.ttc
+val_01024,0,вода 324 г,MarkerFelt.ttc
+val_01025,1,Зарядка хит этаж,Verdana Bold Italic.ttf
+val_01026,0,Посуточно шины,Arial Narrow Bold.ttf
+val_01027,1,Sony,Monaco.ttf
+val_01028,1,Pro Philips,PTSans.ttc
+val_01029,0,+7 (998) 705-89-65,SFNSMonoItalic.ttf
+val_01030,1,ГАРАНТИЯ МАШИНА,STIXTwoText-Italic.ttf
+val_01031,1,Квартира диван,LucidaGrande.ttc
+val_01032,1,619 658 р.,AquaKana.ttc
+val_01033,1,+7 (900) 962-61-79,Times.ttc
+val_01034,1,+7 (991) 531-30-46,Rockwell.ttc
+val_01035,0,НОВЫЙ,Hiragino Sans GB.ttc
+val_01036,0,11259 руб.,Thonburi.ttc
+val_01037,0,Продам,Palatino.ttc
+val_01038,1,посуточно срок зимняя,Thonburi.ttc
+val_01039,0,BMW Zara,Savoye LET.ttc
+val_01040,0,ПЕЧЕНЬЕ,Andale Mono.ttf
+val_01041,0,iPhone,Geneva.ttf
+val_01042,0,ПРОИЗВОДИТЕЛЬ ШКАФ,Baskerville.ttc
+val_01043,0,Посуточно,Charter.ttc
+val_01044,1,ВОДИТЕЛЬ,Verdana Bold.ttf
+val_01045,0,+7 (946) 740-49-73,Tahoma Bold.ttf
+val_01046,0,б/у акция,Cochin.ttc
+val_01047,1,+7 (906) 348-11-45,STHeiti Medium.ttc
+val_01048,1,+7 (900) 787-84-27,Noteworthy.ttc
+val_01049,0,НЕТТО,ヒラギノ角ゴシック W4.ttc
+val_01050,1,СЫР,MarkerFelt.ttc
+val_01051,0,Работа изготовитель пишите,SFCompact.ttf
+val_01052,1,наушники,ヒラギノ角ゴシック W0.ttc
+val_01053,1,LG,Avenir Next.ttc
+val_01054,0,Годности изготовитель,STHeiti Medium.ttc
+val_01055,0,производитель опыт Самара,ヒラギノ角ゴシック W6.ttc
+val_01056,1,ПРИ КРАСНОДАР ЦЕНА,Courier New Bold Italic.ttf
+val_01057,1,Ростов,PTSans.ttc
+val_01058,1,аккумулятор,Luminari.ttf
+val_01059,1,+7 (989) 489-17-80,Marion.ttc
+val_01060,1,Зарядка самара комната,PTSerifCaption.ttc
+val_01061,1,МОЛОКО СТУДИЯ,PTSans.ttc
+val_01062,0,Казань водитель,Rockwell.ttc
+val_01063,1,Nestle,Hoefler Text.ttc
+val_01064,1,Балкон акция,ヒラギノ角ゴシック W8.ttc
+val_01065,0,Самара,Avenir Next.ttc
+val_01066,1,женская 438 мл,Trebuchet MS.ttf
+val_01067,1,ЧАЙ ЗВОНИТЕ,SuperClarendon.ttc
+val_01068,1,+7 (954) 739-61-69,ヒラギノ角ゴシック W9.ttc
+val_01069,1,318 325 р.,ヒラギノ角ゴシック W0.ttc
+val_01070,1,30052 руб.,Times New Roman Italic.ttf
+val_01071,1,балкон 239 г,Hoefler Text.ttc
+val_01072,0,Омск,Geneva.ttf
+val_01073,1,Toyota,ヒラギノ角ゴシック W2.ttc
+val_01074,0,BMW Bosch,Times.ttc
+val_01075,1,доставка температуре,DIN Alternate Bold.ttf
+val_01076,0,СТУЛЬЯ ВЫХОД,DIN Alternate Bold.ttf
+val_01077,1,детский 310 г,Palatino.ttc
+val_01078,0,ремонт ванная,Times New Roman Italic.ttf
+val_01079,1,651 959 р.,Trebuchet MS Bold.ttf
+val_01080,0,509 281 р.,NewYorkItalic.ttf
+val_01081,0,in,Marion.ttc
+val_01082,1,орехи 411 см,Athelas.ttc
+val_01083,1,Original,Hoefler Text.ttc
+val_01084,0,график 479 мл,Marion.ttc
+val_01085,0,продавец,Palatino.ttc
+val_01086,1,51604 руб.,Hoefler Text.ttc
+val_01087,1,BMW,Hoefler Text.ttc
+val_01088,0,сумка стол внимание,Helvetica.ttc
+val_01089,0,Xiaomi China,PTSerifCaption.ttc
+val_01090,1,наушники площадь,Arial Narrow Bold.ttf
+val_01091,1,+7 (935) 373-44-85,Avenir Next Condensed.ttc
+val_01092,0,Инструкция квартира,Trebuchet MS.ttf
+val_01093,1,кожа 335 г,Seravek.ttc
+val_01094,1,Кожа натуральная комната,ヒラギノ丸ゴ ProN W4.ttc
+val_01095,0,BMW Zara,STIXGeneral.otf
+val_01096,0,Открыто,SFCompactRounded.ttf
+val_01097,0,+7 (974) 970-24-72,ヒラギノ角ゴシック W2.ttc
+val_01098,0,China,Times New Roman Bold.ttf
+val_01099,1,ремонт,STIXGeneralBolIta.otf
+val_01100,1,Adidas Quality,Noteworthy.ttc
+val_01101,0,Инструкция,Seravek.ttc
+val_01102,0,+7 (979) 361-17-40,Iowan Old Style.ttc
+val_01103,1,График диски смартфон,PTSerifCaption.ttc
+val_01104,1,81568 руб.,STIXTwoMath.otf
+val_01105,1,Кухня годности масса,ChalkboardSE.ttc
+val_01106,1,цена 462,Menlo.ttc
+val_01107,0,116 868 р.,DIN Condensed Bold.ttf
+val_01108,0,Philips BMW,Copperplate.ttc
+val_01109,1,602 руб.,SFCompact.ttf
+val_01110,0,+7 (963) 832-13-12,ヒラギノ丸ゴ ProN W4.ttc
+val_01111,1,ПРОИЗВОДИТЕЛЬ ОРИГИНАЛ,Marion.ttc
+val_01112,0,IKEA SALE,Hoefler Text.ttc
+val_01113,0,посуточно мужская хлеб,Sathu.ttf
+val_01114,0,склад 448 шт,Times.ttc
+val_01115,1,молоко,AppleSDGothicNeo.ttc
+val_01116,1,печенье,ヒラギノ角ゴシック W3.ttc
+val_01117,1,сумка 100 шт,Times.ttc
+val_01118,0,зарядка 115 мл,PTSerif.ttc
+val_01119,1,ПЛОЩАДЬ КРАСНОДАР,Arial Narrow Italic.ttf
+val_01120,0,61147 руб.,GillSans.ttc
+val_01121,0,Кожа велосипед детский,ヒラギノ角ゴシック W8.ttc
+val_01122,0,+7 (945) 533-37-31,ヒラギノ角ゴシック W3.ttc
+val_01123,1,КУПЛЮ ПРОДАЖ НАТУРАЛЬНАЯ,SnellRoundhand.ttc
+val_01124,0,ХРАНИТЬ АВТО,ヒラギノ角ゴシック W0.ttc
+val_01125,0,пальто срок натуральная,AmericanTypewriter.ttc
+val_01126,0,пишите холодильник самовывоз,ヒラギノ角ゴシック W6.ttc
+val_01127,1,СЫР ОСЕНЬ ЧАЙ,SignPainter.ttc
+val_01128,1,МАССА,Trebuchet MS Bold Italic.ttf
+val_01129,0,+7 (966) 720-95-55,ヒラギノ角ゴシック W3.ttc
+val_01130,1,Холодильник,Athelas.ttc
+val_01131,1,in,SnellRoundhand.ttc
+val_01132,1,58340 руб.,PTSerif.ttc
+val_01133,1,водитель масса водитель,Arial Italic.ttf
+val_01134,0,инструкция 200%,Seravek.ttc
+val_01135,0,Noire Original,DIN Condensed Bold.ttf
+val_01136,0,КОНФЕТЫ,Arial Narrow Bold.ttf
+val_01137,1,при цена Самара,ChalkboardSE.ttc
+val_01138,0,Хлопок омск,Tahoma.ttf
+val_01139,0,Екатеринбург,HelveticaNeue.ttc
+val_01140,1,АКЦИЯ КАЧЕСТВО САМОВЫВОЗ,GillSans.ttc
+val_01141,0,ОРЕХИ ВОДА КАЗАНЬ,Cochin.ttc
+val_01142,1,балкон хлеб,Athelas.ttc
+val_01143,1,осень велосипед осень,Arial Black.ttf
+val_01144,0,ОБМЕН,Tahoma.ttf
+val_01145,0,487 763 р.,Brush Script.ttf
+val_01146,0,704 678 р.,PTSerifCaption.ttc
+val_01147,1,Pro,ヒラギノ角ゴシック W9.ttc
+val_01148,0,Сливочное,SuperClarendon.ttc
+val_01149,1,осторожно,ヒラギノ角ゴシック W1.ttc
+val_01150,1,При,PTSerif.ttc
+val_01151,1,обмен 398,PTMono.ttc
+val_01152,1,вход,ヒラギノ丸ゴ ProN W4.ttc
+val_01153,1,РАЗБОР ОБМЕН,Bradley Hand Bold.ttf
+val_01154,0,продам велосипед,Trebuchet MS Bold Italic.ttf
+val_01155,1,Хлеб платье телефон,Brush Script.ttf
+val_01156,1,сок шкаф машина,Avenir Next Condensed.ttc
+val_01157,1,Омск пальто,ヒラギノ角ゴシック W7.ttc
+val_01158,0,270 353 р.,ChalkboardSE.ttc
+val_01159,0,телефон продаж,Verdana.ttf
+val_01160,1,студия скидка этаж,Georgia Bold.ttf
+val_01161,0,Apple,Hiragino Sans GB.ttc
+val_01162,0,разбор 364%,STHeiti Medium.ttc
+val_01163,0,Sony Toyota,ヒラギノ角ゴシック W4.ttc
+val_01164,1,Стулья,ヒラギノ角ゴシック W2.ttc
+val_01165,0,этаж 318 мл,Didot.ttc
+val_01166,1,Lada Size,ヒラギノ明朝 ProN.ttc
+val_01167,1,+7 (911) 637-79-42,Verdana Bold.ttf
+val_01168,0,холодильник шоколад закрыто,SFNS.ttf
+val_01169,1,натуральная женская конфеты,AquaKana.ttc
+val_01170,1,КРОССОВКИ,Georgia Italic.ttf
+val_01171,1,+7 (960) 697-97-39,SFCompact.ttf
+val_01172,0,мёд Новосибирск,Times.ttc
+val_01173,1,осень 274 г,PTSerifCaption.ttc
+val_01174,1,+7 (972) 724-86-47,Hoefler Text.ttc
+val_01175,1,Noire NEW,Menlo.ttc
+val_01176,1,СТОЛ,ヒラギノ角ゴシック W1.ttc
+val_01177,1,Ростов вода график,Songti.ttc
+val_01178,0,Санкт-петербург обмен,ヒラギノ角ゴシック W3.ttc
+val_01179,0,Выход стулья,Savoye LET.ttc
+val_01180,0,Годности женская годности,Seravek.ttc
+val_01181,1,масса,ヒラギノ角ゴシック W3.ttc
+val_01182,0,КОМНАТА ГАРАНТИЯ ИЗГОТОВИТЕЛЬ,ヒラギノ角ゴシック W5.ttc
+val_01183,1,ХИТ НЕТТО,Luminari.ttf
+val_01184,1,вход,ChalkboardSE.ttc
+val_01185,0,Самара закрыто продам,SuperClarendon.ttc
+val_01186,1,РАЗБОР,NewYork.ttf
+val_01187,1,б/у 73 мл,Futura.ttc
+val_01188,0,Самара квартира,Hoefler Text.ttc
+val_01189,0,Nike,ヒラギノ明朝 ProN.ttc
+val_01190,1,ВЫХОД ПЕЧЕНЬЕ КУХНЯ,Rockwell.ttc
+val_01191,1,Зимняя,GillSans.ttc
+val_01192,1,SALE,Verdana Italic.ttf
+val_01193,1,доставка самовывоз,Phosphate.ttc
+val_01194,0,СМАРТФОН,ヒラギノ角ゴシック W6.ttc
+val_01195,1,цена 151 шт,SFNSItalic.ttf
+val_01196,1,цена 140 г,ヒラギノ角ゴシック W8.ttc
+val_01197,0,кухня кровать,ヒラギノ角ゴシック W6.ttc
+val_01198,1,435 292 р.,PTSerifCaption.ttc
+val_01199,1,IKEA,Arial Narrow Bold Italic.ttf
+val_01200,0,+7 (945) 736-61-42,AppleMyungjo.ttf
+val_01201,1,Самовывоз зарплата,Athelas.ttc
+val_01202,0,441 283 р.,STIXGeneralBol.otf
+val_01203,0,IKEA Philips,Songti.ttc
+val_01204,0,60394 руб.,Arial Unicode.ttf
+val_01205,0,Аренда график,Cochin.ttc
+val_01206,1,СУМКА,ヒラギノ角ゴシック W2.ttc
+val_01207,1,ГОДНОСТИ,SFCompact.ttf
+val_01208,0,Хранить изготовитель,SFCompact.ttf
+val_01209,0,Nestle,Palatino.ttc
+val_01210,1,диски гарантия,Athelas.ttc
+val_01211,0,женская опыт склад,Verdana Bold.ttf
+val_01212,1,авто молоко Краснодар,SFCompact.ttf
+val_01213,1,продавец аккумулятор,Sathu.ttf
+val_01214,0,печенье,SignPainter.ttc
+val_01215,1,Самовывоз этаж,Copperplate.ttc
+val_01216,1,+7 (959) 128-60-44,STIXTwoText.ttf
+val_01217,1,чай,Georgia Italic.ttf
+val_01218,1,ПОСУТОЧНО ТОРГ,Hoefler Text.ttc
+val_01219,1,74181 руб.,Savoye LET.ttc
+val_01220,1,комната гарантия,Charter.ttc
+val_01221,1,+7 (907) 437-15-90,Georgia Bold.ttf
+val_01222,1,НОВАЯ ДИСКИ,STIXGeneral.otf
+val_01223,1,+7 (970) 807-35-32,ヒラギノ角ゴシック W0.ttc
+val_01224,1,56667 руб.,PTSans.ttc
+val_01225,1,внимание 132,ヒラギノ角ゴシック W0.ttc
+val_01226,0,ХЛОПОК ОТКРЫТО,Verdana Bold Italic.ttf
+val_01227,1,Кожа,Avenir Next.ttc
+val_01228,0,Изготовитель шоколад,Impact.ttf
+val_01229,1,11671 руб.,SFNSMono.ttf
+val_01230,0,этаж 35 г,Avenir Next.ttc
+val_01231,0,аренда качество вода,ヒラギノ明朝 ProN.ttc
+val_01232,0,новая масло кроссовки,Menlo.ttc
+val_01233,0,Самара нетто,Cochin.ttc
+val_01234,0,+7 (970) 190-94-56,PTSans.ttc
+val_01235,1,КОЛЯСКА ОТКРЫТО КОЖА,STIXGeneral.otf
+val_01236,1,BMW Noire,Futura.ttc
+val_01237,0,Квартира,HelveticaNeue.ttc
+val_01238,1,SALE Pro,DIN Alternate Bold.ttf
+val_01239,0,7906 руб.,PTMono.ttc
+val_01240,0,акция,Menlo.ttc
+val_01241,1,куплю 365 г,Hoefler Text.ttc
+val_01242,0,Кроссовки велосипед посуточно,Arial Narrow Bold Italic.ttf
+val_01243,1,мёд 337 см,SignPainter.ttc
+val_01244,0,718 178 р.,Arial Italic.ttf
+val_01245,1,+7 (946) 965-68-59,Savoye LET.ttc
+val_01246,1,ЦЕНА КУХНЯ,Microsoft Sans Serif.ttf
+val_01247,1,САМАРА ОМСК,Courier New Italic.ttf
+val_01248,1,мёд диски комната,LucidaGrande.ttc
+val_01249,1,курьер,Baskerville.ttc
+val_01250,0,машина 347 мл,AquaKana.ttc
+val_01251,1,МУЖСКАЯ АРЕНДА,PTMono.ttc
+val_01252,0,Кухня,Seravek.ttc
+val_01253,0,весна студия,ヒラギノ明朝 ProN.ttc
+val_01254,1,нетто 478 см,Songti.ttc
+val_01255,0,+7 (954) 308-63-39,ヒラギノ明朝 ProN.ttc
+val_01256,0,ВЕЛОСИПЕД,Phosphate.ttc
+val_01257,0,ВЫХОД ОМСК МАССА,SFCompactRounded.ttf
+val_01258,0,BMW Adidas,PTSerif.ttc
+val_01259,1,производитель кухня летняя,Arial Narrow Bold.ttf
+val_01260,0,+7 (939) 918-67-28,LucidaGrande.ttc
+val_01261,0,LG NEW,AquaKana.ttc
+val_01262,0,состав запчасти,Noteworthy.ttc
+val_01263,0,опыт 359 шт,Arial Black.ttf
+val_01264,1,65722 руб.,ヒラギノ角ゴシック W8.ttc
+val_01265,1,ванная весна детский,Didot.ttc
+val_01266,1,ХОЛОДИЛЬНИК,Helvetica.ttc
+val_01267,0,торг диван Москва,Trattatello.ttf
+val_01268,0,при 108%,STHeiti Medium.ttc
+val_01269,1,СТУДИЯ САМОВЫВОЗ,SignPainter.ttc
+val_01270,0,944 110 р.,Arial Italic.ttf
+val_01271,0,616 989 р.,Hoefler Text.ttc
+val_01272,0,сливочное 105%,AquaKana.ttc
+val_01273,0,31419 руб.,ヒラギノ角ゴシック W5.ttc
+val_01274,0,Made Samsung,STIXGeneralBolIta.otf
+val_01275,1,инструкция,NewYork.ttf
+val_01276,0,куртка,ヒラギノ角ゴシック W3.ttc
+val_01277,1,+7 (983) 417-80-70,MarkerFelt.ttc
+val_01278,1,+7 (967) 136-31-25,AppleGothic.ttf
+val_01279,0,кухня шоколад масса,ヒラギノ角ゴシック W2.ttc
+val_01280,1,хлопок стол площадь,HelveticaNeue.ttc
+val_01281,0,589 137 р.,SnellRoundhand.ttc
+val_01282,1,+7 (933) 817-42-71,STIXTwoText.ttf
+val_01283,1,ДЕТСКИЙ ТЕМПЕРАТУРЕ АВТО,SuperClarendon.ttc
+val_01284,0,33760 руб.,Avenir.ttc
+val_01285,0,Adidas BMW,SFNSRounded.ttf
+val_01286,1,71176 руб.,ヒラギノ角ゴシック W5.ttc
+val_01287,0,China Samsung,Brush Script.ttf
+val_01288,0,балкон 8 см,Iowan Old Style.ttc
+val_01289,1,сумка Самара,Palatino.ttc
+val_01290,1,Качество машина,Verdana Bold Italic.ttf
+val_01291,0,Санкт-петербург график,Times New Roman Bold.ttf
+val_01292,1,+7 (918) 922-13-76,Verdana Bold Italic.ttf
+val_01293,0,вода температуре,Copperplate.ttc
+val_01294,1,Premium Kinder,ヒラギノ角ゴシック W1.ttc
+val_01295,0,вход 291 г,Arial Italic.ttf
+val_01296,0,гарантия ванная Москва,SFNSItalic.ttf
+val_01297,1,Carte,ヒラギノ角ゴシック W3.ttc
+val_01298,1,Kinder,Trebuchet MS Bold Italic.ttf
+val_01299,0,размер,ChalkboardSE.ttc
+val_01300,0,пишите женская,Hoefler Text.ttc
+val_01301,0,6848 руб.,ヒラギノ角ゴシック W6.ttc
+val_01302,1,коляска весна,ヒラギノ角ゴシック W5.ttc
+val_01303,0,Сумка зимняя кровать,ヒラギノ丸ゴ ProN W4.ttc
+val_01304,1,ЗАРПЛАТА МОЛОКО,ヒラギノ角ゴシック W3.ttc
+val_01305,0,разбор,ヒラギノ明朝 ProN.ttc
+val_01306,0,шины,MarkerFelt.ttc
+val_01307,1,ПАЛЬТО ХИТ,Phosphate.ttc
+val_01308,0,Nike,Comic Sans MS.ttf
+val_01309,0,ТОРГ,Avenir Next.ttc
+val_01310,1,ХИТ ПРОДАВЕЦ РАБОТА,ヒラギノ角ゴシック W0.ttc
+val_01311,1,in Noire,SFCompactItalic.ttf
+val_01312,1,цена,SignPainter.ttc
+val_01313,1,ХЛОПОК МОСКВА,Iowan Old Style.ttc
+val_01314,0,Осень детский,Athelas.ttc
+val_01315,0,+7 (967) 510-98-43,Copperplate.ttc
+val_01316,0,153 486 р.,Palatino.ttc
+val_01317,0,КУХНЯ БАЛКОН,PTSans.ttc
+val_01318,0,зарядка женская,SuperClarendon.ttc
+val_01319,0,iPhone Kinder,LucidaGrande.ttc
+val_01320,0,3621 руб.,Avenir Next Condensed.ttc
+val_01321,1,88011 руб.,SFNS.ttf
+val_01322,1,Apple Nestle,STHeiti Medium.ttc
+val_01323,0,Noire Quality,Noteworthy.ttc
+val_01324,1,скидка пишите,AppleSDGothicNeo.ttc
+val_01325,0,5213 руб.,SuperClarendon.ttc
+val_01326,0,работа вода ремонт,STHeiti Medium.ttc
+val_01327,0,сыр,STHeiti Light.ttc
+val_01328,1,АРЕНДА КРОССОВКИ КАЧЕСТВО,Georgia.ttf
+val_01329,0,+7 (970) 334-54-87,NewYork.ttf
+val_01330,1,in,PTSans.ttc
+val_01331,1,99 293 р.,PTSerif.ttc
+val_01332,1,инструкция сливочное,AquaKana.ttc
+val_01333,0,зарплата опыт б/у,ChalkboardSE.ttc
+val_01334,0,BMW Zara,STIXTwoMath.otf
+val_01335,0,Lada,Times New Roman Bold Italic.ttf
+val_01336,0,курьер,ヒラギノ明朝 ProN.ttc
+val_01337,1,женская 100 см,Noteworthy.ttc
+val_01338,0,шины 429,Marion.ttc
+val_01339,0,РАЗБОР,Copperplate.ttc
+val_01340,0,Philips in,Iowan Old Style.ttc
+val_01341,1,состав молоко годности,Copperplate.ttc
+val_01342,0,94200 руб.,HelveticaNeue.ttc
+val_01343,1,455 449 р.,Comic Sans MS.ttf
+val_01344,0,Size Philips,AmericanTypewriter.ttc
+val_01345,0,555 225 р.,SFNSItalic.ttf
+val_01346,0,Original,ヒラギノ明朝 ProN.ttc
+val_01347,0,Молоко,PTSerif.ttc
+val_01348,1,+7 (904) 773-20-80,STHeiti Medium.ttc
+val_01349,1,in,Verdana.ttf
+val_01350,0,диван 102,Times.ttc
+val_01351,0,Ростов 476 см,Microsoft Sans Serif.ttf
+val_01352,0,ПРОИЗВОДИТЕЛЬ,ヒラギノ角ゴシック W8.ttc
+val_01353,1,опыт,Rockwell.ttc
+val_01354,1,склад телефон,Palatino.ttc
+val_01355,0,КУПЛЮ,Times New Roman Italic.ttf
+val_01356,1,+7 (979) 234-98-37,ヒラギノ角ゴシック W9.ttc
+val_01357,0,7781 руб.,DIN Condensed Bold.ttf
+val_01358,1,стиральная,Thonburi.ttc
+val_01359,0,28009 руб.,GillSans.ttc
+val_01360,0,Краснодар зарядка,ヒラギノ角ゴシック W2.ttc
+val_01361,0,Производитель состав самара,ヒラギノ角ゴシック W1.ttc
+val_01362,1,велосипед закрыто площадь,NewYorkItalic.ttf
+val_01363,1,+7 (926) 412-39-41,PTMono.ttc
+val_01364,1,гарантия 420 г,Cochin.ttc
+val_01365,1,студия 247 см,Athelas.ttc
+val_01366,1,платье доставка Москва,Arial Narrow Italic.ttf
+val_01367,1,ОРЕХИ ЗАРЯДКА,ヒラギノ角ゴシック W8.ttc
+val_01368,1,Sony,HelveticaNeue.ttc
+val_01369,1,масса акция,SnellRoundhand.ttc
+val_01370,1,SALE LG,Times New Roman.ttf
+val_01371,0,аренда,PTSerifCaption.ttc
+val_01372,0,Sony NEW,NewYork.ttf
+val_01373,1,продаж мужская,Copperplate.ttc
+val_01374,0,КУРЬЕР ОПЫТ,Verdana Bold.ttf
+val_01375,0,468 327 р.,Copperplate.ttc
+val_01376,0,Пальто,Arial Italic.ttf
+val_01377,1,Sony,Times New Roman Bold.ttf
+val_01378,0,ДОСТАВКА ПРИ,ヒラギノ角ゴシック W7.ttc
+val_01379,1,хранить оригинал,STIXGeneralBol.otf
+val_01380,1,МАСЛО ШЕРСТЬ,ヒラギノ角ゴシック W2.ttc
+val_01381,1,торг 494 шт,Comic Sans MS.ttf
+val_01382,0,Xiaomi,SFNSItalic.ttf
+val_01383,0,сок 124 г,ヒラギノ角ゴシック W4.ttc
+val_01384,1,Nike Lada,SFCompactRounded.ttf
+val_01385,1,зарядка 444 г,SignPainter.ttc
+val_01386,1,стулья 447 г,ヒラギノ角ゴシック W9.ttc
+val_01387,0,Quality,Cochin.ttc
+val_01388,0,печенье пальто сыр,ChalkboardSE.ttc
+val_01389,1,годности конфеты,Thonburi.ttc
+val_01390,0,Годности,Palatino.ttc
+val_01391,1,орехи сыр комната,Avenir Next.ttc
+val_01392,0,Philips Original,SignPainter.ttc
+val_01393,1,+7 (920) 137-73-43,SignPainter.ttc
+val_01394,1,Куртка,AppleGothic.ttf
+val_01395,0,скидка продавец кухня,ヒラギノ角ゴシック W4.ttc
+val_01396,1,молоко,SFNSItalic.ttf
+val_01397,0,Стулья велосипед сок,ヒラギノ角ゴシック W6.ttc
+val_01398,0,мужская производитель продаж,Marion.ttc
+val_01399,1,АКЦИЯ,Hoefler Text.ttc
+val_01400,1,кухня 27 г,SuperClarendon.ttc
+val_01401,0,КОЖА ВОДА ЧАЙ,Trattatello.ttf
+val_01402,0,комната 367 мл,NewYork.ttf
+val_01403,1,+7 (914) 736-84-14,STIXGeneralBol.otf
+val_01404,0,Carte Nike,ヒラギノ角ゴシック W9.ttc
+val_01405,0,217 565 р.,NewYork.ttf
+val_01406,0,доставка 427%,Avenir Next.ttc
+val_01407,1,NEW Zara,SnellRoundhand.ttc
+val_01408,1,Nestle Toyota,LucidaGrande.ttc
+val_01409,1,+7 (931) 510-97-58,STIXTwoText-Italic.ttf
+val_01410,0,график температуре,Thonburi.ttc
+val_01411,0,ОСЕНЬ КАЗАНЬ,STIXGeneral.otf
+val_01412,1,СЛИВОЧНОЕ ОРИГИНАЛ,Trebuchet MS.ttf
+val_01413,0,инструкция орехи вода,Arial.ttf
+val_01414,1,+7 (988) 389-27-50,SnellRoundhand.ttc
+val_01415,0,+7 (966) 516-97-96,SnellRoundhand.ttc
+val_01416,1,72657 руб.,ヒラギノ明朝 ProN.ttc
+val_01417,0,сумка хлопок,Savoye LET.ttc
+val_01418,1,Шоколад холодильник машина,Times New Roman.ttf
+val_01419,1,Краснодар куплю,AquaKana.ttc
+val_01420,0,1 191 р.,ヒラギノ角ゴシック W4.ttc
+val_01421,0,МОСКВА ЗАРЯДКА ДИВАН,Geneva.ttf
+val_01422,0,акция продам велосипед,Brush Script.ttf
+val_01423,1,качество студия,Copperplate.ttc
+val_01424,0,China,Phosphate.ttc
+val_01425,1,ВНИМАНИЕ МАССА,LucidaGrande.ttc
+val_01426,1,молоко обмен,Arial Unicode.ttf
+val_01427,1,Sony Quality,DIN Alternate Bold.ttf
+val_01428,1,гарантия женская хлеб,Noteworthy.ttc
+val_01429,0,годности,ヒラギノ角ゴシック W2.ttc
+val_01430,0,Pro Size,SnellRoundhand.ttc
+val_01431,0,этаж,Seravek.ttc
+val_01432,0,обмен,Rockwell.ttc
+val_01433,0,Noire,Times New Roman Bold Italic.ttf
+val_01434,1,Смартфон,Songti.ttc
+val_01435,1,Samsung Zara,STIXGeneral.otf
+val_01436,0,Новосибирск,Comic Sans MS.ttf
+val_01437,1,Сок,Times New Roman Bold Italic.ttf
+val_01438,1,237 656 р.,Trebuchet MS Italic.ttf
+val_01439,0,выход 268%,Sathu.ttf
+val_01440,0,авто осень,Avenir Next.ttc
+val_01441,0,ДОСТАВКА СТИРАЛЬНАЯ ОПЫТ,HelveticaNeue.ttc
+val_01442,0,сыр нетто,Palatino.ttc
+val_01443,1,ТЕЛЕФОН ОМСК,ヒラギノ角ゴシック W8.ttc
+val_01444,0,BMW,STHeiti Light.ttc
+val_01445,0,ВНИМАНИЕ,ヒラギノ角ゴシック W3.ttc
+val_01446,1,внимание кровать открыто,Monaco.ttf
+val_01447,0,срок мёд,Cochin.ttc
+val_01448,1,изготовитель мёд,ヒラギノ丸ゴ ProN W4.ttc
+val_01449,0,ДИСКИ ПАЛЬТО ОМСК,Hoefler Text.ttc
+val_01450,1,размер 56 см,Tahoma Bold.ttf
+val_01451,0,Made,ChalkboardSE.ttc
+val_01452,0,МУЖСКАЯ ВЫХОД ДИСКИ,Geneva.ttf
+val_01453,1,СТИРАЛЬНАЯ КОЛЯСКА,Charter.ttc
+val_01454,1,скидка б/у,ヒラギノ角ゴシック W7.ttc
+val_01455,1,осторожно,Courier New Bold.ttf
+val_01456,1,+7 (997) 864-82-50,Songti.ttc
+val_01457,0,новый 186 см,Verdana Bold Italic.ttf
+val_01458,0,ШКАФ МОСКВА,Microsoft Sans Serif.ttf
+val_01459,0,продаж Казань,ヒラギノ角ゴシック W1.ttc
+val_01460,1,Качество,Thonburi.ttc
+val_01461,0,44099 руб.,Menlo.ttc
+val_01462,0,65215 руб.,Rockwell.ttc
+val_01463,0,81191 руб.,SnellRoundhand.ttc
+val_01464,0,422 657 р.,Charter.ttc
+val_01465,0,Машина,Sathu.ttf
+val_01466,1,КУХНЯ,ヒラギノ角ゴシック W6.ttc
+val_01467,0,Adidas,Arial Narrow Italic.ttf
+val_01468,1,Новая сыр машина,Brush Script.ttf
+val_01469,1,NEW,GillSans.ttc
+val_01470,0,ВОДА ДИСКИ,Iowan Old Style.ttc
+val_01471,1,стиральная печенье торг,AquaKana.ttc
+val_01472,1,торг изготовитель срок,Times New Roman Bold.ttf
+val_01473,1,Toyota Made,Athelas.ttc
+val_01474,0,19878 руб.,Charter.ttc
+val_01475,1,Гарантия внимание,Times.ttc
+val_01476,0,ПИШИТЕ ЦЕНА ОРИГИНАЛ,AquaKana.ttc
+val_01477,1,гарантия,Marion.ttc
+val_01478,1,коляска 449 шт,Thonburi.ttc
+val_01479,1,+7 (995) 884-35-14,Avenir Next.ttc
+val_01480,0,разбор 250 г,ヒラギノ角ゴシック W8.ttc
+val_01481,0,Вода самовывоз,ヒラギノ角ゴシック W4.ttc
+val_01482,0,Казань,Athelas.ttc
+val_01483,1,весна хлеб комната,STHeiti Medium.ttc
+val_01484,1,температуре акция,Trebuchet MS.ttf
+val_01485,0,Philips,Seravek.ttc
+val_01486,0,China,Copperplate.ttc
+val_01487,1,Размер,Thonburi.ttc
+val_01488,1,ОСТОРОЖНО СТИРАЛЬНАЯ,Times New Roman Italic.ttf
+val_01489,0,комната машина гарантия,Microsoft Sans Serif.ttf
+val_01490,1,Ванная мёд стулья,Ayuthaya.ttf
+val_01491,0,КОМНАТА МЁД ОРЕХИ,PTSans.ttc
+val_01492,1,продаж,Monaco.ttf
+val_01493,0,42416 руб.,Avenir Next.ttc
+val_01494,1,работа 75%,Arial Narrow.ttf
+val_01495,1,СМАРТФОН АККУМУЛЯТОР,Helvetica.ttc
+val_01496,1,Zara,HelveticaNeue.ttc
+val_01497,0,аккумулятор 164 г,PTSans.ttc
+val_01498,1,Площадь,Verdana Italic.ttf
+val_01499,0,натуральная кровать Екатеринбург,ChalkboardSE.ttc
+val_01500,1,оригинал женская,Charter.ttc
+val_01501,1,ПРОИЗВОДИТЕЛЬ,ヒラギノ丸ゴ ProN W4.ttc
+val_01502,1,Производитель,Avenir Next.ttc
+val_01503,1,+7 (951) 437-74-26,AppleSDGothicNeo.ttc
+val_01504,1,Вход масло конфеты,Charter.ttc
+val_01505,0,Philips LG,Arial Unicode.ttf
+val_01506,0,NEW Nike,Arial Unicode.ttf
+val_01507,1,+7 (948) 258-46-49,Hoefler Text.ttc
+val_01508,1,Quality Sony,ヒラギノ丸ゴ ProN W4.ttc
+val_01509,0,хранить,ヒラギノ角ゴシック W7.ttc
+val_01510,1,состав хлопок диван,PTSerifCaption.ttc
+val_01511,1,торг 341,Times.ttc
+val_01512,0,кофе Самара срок,NewYork.ttf
+val_01513,0,зимняя аренда курьер,ヒラギノ角ゴシック W6.ttc
+val_01514,0,чай летняя авто,SnellRoundhand.ttc
+val_01515,1,Nike China,Arial Narrow Italic.ttf
+val_01516,0,99574 руб.,ヒラギノ明朝 ProN.ttc
+val_01517,1,45930 руб.,PTSerifCaption.ttc
+val_01518,0,ОТКРЫТО ШОКОЛАД НЕТТО,SFNSRounded.ttf
+val_01519,0,ОСЕНЬ ШКАФ НАУШНИКИ,Seravek.ttc
+val_01520,1,594 417 р.,Avenir.ttc
+val_01521,0,Аккумулятор инструкция,Courier New Bold.ttf
+val_01522,0,Торг запчасти кофе,Menlo.ttc
+val_01523,0,Новая зарядка хранить,Arial Narrow Italic.ttf
+val_01524,1,+7 (946) 154-50-63,Hiragino Sans GB.ttc
+val_01525,1,склад весна,PTSans.ttc
+val_01526,1,+7 (948) 452-98-64,ヒラギノ角ゴシック W2.ttc
+val_01527,0,Пальто детский санкт-петербург,ヒラギノ角ゴシック W5.ttc
+val_01528,1,793 111 р.,ヒラギノ角ゴシック W0.ttc
+val_01529,1,Б/у чай,Comic Sans MS Bold.ttf
+val_01530,0,кровать посуточно сок,NewYork.ttf
+val_01531,1,сливочное б/у комната,PTSans.ttc
+val_01532,1,ПРИ СЫР МУЖСКАЯ,DIN Alternate Bold.ttf
+val_01533,0,СКИДКА ВЕСНА ОСЕНЬ,ヒラギノ角ゴシック W6.ttc
+val_01534,0,27435 руб.,Hiragino Sans GB.ttc
+val_01535,1,+7 (913) 844-70-48,PTMono.ttc
+val_01536,1,хлопок,AmericanTypewriter.ttc
+val_01537,1,при,Sathu.ttf
+val_01538,1,Max NEW,Savoye LET.ttc
+val_01539,1,склад шерсть сумка,Verdana Italic.ttf
+val_01540,1,74648 руб.,Palatino.ttc
+val_01541,0,Zara,Marion.ttc
+val_01542,0,РАЗБОР ЧАЙ КАЗАНЬ,ヒラギノ明朝 ProN.ttc
+val_01543,1,осторожно открыто аренда,SuperClarendon.ttc
+val_01544,1,+7 (917) 532-17-90,SnellRoundhand.ttc
+val_01545,0,смартфон оригинал Омск,Helvetica.ttc
+val_01546,0,628 016 р.,Copperplate.ttc
+val_01547,0,внимание,Trebuchet MS Bold Italic.ttf
+val_01548,1,сливочное,SnellRoundhand.ttc
+val_01549,0,Самара 241%,STIXGeneral.otf
+val_01550,1,производитель 110 шт,Phosphate.ttc
+val_01551,0,продам 121 шт,DIN Alternate Bold.ttf
+val_01552,0,+7 (948) 827-60-29,ヒラギノ角ゴシック W9.ttc
+val_01553,0,Noire,Copperplate.ttc
+val_01554,0,хлопок 425 см,Tahoma Bold.ttf
+val_01555,0,901 410 р.,Georgia.ttf
+val_01556,0,China,ヒラギノ明朝 ProN.ttc
+val_01557,0,продам 159 г,ヒラギノ角ゴシック W9.ttc
+val_01558,0,Диван,Rockwell.ttc
+val_01559,1,ГРАФИК,Phosphate.ttc
+val_01560,0,авто смартфон этаж,Charter.ttc
+val_01561,0,+7 (933) 251-42-90,Helvetica.ttc
+val_01562,0,Ноутбук натуральная,SFNS.ttf
+val_01563,0,151 976 р.,GillSans.ttc
+val_01564,1,Стиральная,ヒラギノ角ゴシック W1.ttc
+val_01565,1,+7 (953) 229-79-11,Thonburi.ttc
+val_01566,0,кроссовки посуточно коляска,Athelas.ttc
+val_01567,1,+7 (987) 815-82-57,ヒラギノ角ゴシック W9.ttc
+val_01568,0,Мёд звоните качество,Phosphate.ttc
+val_01569,0,опыт пишите новая,Copperplate.ttc
+val_01570,1,САНКТ-ПЕТЕРБУРГ,LucidaGrande.ttc
+val_01571,1,NEW,Comic Sans MS Bold.ttf
+val_01572,0,СЫР САНКТ-ПЕТЕРБУРГ,AppleSDGothicNeo.ttc
+val_01573,0,детский 118 шт,Cochin.ttc
+val_01574,1,этаж,Athelas.ttc
+val_01575,0,Екатеринбург,SFNSMono.ttf
+val_01576,1,9847 руб.,Copperplate.ttc
+val_01577,1,МОЛОКО АРЕНДА,Didot.ttc
+val_01578,0,Philips Adidas,Copperplate.ttc
+val_01579,1,печенье при,AppleSDGothicNeo.ttc
+val_01580,0,97846 руб.,Thonburi.ttc
+val_01581,1,China Zara,Helvetica.ttc
+val_01582,0,Вакансия машина,Baskerville.ttc
+val_01583,1,Новый посуточно,Arial Black.ttf
+val_01584,0,шерсть вода кожа,PTSans.ttc
+val_01585,1,коляска график,Tahoma Bold.ttf
+val_01586,0,масса,Avenir Next.ttc
+val_01587,0,+7 (904) 572-74-82,ヒラギノ丸ゴ ProN W4.ttc
+val_01588,0,скидка скидка разбор,Marion.ttc
+val_01589,1,чай изготовитель опыт,ヒラギノ角ゴシック W3.ttc
+val_01590,1,аккумулятор этаж,Trebuchet MS Bold.ttf
+val_01591,0,ПРОДАМ САМАРА ВНИМАНИЕ,Palatino.ttc
+val_01592,0,Сумка,Andale Mono.ttf
+val_01593,1,хит сумка,Copperplate.ttc
+val_01594,1,+7 (979) 619-24-97,GillSans.ttc
+val_01595,0,Made,Seravek.ttc
+val_01596,1,Pro,PTSans.ttc
+val_01597,0,КУПЛЮ КОМНАТА,ヒラギノ角ゴシック W5.ttc
+val_01598,0,ТЕМПЕРАТУРЕ ИНСТРУКЦИЯ,Bradley Hand Bold.ttf
+val_01599,1,зарплата 406 г,Trebuchet MS Bold Italic.ttf
+val_01600,1,NEW Toyota,ChalkboardSE.ttc
+val_01601,1,чай Новосибирск курьер,Palatino.ttc
+val_01602,0,+7 (997) 819-44-81,LucidaGrande.ttc
+val_01603,1,Zara,LucidaGrande.ttc
+val_01604,1,цена,SnellRoundhand.ttc
+val_01605,0,наушники 464,ヒラギノ角ゴシック W1.ttc
+val_01606,1,ХЛОПОК ВХОД,Courier New Bold Italic.ttf
+val_01607,0,Zara,ヒラギノ角ゴシック W5.ttc
+val_01608,1,Xiaomi iPhone,Arial.ttf
+val_01609,0,акция Екатеринбург,Hoefler Text.ttc
+val_01610,1,Adidas,Arial Narrow Italic.ttf
+val_01611,0,Москва 131 г,ヒラギノ角ゴシック W9.ttc
+val_01612,0,производитель 286 мл,Seravek.ttc
+val_01613,0,продаж открыто зарплата,Georgia Bold.ttf
+val_01614,0,17215 руб.,PTSerifCaption.ttc
+val_01615,1,17 834 р.,Marion.ttc
+val_01616,1,+7 (943) 736-72-20,PTSerifCaption.ttc
+val_01617,1,73878 руб.,Arial Unicode.ttf
+val_01618,0,+7 (978) 583-52-22,ChalkboardSE.ttc
+val_01619,0,Краснодар 126 г,Arial Bold Italic.ttf
+val_01620,1,состав,STIXTwoMath.otf
+val_01621,0,ПЛАТЬЕ МАСЛО,PTMono.ttc
+val_01622,0,+7 (972) 658-56-53,STIXGeneralBol.otf
+val_01623,1,918 643 р.,STHeiti Medium.ttc
+val_01624,0,оригинал 238 см,ヒラギノ角ゴシック W2.ttc
+val_01625,0,Kinder,DIN Alternate Bold.ttf
+val_01626,1,комната,Courier New Bold Italic.ttf
+val_01627,1,+7 (973) 370-49-27,SuperClarendon.ttc
+val_01628,0,+7 (965) 183-86-68,Impact.ttf
+val_01629,1,Торг,Times New Roman Italic.ttf
+val_01630,0,163 371 р.,ヒラギノ角ゴシック W9.ttc
+val_01631,0,Zara Carte,Courier New Bold Italic.ttf
+val_01632,1,МАСЛО ОПЫТ КОЛЯСКА,Rockwell.ttc
+val_01633,0,BMW Philips,Rockwell.ttc
+val_01634,0,in Lada,Arial Narrow Bold.ttf
+val_01635,1,Омск хранить,PTSerifCaption.ttc
+val_01636,1,стиральная 347 г,STIXGeneralItalic.otf
+val_01637,0,БАЛКОН ВАННАЯ,ヒラギノ角ゴシック W6.ttc
+val_01638,1,внимание,Helvetica.ttc
+val_01639,0,кофе 162 см,SFCompactItalic.ttf
+val_01640,1,ОПЫТ ВОДА,Baskerville.ttc
+val_01641,0,447 037 р.,Brush Script.ttf
+val_01642,0,Вход торг,Georgia Bold Italic.ttf
+val_01643,1,Сумка коляска,Geneva.ttf
+val_01644,0,Состав,Arial Narrow Bold.ttf
+val_01645,0,вакансия 95,AmericanTypewriter.ttc
+val_01646,1,температуре,Avenir Next.ttc
+val_01647,0,сыр сумка зарплата,ChalkboardSE.ttc
+val_01648,0,Пишите продаж инструкция,STHeiti Light.ttc
+val_01649,1,SALE,ヒラギノ角ゴシック W0.ttc
+val_01650,1,самовывоз масло зимняя,AmericanTypewriter.ttc
+val_01651,0,+7 (975) 904-20-75,Songti.ttc
+val_01652,0,218 046 р.,AppleMyungjo.ttf
+val_01653,0,+7 (953) 634-48-13,Avenir Next.ttc
+val_01654,0,закрыто 69 мл,ヒラギノ角ゴシック W8.ttc
+val_01655,0,+7 (902) 376-91-65,Palatino.ttc
+val_01656,0,новая,ヒラギノ角ゴシック W3.ttc
+val_01657,0,ОМСК ХИТ,STIXGeneralItalic.otf
+val_01658,0,ВЕСНА ЗИМНЯЯ НОВЫЙ,Andale Mono.ttf
+val_01659,0,ВОДИТЕЛЬ,SFNS.ttf
+val_01660,0,China Quality,ヒラギノ角ゴシック W0.ttc
+val_01661,0,мёд,SuperClarendon.ttc
+val_01662,0,+7 (951) 372-55-69,SFNSMono.ttf
+val_01663,1,33743 руб.,HelveticaNeue.ttc
+val_01664,0,SALE Kinder,STHeiti Light.ttc
+val_01665,1,LG Pro,Arial Bold.ttf
+val_01666,1,+7 (992) 288-88-81,Marion.ttc
+val_01667,0,Pro Apple,SFNSMono.ttf
+val_01668,0,IKEA,ChalkboardSE.ttc
+val_01669,1,Акция продавец зимняя,Trebuchet MS Italic.ttf
+val_01670,1,65403 руб.,SFCompactItalic.ttf
+val_01671,1,+7 (996) 498-35-23,Avenir Next.ttc
+val_01672,1,этаж машина шоколад,Times New Roman Italic.ttf
+val_01673,0,Xiaomi Size,Hoefler Text.ttc
+val_01674,0,Кожа самара,Iowan Old Style.ttc
+val_01675,1,Зимняя,ヒラギノ角ゴシック W4.ttc
+val_01676,1,годности сок сумка,SFNSRounded.ttf
+val_01677,0,8120 руб.,STIXGeneralBol.otf
+val_01678,1,+7 (945) 885-41-26,SFCompact.ttf
+val_01679,0,склад 191 шт,Marion.ttc
+val_01680,0,площадь,SFNSItalic.ttf
+val_01681,0,+7 (903) 962-16-26,ヒラギノ角ゴシック W8.ttc
+val_01682,1,КРОВАТЬ РЕМОНТ,ヒラギノ角ゴシック W4.ttc
+val_01683,0,ТЕЛЕФОН ТЕЛЕФОН ВХОД,Avenir Next.ttc
+val_01684,1,Xiaomi Zara,Bradley Hand Bold.ttf
+val_01685,0,ПРИ РАБОТА,Times New Roman Bold Italic.ttf
+val_01686,1,шерсть выход нетто,Rockwell.ttc
+val_01687,1,ЗАРЯДКА,SnellRoundhand.ttc
+val_01688,1,внимание обмен,Andale Mono.ttf
+val_01689,0,Kinder Noire,Charter.ttc
+val_01690,0,КОМНАТА ГРАФИК СОСТАВ,Cochin.ttc
+val_01691,0,изготовитель при,ヒラギノ角ゴシック W3.ttc
+val_01692,0,IKEA,Microsoft Sans Serif.ttf
+val_01693,1,Хлеб,AmericanTypewriter.ttc
+val_01694,1,Натуральная кроссовки,Phosphate.ttc
+val_01695,0,Звоните,STIXTwoText-Italic.ttf
+val_01696,0,авто 377 г,Seravek.ttc
+val_01697,1,ВАКАНСИЯ ШЕРСТЬ,STHeiti Medium.ttc
+val_01698,1,балкон,SFCompact.ttf
+val_01699,0,коляска смартфон,Arial Bold.ttf
+val_01700,0,Premium Adidas,Marion.ttc
+val_01701,0,посуточно детский натуральная,Verdana.ttf
+val_01702,1,Разбор смартфон аккумулятор,SFNSRounded.ttf
+val_01703,0,выход,PTSerif.ttc
+val_01704,1,570 481 р.,AmericanTypewriter.ttc
+val_01705,0,726 607 р.,Seravek.ttc
+val_01706,1,самовывоз размер,HelveticaNeue.ttc
+val_01707,0,обмен торг коляска,Comic Sans MS Bold.ttf
+val_01708,1,СОСТАВ НОВОСИБИРСК,ヒラギノ角ゴシック W5.ttc
+val_01709,1,размер 370%,Tahoma.ttf
+val_01710,0,сыр цена,ヒラギノ角ゴシック W9.ttc
+val_01711,0,+7 (903) 352-10-15,ヒラギノ角ゴシック W4.ttc
+val_01712,1,МАСЛО ЗАКРЫТО,STIXTwoMath.otf
+val_01713,0,студия 236 шт,Comic Sans MS.ttf
+val_01714,1,ПРОДАЖ,PTSans.ttc
+val_01715,0,ГРАФИК ТЕМПЕРАТУРЕ,Comic Sans MS Bold.ttf
+val_01716,1,открыто внимание гарантия,Futura.ttc
+val_01717,1,внимание годности диски,Verdana Bold Italic.ttf
+val_01718,0,Печенье казань,MarkerFelt.ttc
+val_01719,0,комната,MarkerFelt.ttc
+val_01720,0,27455 руб.,PTSerif.ttc
+val_01721,0,Нетто посуточно,HelveticaNeue.ttc
+val_01722,1,+7 (944) 365-85-61,SFNSItalic.ttf
+val_01723,0,62869 руб.,Courier New Bold.ttf
+val_01724,1,РОСТОВ КВАРТИРА,SignPainter.ttc
+val_01725,0,+7 (986) 669-27-77,MarkerFelt.ttc
+val_01726,1,LG,Trattatello.ttf
+val_01727,1,Акция шоколад куплю,Baskerville.ttc
+val_01728,0,+7 (969) 737-31-83,Hiragino Sans GB.ttc
+val_01729,1,518 516 р.,Songti.ttc
+val_01730,0,РАЗБОР ВЕСНА,Hoefler Text.ttc
+val_01731,1,внимание 2,AquaKana.ttc
+val_01732,0,РАЗБОР ХОЛОДИЛЬНИК,GillSans.ttc
+val_01733,0,Original,Helvetica.ttc
+val_01734,1,РЕМОНТ,Arial Bold.ttf
+val_01735,1,+7 (960) 308-80-65,Athelas.ttc
+val_01736,1,Quality Carte,PTSans.ttc
+val_01737,1,Куртка выход шкаф,HelveticaNeue.ttc
+val_01738,1,Kinder,SnellRoundhand.ttc
+val_01739,0,скидка,Arial.ttf
+val_01740,1,студия 85 шт,DIN Condensed Bold.ttf
+val_01741,1,Kinder,Baskerville.ttc
+val_01742,0,+7 (927) 680-49-68,Hoefler Text.ttc
+val_01743,1,Samsung Lada,NewYorkItalic.ttf
+val_01744,1,Made China,ヒラギノ明朝 ProN.ttc
+val_01745,1,54 390 р.,Verdana Italic.ttf
+val_01746,0,Made,Times New Roman.ttf
+val_01747,0,437 561 р.,ヒラギノ角ゴシック W2.ttc
+val_01748,0,инструкция 472 см,LucidaGrande.ttc
+val_01749,0,вход,MarkerFelt.ttc
+val_01750,0,Adidas,Avenir Next.ttc
+val_01751,1,Kinder Nike,Marion.ttc
+val_01752,0,Краснодар,Luminari.ttf
+val_01753,1,Pro iPhone,Palatino.ttc
+val_01754,0,шоколад смартфон этаж,Athelas.ttc
+val_01755,0,ЧАЙ ВНИМАНИЕ ХРАНИТЬ,PTSans.ttc
+val_01756,1,шкаф,ヒラギノ角ゴシック W6.ttc
+val_01757,1,осторожно новый продавец,Copperplate.ttc
+val_01758,0,86469 руб.,AmericanTypewriter.ttc
+val_01759,0,СТУДИЯ СЛИВОЧНОЕ ИЗГОТОВИТЕЛЬ,AquaKana.ttc
+val_01760,1,кроссовки 296 г,Verdana Bold.ttf
+val_01761,0,детский Санкт-Петербург,ヒラギノ角ゴシック W6.ttc
+val_01762,1,Казань,SuperClarendon.ttc
+val_01763,1,5462 руб.,ChalkboardSE.ttc
+val_01764,1,ВОДА ЗАРЯДКА ПОСУТОЧНО,Arial Italic.ttf
+val_01765,0,Apple Zara,Arial Narrow Italic.ttf
+val_01766,1,+7 (924) 382-27-57,DIN Alternate Bold.ttf
+val_01767,0,+7 (943) 246-56-52,SuperClarendon.ttc
+val_01768,0,кожа магазин,Courier New.ttf
+val_01769,1,летняя,Avenir Next Condensed.ttc
+val_01770,1,сок,ヒラギノ角ゴシック W1.ttc
+val_01771,0,ИНСТРУКЦИЯ ЗАКРЫТО,DIN Condensed Bold.ttf
+val_01772,1,7802 руб.,Cochin.ttc
+val_01773,0,48181 руб.,PTSans.ttc
+val_01774,1,водитель сыр нетто,SignPainter.ttc
+val_01775,1,+7 (920) 531-26-68,Iowan Old Style.ttc
+val_01776,0,пальто 282 см,ヒラギノ丸ゴ ProN W4.ttc
+val_01777,1,+7 (906) 365-10-72,STIXTwoText-Italic.ttf
+val_01778,1,Lada LG,SuperClarendon.ttc
+val_01779,1,платье кроссовки,Phosphate.ttc
+val_01780,0,705 080 р.,Luminari.ttf
+val_01781,0,+7 (903) 594-43-43,Arial Narrow Bold.ttf
+val_01782,1,Продам стиральная вакансия,ヒラギノ明朝 ProN.ttc
+val_01783,0,стиральная шоколад,AppleMyungjo.ttf
+val_01784,0,Max,Marion.ttc
+val_01785,1,Краснодар вход,Noteworthy.ttc
+val_01786,0,ДИСКИ,STHeiti Light.ttc
+val_01787,0,продавец женская хранить,PTMono.ttc
+val_01788,0,85216 руб.,PTMono.ttc
+val_01789,0,Bosch Apple,AmericanTypewriter.ttc
+val_01790,0,инструкция 57,ChalkboardSE.ttc
+val_01791,1,ЗАКРЫТО КОЖА НЕТТО,Georgia Italic.ttf
+val_01792,1,Kinder in,AmericanTypewriter.ttc
+val_01793,1,куплю 89 см,PTSerif.ttc
+val_01794,1,Philips,STIXGeneral.otf
+val_01795,1,Nike Samsung,SFNSMono.ttf
+val_01796,0,масло аккумулятор Новосибирск,ヒラギノ角ゴシック W5.ttc
+val_01797,0,+7 (917) 204-47-82,Hiragino Sans GB.ttc
+val_01798,0,при 106,Times New Roman.ttf
+val_01799,1,191 287 р.,AquaKana.ttc
+val_01800,1,Lada,Charter.ttc
+val_01801,1,Sony Lada,Trebuchet MS Italic.ttf
+val_01802,0,пишите,Iowan Old Style.ttc
+val_01803,1,ПРОДАМ Б/У,AmericanTypewriter.ttc
+val_01804,1,220 832 р.,Baskerville.ttc
+val_01805,1,Осторожно при гарантия,Helvetica.ttc
+val_01806,1,ОРЕХИ,Avenir Next.ttc
+val_01807,0,Пишите,Menlo.ttc
+val_01808,1,орехи ванная,SnellRoundhand.ttc
+val_01809,1,Шерсть годности санкт-петербург,Trebuchet MS Bold Italic.ttf
+val_01810,1,КОМНАТА,SFCompactItalic.ttf
+val_01811,1,КРОВАТЬ РЕМОНТ ЭТАЖ,Menlo.ttc
+val_01812,0,ЛЕТНЯЯ,ヒラギノ角ゴシック W0.ttc
+val_01813,1,Zara,SnellRoundhand.ttc
+val_01814,0,Xiaomi Nestle,ヒラギノ角ゴシック W2.ttc
+val_01815,1,Nike Kinder,Arial Unicode.ttf
+val_01816,1,МОСКВА ГРАФИК,ヒラギノ角ゴシック W3.ttc
+val_01817,0,магазин Москва,STHeiti Medium.ttc
+val_01818,1,Осень открыто,SignPainter.ttc
+val_01819,1,МАГАЗИН СРОК,Marion.ttc
+val_01820,0,самовывоз разбор,Savoye LET.ttc
+val_01821,0,женская осень,PTSerif.ttc
+val_01822,1,+7 (950) 745-22-54,ヒラギノ角ゴシック W4.ttc
+val_01823,1,844 611 р.,NewYorkItalic.ttf
+val_01824,1,Казань зимняя,ヒラギノ明朝 ProN.ttc
+val_01825,1,Philips,AquaKana.ttc
+val_01826,0,+7 (958) 304-53-12,DIN Alternate Bold.ttf
+val_01827,1,Сок продам внимание,ヒラギノ角ゴシック W6.ttc
+val_01828,0,масло 288 г,Marion.ttc
+val_01829,1,10837 руб.,Noteworthy.ttc
+val_01830,0,Carte,Trebuchet MS Bold.ttf
+val_01831,0,смартфон,Hoefler Text.ttc
+val_01832,0,весна,ヒラギノ角ゴシック W5.ttc
+val_01833,0,Carte,Rockwell.ttc
+val_01834,0,СЛИВОЧНОЕ,Copperplate.ttc
+val_01835,1,289 934 р.,ヒラギノ角ゴシック W7.ttc
+val_01836,1,детский Краснодар,Times New Roman Italic.ttf
+val_01837,0,+7 (938) 439-84-37,Phosphate.ttc
+val_01838,0,17541 руб.,AppleSDGothicNeo.ttc
+val_01839,1,открыто 39 шт,ヒラギノ角ゴシック W9.ttc
+val_01840,1,ЛЕТНЯЯ ЗАКРЫТО СТУЛЬЯ,Phosphate.ttc
+val_01841,0,звоните натуральная,ヒラギノ角ゴシック W6.ttc
+val_01842,0,Санкт-Петербург 341 мл,Times.ttc
+val_01843,1,ВЫХОД КРОВАТЬ,ヒラギノ角ゴシック W6.ttc
+val_01844,1,ШОКОЛАД ПОСУТОЧНО,Avenir.ttc
+val_01845,0,гарантия 168 г,Iowan Old Style.ttc
+val_01846,1,+7 (989) 561-45-39,Trebuchet MS Bold.ttf
+val_01847,0,Size,ヒラギノ角ゴシック W1.ttc
+val_01848,1,+7 (951) 451-91-63,Palatino.ttc
+val_01849,0,NEW in,Arial Narrow Italic.ttf
+val_01850,0,Состав,NewYorkItalic.ttf
+val_01851,0,17748 руб.,AmericanTypewriter.ttc
+val_01852,0,выход хранить аккумулятор,Comic Sans MS Bold.ttf
+val_01853,1,+7 (984) 909-51-25,ChalkboardSE.ttc
+val_01854,0,Стол ростов звоните,Trebuchet MS Bold.ttf
+val_01855,0,ШИНЫ,Helvetica.ttc
+val_01856,1,ТЕМПЕРАТУРЕ КОЖА МАШИНА,HelveticaNeue.ttc
+val_01857,1,новый 20 мл,SuperClarendon.ttc
+val_01858,0,62745 руб.,ヒラギノ角ゴシック W3.ttc
+val_01859,1,АКЦИЯ ДИВАН НЕТТО,Avenir Next Condensed.ttc
+val_01860,0,Carte,PTSans.ttc
+val_01861,1,кожа,Georgia Italic.ttf
+val_01862,0,Казань,GillSans.ttc
+val_01863,0,КОЛЯСКА ОСТОРОЖНО,Athelas.ttc
+val_01864,0,Kinder,Copperplate.ttc
+val_01865,1,диски состав масло,AquaKana.ttc
+val_01866,1,стиральная 317 см,Noteworthy.ttc
+val_01867,0,доставка 170%,PTSerifCaption.ttc
+val_01868,1,+7 (925) 266-23-30,PTSans.ttc
+val_01869,1,куртка шоколад,MarkerFelt.ttc
+val_01870,0,закрыто,Times New Roman.ttf
+val_01871,1,изготовитель 330 г,Charter.ttc
+val_01872,1,масса,STIXTwoText-Italic.ttf
+val_01873,1,магазин 192 см,Athelas.ttc
+val_01874,1,Nike,Rockwell.ttc
+val_01875,1,Quality,ヒラギノ角ゴシック W2.ttc
+val_01876,0,Ремонт сливочное,STHeiti Medium.ttc
+val_01877,0,ОРИГИНАЛ ПРОДАВЕЦ КАЧЕСТВО,Cochin.ttc
+val_01878,0,ЭТАЖ,STIXTwoText-Italic.ttf
+val_01879,0,масло,ヒラギノ角ゴシック W6.ttc
+val_01880,1,скидка продаж,PTMono.ttc
+val_01881,1,Kinder,ヒラギノ明朝 ProN.ttc
+val_01882,0,BMW Original,Avenir Next.ttc
+val_01883,1,740 203 р.,Geneva.ttf
+val_01884,1,+7 (917) 167-98-53,Courier New Bold.ttf
+val_01885,1,50959 руб.,STHeiti Medium.ttc
+val_01886,0,in,Baskerville.ttc
+val_01887,0,Кухня шерсть,Athelas.ttc
+val_01888,0,СЛИВОЧНОЕ,Times.ttc
+val_01889,1,Омск,AmericanTypewriter.ttc
+val_01890,0,Состав стол,Hiragino Sans GB.ttc
+val_01891,0,Чай смартфон склад,Arial Unicode.ttf
+val_01892,1,39646 руб.,Sathu.ttf
+val_01893,0,размер качество масло,AmericanTypewriter.ttc
+val_01894,0,холодильник зимняя зарядка,SFNSItalic.ttf
+val_01895,1,Made,Arial Unicode.ttf
+val_01896,0,284 171 р.,Courier New Bold Italic.ttf
+val_01897,1,КРАСНОДАР НОВОСИБИРСК,Savoye LET.ttc
+val_01898,0,Made,Trebuchet MS Italic.ttf
+val_01899,0,ХОЛОДИЛЬНИК,ヒラギノ角ゴシック W2.ttc
+val_01900,1,выход,Thonburi.ttc
+val_01901,1,Carte Premium,Hiragino Sans GB.ttc
+val_01902,1,Зимняя диван комната,Comic Sans MS Bold.ttf
+val_01903,1,Lada,ヒラギノ角ゴシック W3.ttc
+val_01904,1,инструкция машина,Noteworthy.ttc
+val_01905,0,+7 (948) 702-50-90,DIN Alternate Bold.ttf
+val_01906,0,продаж 128 см,PTSerifCaption.ttc
+val_01907,0,54206 руб.,Arial Unicode.ttf
+val_01908,1,срок звоните водитель,HelveticaNeue.ttc
+val_01909,1,куплю,ヒラギノ角ゴシック W0.ttc
+val_01910,1,ОПЫТ,STIXTwoText-Italic.ttf
+val_01911,0,новый,STIXGeneral.otf
+val_01912,1,Lada,Thonburi.ttc
+val_01913,0,Apple Noire,Palatino.ttc
+val_01914,0,China Max,Baskerville.ttc
+val_01915,0,скидка,Phosphate.ttc
+val_01916,0,КУРТКА СКИДКА,Brush Script.ttf
+val_01917,0,машина 260%,ヒラギノ角ゴシック W2.ttc
+val_01918,0,новая,Phosphate.ttc
+val_01919,1,СЛИВОЧНОЕ КУРЬЕР,Times.ttc
+val_01920,1,Инструкция печенье,AppleGothic.ttf
+val_01921,0,Открыто аренда зарядка,ヒラギノ角ゴシック W7.ttc
+val_01922,0,99146 руб.,ヒラギノ明朝 ProN.ttc
+val_01923,1,ШОКОЛАД МАГАЗИН ШЕРСТЬ,ヒラギノ角ゴシック W9.ttc
+val_01924,0,+7 (976) 270-38-64,SnellRoundhand.ttc
+val_01925,1,Нетто шоколад,AppleSDGothicNeo.ttc
+val_01926,1,Apple BMW,STIXTwoText-Italic.ttf
+val_01927,0,комната,Arial Narrow Italic.ttf
+val_01928,1,512 642 р.,NewYork.ttf
+val_01929,1,Made,Charter.ttc
+val_01930,0,Apple Toyota,SFNSRounded.ttf
+val_01931,1,курьер Казань,SFCompactRounded.ttf
+val_01932,0,Внимание б/у ремонт,Seravek.ttc
+val_01933,0,куртка,Rockwell.ttc
+val_01934,0,Инструкция,Courier New Italic.ttf
+val_01935,0,Пишите молоко летняя,SFCompact.ttf
+val_01936,1,хит натуральная гарантия,SnellRoundhand.ttc
+val_01937,1,53237 руб.,Avenir Next.ttc
+val_01938,1,шерсть масло,Brush Script.ttf
+val_01939,0,57269 руб.,MarkerFelt.ttc
+val_01940,1,продавец,Arial Italic.ttf
+val_01941,1,конфеты площадь продам,Helvetica.ttc
+val_01942,0,склад зимняя весна,Courier New Bold Italic.ttf
+val_01943,0,СОК ПОСУТОЧНО,Trebuchet MS.ttf
+val_01944,0,ОСЕНЬ,PTSerifCaption.ttc
+val_01945,0,+7 (947) 374-75-46,HelveticaNeue.ttc
+val_01946,0,Сливочное,Comic Sans MS.ttf
+val_01947,1,Вода шины зарплата,PTSans.ttc
+val_01948,0,413 464 р.,Avenir.ttc
+val_01949,1,стулья продавец,Hiragino Sans GB.ttc
+val_01950,1,+7 (928) 419-48-69,Thonburi.ttc
+val_01951,0,срок Екатеринбург,STIXTwoText.ttf
+val_01952,0,Carte China,Times New Roman.ttf
+val_01953,1,+7 (954) 442-77-52,Arial Unicode.ttf
+val_01954,0,Max,Courier New Italic.ttf
+val_01955,0,+7 (987) 777-30-84,Menlo.ttc
+val_01956,0,Диван размер стиральная,Menlo.ttc
+val_01957,0,55738 руб.,Baskerville.ttc
+val_01958,0,осень оригинал,MarkerFelt.ttc
+val_01959,0,курьер,Comic Sans MS Bold.ttf
+val_01960,0,Apple,ヒラギノ角ゴシック W7.ttc
+val_01961,1,ванная 166,ChalkboardSE.ttc
+val_01962,1,СТУДИЯ,Courier New Bold.ttf
+val_01963,1,84 862 р.,ChalkboardSE.ttc
+val_01964,1,кухня,Arial Narrow Italic.ttf
+val_01965,1,Samsung iPhone,Avenir.ttc
+val_01966,0,ЗАКРЫТО,Verdana.ttf
+val_01967,1,Xiaomi Nike,Trebuchet MS Bold Italic.ttf
+val_01968,1,РЕМОНТ КОМНАТА,MarkerFelt.ttc
+val_01969,0,in Quality,Copperplate.ttc
+val_01970,0,Москва скидка печенье,PTSans.ttc
+val_01971,0,КОФЕ,Arial Narrow Bold Italic.ttf
+val_01972,1,32953 руб.,Trebuchet MS.ttf
+val_01973,1,Посуточно екатеринбург,LucidaGrande.ttc
+val_01974,1,Холодильник наушники температуре,Brush Script.ttf
+val_01975,1,площадь кровать,Cochin.ttc
+val_01976,1,авто 30%,Rockwell.ttc
+val_01977,0,кофе 330 г,ヒラギノ角ゴシック W0.ttc
+val_01978,0,+7 (990) 343-87-59,Microsoft Sans Serif.ttf
+val_01979,0,BMW,SFCompactItalic.ttf
+val_01980,0,+7 (980) 467-87-88,DIN Condensed Bold.ttf
+val_01981,1,+7 (997) 805-80-86,ヒラギノ明朝 ProN.ttc
+val_01982,1,75473 руб.,Cochin.ttc
+val_01983,0,21755 руб.,Geneva.ttf
+val_01984,0,+7 (952) 563-49-16,Impact.ttf
+val_01985,1,диски квартира открыто,Futura.ttc
+val_01986,0,АВТО,Times New Roman Bold.ttf
+val_01987,0,МУЖСКАЯ ХИТ,Didot.ttc
+val_01988,1,+7 (960) 813-66-90,Hiragino Sans GB.ttc
+val_01989,0,хлеб авто,Palatino.ttc
+val_01990,1,коляска зарплата инструкция,Georgia Italic.ttf
+val_01991,0,производитель 378,ヒラギノ角ゴシック W4.ttc
+val_01992,1,Новый хранить,SuperClarendon.ttc
+val_01993,0,+7 (994) 134-92-28,Arial Black.ttf
+val_01994,0,хит велосипед нетто,Monaco.ttf
+val_01995,0,куртка,ヒラギノ角ゴシック W6.ttc
+val_01996,0,КУРЬЕР ПИШИТЕ НОВЫЙ,HelveticaNeue.ttc
+val_01997,0,Зарядка,LucidaGrande.ttc
+val_01998,0,Внимание велосипед,Andale Mono.ttf
+val_01999,0,разбор 238 мл,Baskerville.ttc
+val_02000,1,Самара вода масса,ヒラギノ角ゴシック W1.ttc
+val_02001,0,машина продавец студия,STIXGeneralItalic.otf
+val_02002,0,звоните 130%,Savoye LET.ttc
+val_02003,0,стол осень цена,PTSerifCaption.ttc
+val_02004,0,Казань,AmericanTypewriter.ttc
+val_02005,0,качество,Times New Roman Bold Italic.ttf
+val_02006,1,ЗАРЯДКА,SnellRoundhand.ttc
+val_02007,1,диски Москва осень,STHeiti Light.ttc
+val_02008,1,+7 (953) 754-74-97,ヒラギノ角ゴシック W5.ttc
+val_02009,1,Ростов 92 шт,ヒラギノ角ゴシック W3.ttc
+val_02010,0,78297 руб.,Athelas.ttc
+val_02011,1,ПЕЧЕНЬЕ ДОСТАВКА МОСКВА,Hiragino Sans GB.ttc
+val_02012,0,скидка,Copperplate.ttc
+val_02013,0,45781 руб.,Impact.ttf
+val_02014,1,Xiaomi,Futura.ttc
+val_02015,0,Noire Made,PTSerif.ttc
+val_02016,1,печенье хлопок конфеты,Trebuchet MS.ttf
+val_02017,1,25 734 р.,Marion.ttc
+val_02018,1,склад 166%,Trebuchet MS Bold.ttf
+val_02019,1,Toyota,ヒラギノ角ゴシック W8.ttc
+val_02020,0,осень шоколад,Georgia Italic.ttf
+val_02021,1,вход 220 шт,AppleSDGothicNeo.ttc
+val_02022,0,КУПЛЮ,Arial Narrow Italic.ttf
+val_02023,1,студия кроссовки магазин,Courier New.ttf
+val_02024,1,71654 руб.,Menlo.ttc
+val_02025,1,выход,Avenir.ttc
+val_02026,1,Apple Xiaomi,STIXGeneralBol.otf
+val_02027,0,Водитель орехи,Verdana Bold Italic.ttf
+val_02028,1,Комната,AquaKana.ttc
+val_02029,0,ЖЕНСКАЯ,SFNSRounded.ttf
+val_02030,1,Made Nike,Georgia Italic.ttf
+val_02031,1,МЁД ЗИМНЯЯ,Phosphate.ttc
+val_02032,1,весна куртка хранить,Copperplate.ttc
+val_02033,0,цена,ヒラギノ角ゴシック W6.ttc
+val_02034,1,конфеты балкон,LucidaGrande.ttc
+val_02035,0,Bosch Original,ヒラギノ角ゴシック W8.ttc
+val_02036,0,SALE,Brush Script.ttf
+val_02037,0,8973 руб.,Songti.ttc
+val_02038,0,Max,ヒラギノ角ゴシック W6.ttc
+val_02039,0,Масса,Futura.ttc
+val_02040,1,кухня,ヒラギノ角ゴシック W4.ttc
+val_02041,1,АВТО МЁД МЁД,Avenir Next Condensed.ttc
+val_02042,0,детский б/у курьер,Thonburi.ttc
+val_02043,0,СОСТАВ ОМСК,AppleSDGothicNeo.ttc
+val_02044,0,Омск наушники,AquaKana.ttc
+val_02045,1,мужская новый зарплата,Georgia Bold Italic.ttf
+val_02046,1,НОВЫЙ КРОВАТЬ ЦЕНА,Trebuchet MS Bold Italic.ttf
+val_02047,1,пишите 459 шт,SuperClarendon.ttc
+val_02048,1,ДЕТСКИЙ СУМКА ШОКОЛАД,Arial Bold.ttf
+val_02049,0,б/у срок летняя,Hoefler Text.ttc
+val_02050,0,iPhone,Noteworthy.ttc
+val_02051,1,Детский куплю,ヒラギノ角ゴシック W5.ttc
+val_02052,0,Б/у,Baskerville.ttc
+val_02053,1,Екатеринбург склад состав,Songti.ttc
+val_02054,0,АКЦИЯ РОСТОВ,SFNSItalic.ttf
+val_02055,0,опыт,ヒラギノ角ゴシック W4.ttc
+val_02056,0,ШИНЫ МЁД,SuperClarendon.ttc
+val_02057,0,смартфон авто масло,Marion.ttc
+val_02058,0,+7 (968) 671-41-66,AquaKana.ttc
+val_02059,1,Original,PTSans.ttc
+val_02060,0,Apple,HelveticaNeue.ttc
+val_02061,0,ПРОДАЖ КОЛЯСКА,Verdana Bold Italic.ttf
+val_02062,1,Max Toyota,SnellRoundhand.ttc
+val_02063,1,Toyota Adidas,ヒラギノ角ゴシック W7.ttc
+val_02064,1,ПЕЧЕНЬЕ,Arial Bold Italic.ttf
+val_02065,0,НЕТТО БАЛКОН СТУДИЯ,ヒラギノ丸ゴ ProN W4.ttc
+val_02066,0,63656 руб.,Arial Bold.ttf
+val_02067,1,LG Made,Menlo.ttc
+val_02068,0,+7 (950) 142-52-77,AmericanTypewriter.ttc
+val_02069,0,2 208 р.,AquaKana.ttc
+val_02070,1,СМАРТФОН КУРЬЕР,AppleMyungjo.ttf
+val_02071,0,Premium Noire,Menlo.ttc
+val_02072,1,70961 руб.,Helvetica.ttc
+val_02073,1,54100 руб.,PTSans.ttc
+val_02074,0,КУРТКА ТЕЛЕФОН ВЕЛОСИПЕД,Songti.ttc
+val_02075,0,цена,Hoefler Text.ttc
+val_02076,0,осень шерсть,SFCompactItalic.ttf
+val_02077,0,стол,Phosphate.ttc
+val_02078,0,аккумулятор 110 г,ヒラギノ角ゴシック W6.ttc
+val_02079,0,МОЛОКО КУХНЯ,Rockwell.ttc
+val_02080,0,вакансия 234 мл,Tahoma Bold.ttf
+val_02081,1,стулья 260 шт,Iowan Old Style.ttc
+val_02082,1,75200 руб.,Copperplate.ttc
+val_02083,1,384 651 р.,AquaKana.ttc
+val_02084,1,+7 (910) 111-48-91,Arial Bold.ttf
+val_02085,0,стиральная состав срок,Courier New.ttf
+val_02086,1,ТОРГ,Marion.ttc
+val_02087,0,Apple,AppleSDGothicNeo.ttc
+val_02088,1,57815 руб.,Avenir Next.ttc
+val_02089,1,кровать состав,STIXTwoText.ttf
+val_02090,0,366 792 р.,Athelas.ttc
+val_02091,1,ШЕРСТЬ,AppleSDGothicNeo.ttc
+val_02092,1,Samsung,SFNSItalic.ttf
+val_02093,0,авто,Georgia Italic.ttf
+val_02094,1,внимание,Futura.ttc
+val_02095,0,кухня 318,Brush Script.ttf
+val_02096,0,+7 (906) 966-78-85,Arial Italic.ttf
+val_02097,1,этаж график,Andale Mono.ttf
+val_02098,1,шины печенье студия,ヒラギノ角ゴシック W2.ttc
+val_02099,1,Xiaomi Nike,Courier New Bold.ttf
+val_02100,1,сок стулья,ヒラギノ角ゴシック W5.ttc
+val_02101,1,+7 (924) 588-28-27,Hoefler Text.ttc
+val_02102,1,аккумулятор кровать,ヒラギノ角ゴシック W0.ttc
+val_02103,1,+7 (933) 664-10-55,Hiragino Sans GB.ttc
+val_02104,0,+7 (940) 819-74-77,Iowan Old Style.ttc
+val_02105,1,+7 (928) 387-73-97,Baskerville.ttc
+val_02106,1,НОВОСИБИРСК,Marion.ttc
+val_02107,1,+7 (961) 509-26-35,GillSans.ttc
+val_02108,0,+7 (907) 314-84-49,STIXGeneralBol.otf
+val_02109,1,Philips Made,Times.ttc
+val_02110,0,Xiaomi,Times New Roman Italic.ttf
+val_02111,1,ИНСТРУКЦИЯ НОВАЯ,Andale Mono.ttf
+val_02112,1,IKEA in,Cochin.ttc
+val_02113,1,летняя квартира осторожно,SuperClarendon.ttc
+val_02114,1,Size,Helvetica.ttc
+val_02115,0,ноутбук Казань,SFNSMonoItalic.ttf
+val_02116,0,новый студия доставка,Iowan Old Style.ttc
+val_02117,0,Наушники размер детский,Helvetica.ttc
+val_02118,1,СМАРТФОН ДИВАН САМОВЫВОЗ,ヒラギノ角ゴシック W9.ttc
+val_02119,0,ПРОИЗВОДИТЕЛЬ НОВАЯ,ヒラギノ角ゴシック W1.ttc
+val_02120,0,Quality,STIXGeneralBolIta.otf
+val_02121,1,ТЕЛЕФОН ОСТОРОЖНО,STIXGeneral.otf
+val_02122,1,мёд опыт хлопок,MarkerFelt.ttc
+val_02123,0,ШКАФ ВЕСНА САМОВЫВОЗ,AquaKana.ttc
+val_02124,0,215 853 р.,Tahoma.ttf
+val_02125,1,Noire,ヒラギノ角ゴシック W6.ttc
+val_02126,1,ОПЫТ ШОКОЛАД ОБМЕН,STIXTwoText.ttf
+val_02127,1,Чай конфеты шины,Rockwell.ttc
+val_02128,1,ШЕРСТЬ ОПЫТ КРОССОВКИ,ヒラギノ角ゴシック W6.ttc
+val_02129,1,+7 (946) 731-62-20,ヒラギノ角ゴシック W5.ttc
+val_02130,0,при шоколад,Iowan Old Style.ttc
+val_02131,1,инструкция 293,HelveticaNeue.ttc
+val_02132,0,78927 руб.,STIXGeneral.otf
+val_02133,0,37338 руб.,AmericanTypewriter.ttc
+val_02134,1,ЕКАТЕРИНБУРГ,PTMono.ttc
+val_02135,0,ЗАПЧАСТИ ОПЫТ САМАРА,Helvetica.ttc
+val_02136,1,открыто Самара,Seravek.ttc
+val_02137,0,Max,ヒラギノ角ゴシック W6.ttc
+val_02138,0,хлопок,Seravek.ttc
+val_02139,1,Sony,Palatino.ttc
+val_02140,0,самовывоз 42,Iowan Old Style.ttc
+val_02141,0,КОЛЯСКА ВОДА СКЛАД,Baskerville.ttc
+val_02142,0,ПРОДАВЕЦ ОРЕХИ,AmericanTypewriter.ttc
+val_02143,1,аренда 345%,Courier New Italic.ttf
+val_02144,0,Sony,Copperplate.ttc
+val_02145,1,Nike,Arial Narrow Bold Italic.ttf
+val_02146,0,весна 134 мл,AmericanTypewriter.ttc
+val_02147,0,НОВАЯ САМОВЫВОЗ,Hiragino Sans GB.ttc
+val_02148,0,ВАКАНСИЯ КОНФЕТЫ,SignPainter.ttc
+val_02149,1,опыт квартира,Phosphate.ttc
+val_02150,1,производитель,Microsoft Sans Serif.ttf
+val_02151,0,выход 373%,Arial Unicode.ttf
+val_02152,1,ОСЕНЬ ПРИ,Iowan Old Style.ttc
+val_02153,0,печенье,Iowan Old Style.ttc
+val_02154,1,+7 (992) 249-15-38,Helvetica.ttc
+val_02155,1,скидка детский аккумулятор,Athelas.ttc
+val_02156,0,изготовитель сыр кожа,Verdana Bold.ttf
+val_02157,0,Опыт омск,ヒラギノ角ゴシック W7.ttc
+val_02158,1,Новосибирск,ヒラギノ角ゴシック W1.ttc
+val_02159,1,НОУТБУК КОЖА АВТО,Verdana Bold.ttf
+val_02160,1,ОТКРЫТО,Copperplate.ttc
+val_02161,0,акция,ヒラギノ角ゴシック W5.ttc
+val_02162,0,ЗАПЧАСТИ ОРЕХИ ПРОИЗВОДИТЕЛЬ,ChalkboardSE.ttc
+val_02163,0,Мёд омск,Savoye LET.ttc
+val_02164,1,Nike Premium,Trebuchet MS Bold.ttf
+val_02165,1,б/у,Noteworthy.ttc
+val_02166,1,сумка,ヒラギノ角ゴシック W2.ttc
+val_02167,1,Sony,Thonburi.ttc
+val_02168,0,10074 руб.,Sathu.ttf
+val_02169,1,НАУШНИКИ ОМСК КУПЛЮ,Arial Italic.ttf
+val_02170,0,открыто,ヒラギノ角ゴシック W0.ttc
+val_02171,1,аренда 28 мл,STIXGeneralItalic.otf
+val_02172,1,самовывоз 112 мл,Rockwell.ttc
+val_02173,0,+7 (933) 255-12-26,Times New Roman Bold Italic.ttf
+val_02174,1,+7 (943) 733-46-17,ヒラギノ角ゴシック W3.ttc
+val_02175,0,кухня Екатеринбург обмен,ヒラギノ明朝 ProN.ttc
+val_02176,1,78818 руб.,Times New Roman Bold.ttf
+val_02177,0,+7 (971) 780-41-87,PTSerif.ttc
+val_02178,0,272 037 р.,Arial Narrow.ttf
+val_02179,0,НЕТТО,SFCompactItalic.ttf
+val_02180,0,доставка,Arial Black.ttf
+val_02181,0,Москва аккумулятор,AppleGothic.ttf
+val_02182,1,вход,SFCompactItalic.ttf
+val_02183,1,Вакансия самара,ヒラギノ明朝 ProN.ttc
+val_02184,0,ПРИ ПЕЧЕНЬЕ РОСТОВ,Helvetica.ttc
+val_02185,1,график новый летняя,Seravek.ttc
+val_02186,0,Size,Thonburi.ttc
+val_02187,1,62569 руб.,Georgia Bold.ttf
+val_02188,0,температуре авто б/у,STIXTwoMath.otf
+val_02189,0,смартфон,Marion.ttc
+val_02190,1,ЛЕТНЯЯ,Arial Unicode.ttf
+val_02191,0,ТЕЛЕФОН АКЦИЯ МАГАЗИН,HelveticaNeue.ttc
+val_02192,0,летняя,PTMono.ttc
+val_02193,1,НОВЫЙ САНКТ-ПЕТЕРБУРГ,STIXTwoText-Italic.ttf
+val_02194,1,40655 руб.,Seravek.ttc
+val_02195,0,IKEA Nestle,STIXTwoText-Italic.ttf
+val_02196,0,шкаф вход скидка,Microsoft Sans Serif.ttf
+val_02197,0,ОРИГИНАЛ ТЕМПЕРАТУРЕ КВАРТИРА,Menlo.ttc
+val_02198,1,Акция кожа,Futura.ttc
+val_02199,0,звоните,ChalkboardSE.ttc
+val_02200,0,куртка осень,SuperClarendon.ttc
+val_02201,0,Size,Times New Roman Bold Italic.ttf
+val_02202,0,Premium,Songti.ttc
+val_02203,0,женская велосипед Казань,Didot.ttc
+val_02204,0,ИЗГОТОВИТЕЛЬ,Microsoft Sans Serif.ttf
+val_02205,0,563 300 р.,ヒラギノ角ゴシック W7.ttc
+val_02206,1,ОСТОРОЖНО ТЕЛЕФОН,Hoefler Text.ttc
+val_02207,0,ПРОДАЖ ЛЕТНЯЯ,ヒラギノ角ゴシック W2.ttc
+val_02208,1,ЛЕТНЯЯ РАБОТА,Cochin.ttc
+val_02209,0,Оригинал,DIN Alternate Bold.ttf
+val_02210,1,АРЕНДА,ヒラギノ角ゴシック W1.ttc
+val_02211,1,+7 (986) 613-22-14,Avenir Next.ttc
+val_02212,0,Казань кожа,Charter.ttc
+val_02213,1,Пальто внимание запчасти,SFNS.ttf
+val_02214,1,шины,Helvetica.ttc
+val_02215,1,скидка 328 см,AquaKana.ttc
+val_02216,0,запчасти 336%,ヒラギノ角ゴシック W3.ttc
+val_02217,1,при 50 шт,Avenir.ttc
+val_02218,0,АККУМУЛЯТОР ГАРАНТИЯ ВЫХОД,Arial Narrow Italic.ttf
+val_02219,1,+7 (984) 132-14-51,Georgia.ttf
+val_02220,1,хранить,SuperClarendon.ttc
+val_02221,0,4879 руб.,AppleSDGothicNeo.ttc
+val_02222,1,+7 (900) 333-47-27,ヒラギノ角ゴシック W7.ttc
+val_02223,0,Казань,MarkerFelt.ttc
+val_02224,0,Площадь мёд шины,HelveticaNeue.ttc
+val_02225,1,Apple,STIXTwoText.ttf
+val_02226,1,сумка,Georgia.ttf
+val_02227,1,Производитель,Verdana Bold Italic.ttf
+val_02228,1,ОПЫТ ПРИ СКЛАД,STHeiti Light.ttc
+val_02229,0,Казань,Arial Black.ttf
+val_02230,1,ГАРАНТИЯ Б/У ВНИМАНИЕ,GillSans.ttc
+val_02231,0,ПАЛЬТО,SFNSMono.ttf
+val_02232,0,наушники Самара мужская,ヒラギノ丸ゴ ProN W4.ttc
+val_02233,0,66365 руб.,Iowan Old Style.ttc
+val_02234,0,Казань,Thonburi.ttc
+val_02235,0,460 371 р.,Verdana.ttf
+val_02236,0,584 268 р.,Georgia Bold.ttf
+val_02237,1,натуральная,SFNSMono.ttf
+val_02238,0,ПРОДАВЕЦ МЁД,Verdana Bold Italic.ttf
+val_02239,0,женская,Songti.ttc
+val_02240,0,Стол шины,Baskerville.ttc
+val_02241,0,Adidas,PTSans.ttc
+val_02242,0,курьер 456 мл,PTSans.ttc
+val_02243,0,сок,Hiragino Sans GB.ttc
+val_02244,0,ХЛЕБ КРАСНОДАР,SignPainter.ttc
+val_02245,1,аренда 329%,PTSerif.ttc
+val_02246,1,iPhone Original,ヒラギノ明朝 ProN.ttc
+val_02247,0,хит хит открыто,ヒラギノ角ゴシック W3.ttc
+val_02248,1,производитель продавец температуре,Songti.ttc
+val_02249,0,САНКТ-ПЕТЕРБУРГ СТИРАЛЬНАЯ СУМКА,PTMono.ttc
+val_02250,1,кофе,Charter.ttc
+val_02251,0,Sony,Savoye LET.ttc
+val_02252,0,+7 (913) 993-64-26,SnellRoundhand.ttc
+val_02253,0,Стулья шкаф,SnellRoundhand.ttc
+val_02254,0,наушники 150%,STHeiti Light.ttc
+val_02255,1,кожа,SFNSMono.ttf
+val_02256,1,ХЛОПОК ЭТАЖ,PTSans.ttc
+val_02257,0,платье,Impact.ttf
+val_02258,1,качество 356 см,ヒラギノ角ゴシック W8.ttc
+val_02259,1,вакансия Екатеринбург,Times New Roman Bold Italic.ttf
+val_02260,1,пальто,AppleMyungjo.ttf
+val_02261,0,годности смартфон,Geneva.ttf
+val_02262,0,83 938 р.,DIN Alternate Bold.ttf
+val_02263,1,КУПЛЮ ДИВАН РАЗМЕР,ヒラギノ角ゴシック W3.ttc
+val_02264,0,продаж 369 г,Menlo.ttc
+val_02265,0,доставка 129,ヒラギノ角ゴシック W2.ttc
+val_02266,0,хлеб 155 г,Cochin.ttc
+val_02267,0,Nestle Carte,ヒラギノ角ゴシック W1.ttc
+val_02268,0,760 105 р.,ヒラギノ角ゴシック W9.ttc
+val_02269,1,+7 (908) 961-51-38,Comic Sans MS Bold.ttf
+val_02270,1,66008 руб.,PTSerif.ttc
+val_02271,0,посуточно зимняя хранить,Savoye LET.ttc
+val_02272,1,Санкт-Петербург 480 мл,SFCompactItalic.ttf
+val_02273,0,68173 руб.,ヒラギノ角ゴシック W6.ttc
+val_02274,0,Zara Xiaomi,ヒラギノ角ゴシック W3.ttc
+val_02275,1,39257 руб.,PTMono.ttc
+val_02276,0,Quality Bosch,ChalkboardSE.ttc
+val_02277,1,+7 (965) 332-38-63,Georgia Bold.ttf
+val_02278,0,ЗАКРЫТО ЗАРПЛАТА ДЕТСКИЙ,Charter.ttc
+val_02279,0,Zara,Verdana Italic.ttf
+val_02280,0,обмен осторожно,ヒラギノ角ゴシック W9.ttc
+val_02281,0,магазин гарантия зарядка,Arial Narrow.ttf
+val_02282,0,качество магазин,ヒラギノ角ゴシック W3.ttc
+val_02283,0,состав машина,Songti.ttc
+val_02284,0,4 742 р.,Cochin.ttc
+val_02285,1,ЖЕНСКАЯ,Arial Bold.ttf
+val_02286,0,619 053 р.,Hiragino Sans GB.ttc
+val_02287,0,+7 (945) 459-81-35,AppleMyungjo.ttf
+val_02288,1,ТЕМПЕРАТУРЕ СРОК ЗАРЯДКА,Rockwell.ttc
+val_02289,0,при пишите,Athelas.ttc
+val_02290,0,+7 (982) 247-63-75,HelveticaNeue.ttc
+val_02291,0,IKEA,Seravek.ttc
+val_02292,0,Сумка,SFCompact.ttf
+val_02293,0,iPhone,Copperplate.ttc
+val_02294,0,59844 руб.,Songti.ttc
+val_02295,1,66205 руб.,ChalkboardSE.ttc
+val_02296,0,МОЛОКО ЗАКРЫТО КРОССОВКИ,STIXGeneralItalic.otf
+val_02297,0,ДЕТСКИЙ ПИШИТЕ ОРЕХИ,Geneva.ttf
+val_02298,0,ТЕМПЕРАТУРЕ НАТУРАЛЬНАЯ ПАЛЬТО,STIXGeneralBol.otf
+val_02299,1,Xiaomi Premium,SFNSRounded.ttf
+val_02300,0,СЫР,STIXGeneralItalic.otf
+val_02301,1,КАЗАНЬ ИНСТРУКЦИЯ,Verdana Italic.ttf
+val_02302,0,Открыто,MarkerFelt.ttc
+val_02303,1,+7 (950) 980-79-88,SFNS.ttf
+val_02304,1,балкон машина,LucidaGrande.ttc
+val_02305,0,график,Times.ttc
+val_02306,0,молоко,Noteworthy.ttc
+val_02307,1,продавец,PTSerif.ttc
+val_02308,1,Омск срок,Courier New Bold Italic.ttf
+val_02309,0,ДОСТАВКА ОПЫТ РАБОТА,STHeiti Light.ttc
+val_02310,1,Original,Baskerville.ttc
+val_02311,0,стол,ChalkboardSE.ttc
+val_02312,0,804 232 р.,PTSerif.ttc
+val_02313,1,+7 (958) 802-16-76,Charter.ttc
+val_02314,1,ванная детский,PTMono.ttc
+val_02315,1,Омск,SFNSMonoItalic.ttf
+val_02316,0,склад сыр,GillSans.ttc
+val_02317,0,куртка этаж,PTMono.ttc
+val_02318,0,опыт 378,LucidaGrande.ttc
+val_02319,1,Балкон гарантия кухня,ChalkboardSE.ttc
+val_02320,1,детский холодильник хлопок,DIN Condensed Bold.ttf
+val_02321,0,LG Pro,Seravek.ttc
+val_02322,0,75743 руб.,Georgia Italic.ttf
+val_02323,0,Ростов магазин наушники,Trebuchet MS Bold.ttf
+val_02324,0,Noire Sony,SnellRoundhand.ttc
+val_02325,1,43353 руб.,ヒラギノ角ゴシック W1.ttc
+val_02326,1,пальто машина,AmericanTypewriter.ttc
+val_02327,0,орехи смартфон,Menlo.ttc
+val_02328,1,Магазин масло,Arial Unicode.ttf
+val_02329,1,Новосибирск смартфон зарядка,GillSans.ttc
+val_02330,0,+7 (933) 853-75-46,Hiragino Sans GB.ttc
+val_02331,0,закрыто 82 см,ヒラギノ角ゴシック W1.ttc
+val_02332,1,этаж хит,SuperClarendon.ttc
+val_02333,1,вакансия,HelveticaNeue.ttc
+val_02334,0,Samsung Adidas,Times.ttc
+val_02335,1,Осторожно вода пальто,DIN Alternate Bold.ttf
+val_02336,0,+7 (917) 865-37-25,STHeiti Light.ttc
+val_02337,0,зарядка,ヒラギノ角ゴシック W9.ttc
+val_02338,0,осень орехи,LucidaGrande.ttc
+val_02339,0,посуточно 140 см,ヒラギノ角ゴシック W5.ttc
+val_02340,0,холодильник производитель,Baskerville.ttc
+val_02341,1,Carte,Sathu.ttf
+val_02342,1,квартира 91,SnellRoundhand.ttc
+val_02343,0,пальто,Baskerville.ttc
+val_02344,1,стиральная 320 мл,AmericanTypewriter.ttc
+val_02345,1,IKEA in,Trebuchet MS.ttf
+val_02346,1,мёд 444 см,ヒラギノ角ゴシック W5.ttc
+val_02347,0,вода машина сок,Tahoma.ttf
+val_02348,0,14 651 р.,Seravek.ttc
+val_02349,1,зарядка детский хранить,MarkerFelt.ttc
+val_02350,0,ШКАФ МАГАЗИН СТУДИЯ,Iowan Old Style.ttc
+val_02351,1,Стулья посуточно,STHeiti Medium.ttc
+val_02352,1,Инструкция молоко,Arial Black.ttf
+val_02353,0,ШЕРСТЬ МОЛОКО,ヒラギノ角ゴシック W3.ttc
+val_02354,1,ЛЕТНЯЯ КРАСНОДАР,Marion.ttc
+val_02355,1,+7 (974) 736-61-81,Avenir.ttc
+val_02356,0,ШКАФ САМАРА МЁД,Marion.ttc
+val_02357,0,ПРОДАВЕЦ,SnellRoundhand.ttc
+val_02358,1,Pro,ヒラギノ角ゴシック W8.ttc
+val_02359,0,88622 руб.,SnellRoundhand.ttc
+val_02360,1,при 206%,Verdana Bold Italic.ttf
+val_02361,0,ЖЕНСКАЯ СТОЛ КАЧЕСТВО,Baskerville.ttc
+val_02362,0,НАУШНИКИ СЛИВОЧНОЕ ЗИМНЯЯ,Courier New Bold Italic.ttf
+val_02363,1,масса хлопок нетто,PTSerifCaption.ttc
+val_02364,1,ШИНЫ МОСКВА,Rockwell.ttc
+val_02365,0,+7 (941) 465-45-32,Brush Script.ttf
+val_02366,0,ЕКАТЕРИНБУРГ ОРЕХИ ШЕРСТЬ,Noteworthy.ttc
+val_02367,0,Новосибирск торг водитель,Brush Script.ttf
+val_02368,1,ТЕЛЕФОН,Arial Narrow Italic.ttf
+val_02369,0,Омск смартфон,Phosphate.ttc
+val_02370,1,+7 (903) 353-18-15,Hoefler Text.ttc
+val_02371,1,Pro Kinder,AppleSDGothicNeo.ttc
+val_02372,0,ДИВАН РОСТОВ,Times New Roman Bold.ttf
+val_02373,1,+7 (900) 446-84-95,Athelas.ttc
+val_02374,0,продаж кожа,Georgia Bold Italic.ttf
+val_02375,1,Premium,Arial Unicode.ttf
+val_02376,1,Комната ремонт,AppleMyungjo.ttf
+val_02377,1,сок,Menlo.ttc
+val_02378,1,Аккумулятор скидка,Monaco.ttf
+val_02379,0,+7 (928) 865-43-66,ヒラギノ角ゴシック W7.ttc
+val_02380,1,при конфеты закрыто,ヒラギノ角ゴシック W5.ttc
+val_02381,0,кроссовки 50 см,GillSans.ttc
+val_02382,1,81167 руб.,Times New Roman Bold Italic.ttf
+val_02383,1,пишите скидка,Iowan Old Style.ttc
+val_02384,0,IKEA iPhone,STIXTwoMath.otf
+val_02385,0,+7 (986) 625-14-31,Baskerville.ttc
+val_02386,1,Скидка,Verdana Bold.ttf
+val_02387,0,Nestle Nestle,Arial Narrow Bold.ttf
+val_02388,0,наушники звоните стол,Marion.ttc
+val_02389,1,ТЕМПЕРАТУРЕ КУХНЯ ОТКРЫТО,SuperClarendon.ttc
+val_02390,1,комната цена орехи,ヒラギノ角ゴシック W8.ttc
+val_02391,1,ВОДА МАГАЗИН ДИСКИ,Athelas.ttc
+val_02392,1,цена машина осторожно,Courier New Bold.ttf
+val_02393,0,Apple Philips,Iowan Old Style.ttc
+val_02394,1,хранить 369,ヒラギノ角ゴシック W1.ttc
+val_02395,1,BMW Size,ヒラギノ角ゴシック W3.ttc
+val_02396,0,+7 (919) 935-76-31,PTSans.ttc
+val_02397,0,iPhone NEW,ヒラギノ角ゴシック W9.ttc
+val_02398,0,BMW Sony,Seravek.ttc
+val_02399,1,шкаф,Charter.ttc
+val_02400,1,цена б/у,ヒラギノ角ゴシック W7.ttc
+val_02401,0,внимание новая Ростов,Tahoma.ttf
+val_02402,0,+7 (978) 755-33-12,Hiragino Sans GB.ttc
+val_02403,0,198 290 р.,Arial Narrow Bold.ttf
+val_02404,0,МОСКВА ДОСТАВКА,PTSerifCaption.ttc
+val_02405,1,НЕТТО,ヒラギノ角ゴシック W6.ttc
+val_02406,0,876 996 р.,Arial Unicode.ttf
+val_02407,0,71305 руб.,SnellRoundhand.ttc
+val_02408,1,НОУТБУК СТУДИЯ НОВОСИБИРСК,Arial Unicode.ttf
+val_02409,0,шерсть,Songti.ttc
+val_02410,0,22411 руб.,HelveticaNeue.ttc
+val_02411,1,+7 (982) 435-69-20,Verdana Bold.ttf
+val_02412,1,осторожно 263%,ヒラギノ丸ゴ ProN W4.ttc
+val_02413,1,Краснодар 289 шт,AmericanTypewriter.ttc
+val_02414,1,НЕТТО,Arial Bold Italic.ttf
+val_02415,1,внимание,Charter.ttc
+val_02416,0,IKEA BMW,SnellRoundhand.ttc
+val_02417,0,состав,Helvetica.ttc
+val_02418,0,Екатеринбург 113 мл,PTMono.ttc
+val_02419,0,женская изготовитель смартфон,Thonburi.ttc
+val_02420,0,Новосибирск опыт,Athelas.ttc
+val_02421,1,Philips,Courier New Bold Italic.ttf
+val_02422,0,LG,PTSerifCaption.ttc
+val_02423,1,велосипед 202%,Brush Script.ttf
+val_02424,0,Lada Apple,STHeiti Light.ttc
+val_02425,0,осень 7,ヒラギノ角ゴシック W2.ttc
+val_02426,0,+7 (962) 806-14-41,Cochin.ttc
+val_02427,1,нетто 379 мл,ヒラギノ角ゴシック W5.ttc
+val_02428,0,Самара велосипед конфеты,Futura.ttc
+val_02429,0,при 448 г,AppleMyungjo.ttf
+val_02430,0,студия 104 г,MarkerFelt.ttc
+val_02431,1,скидка,PTSerifCaption.ttc
+val_02432,0,Toyota,Copperplate.ttc
+val_02433,0,Стулья внимание куртка,DIN Condensed Bold.ttf
+val_02434,0,молоко,Avenir Next.ttc
+val_02435,0,РАЗМЕР,STIXGeneralBol.otf
+val_02436,0,ПРОИЗВОДИТЕЛЬ ПРИ,Helvetica.ttc
+val_02437,1,Philips,ヒラギノ明朝 ProN.ttc
+val_02438,1,506 520 р.,ヒラギノ角ゴシック W8.ttc
+val_02439,0,РЕМОНТ,SuperClarendon.ttc
+val_02440,1,in,ヒラギノ角ゴシック W4.ttc
+val_02441,0,Температуре график аккумулятор,SnellRoundhand.ttc
+val_02442,1,МАШИНА ОТКРЫТО АККУМУЛЯТОР,PTSerif.ttc
+val_02443,0,Samsung,Avenir Next.ttc
+val_02444,1,Изготовитель кожа платье,Palatino.ttc
+val_02445,0,НАУШНИКИ ХИТ ПРОДАЖ,Georgia.ttf
+val_02446,0,268 013 р.,ヒラギノ角ゴシック W0.ttc
+val_02447,0,размер 162%,ヒラギノ明朝 ProN.ttc
+val_02448,0,+7 (957) 754-85-83,Menlo.ttc
+val_02449,1,нетто склад,Times New Roman Bold Italic.ttf
+val_02450,0,КРОВАТЬ,ヒラギノ角ゴシック W2.ttc
+val_02451,1,обмен 472%,ヒラギノ明朝 ProN.ttc
+val_02452,1,сок мужская склад,Courier New Bold.ttf
+val_02453,0,сумка женская,Times.ttc
+val_02454,1,SALE Original,SuperClarendon.ttc
+val_02455,1,Pro NEW,ヒラギノ角ゴシック W8.ttc
+val_02456,0,ЗАПЧАСТИ,Athelas.ttc
+val_02457,0,Pro,Helvetica.ttc
+val_02458,1,КУХНЯ,SignPainter.ttc
+val_02459,0,ОСТОРОЖНО ГОДНОСТИ ПЛАТЬЕ,ヒラギノ角ゴシック W4.ttc
+val_02460,0,звоните продаж зимняя,Thonburi.ttc
+val_02461,1,Пальто,SFCompactRounded.ttf
+val_02462,1,МАГАЗИН РАЗМЕР БАЛКОН,Courier New Italic.ttf
+val_02463,0,+7 (936) 858-49-91,ヒラギノ角ゴシック W1.ttc
+val_02464,1,Bosch Bosch,Comic Sans MS.ttf
+val_02465,0,ЗАКРЫТО АККУМУЛЯТОР СТИРАЛЬНАЯ,AmericanTypewriter.ttc
+val_02466,0,стиральная,Trebuchet MS.ttf
+val_02467,0,+7 (973) 859-34-32,Cochin.ttc
+val_02468,1,опыт 493 см,ヒラギノ明朝 ProN.ttc
+val_02469,1,кровать,Iowan Old Style.ttc
+val_02470,0,Новосибирск работа гарантия,PTMono.ttc
+val_02471,0,МЁД РЕМОНТ,SFNSRounded.ttf
+val_02472,0,АКЦИЯ КУРЬЕР ХРАНИТЬ,Times New Roman.ttf
+val_02473,1,Zara Adidas,GillSans.ttc
+val_02474,1,сумка внимание,AmericanTypewriter.ttc
+val_02475,0,ПРОДАВЕЦ,HelveticaNeue.ttc
+val_02476,0,НАТУРАЛЬНАЯ ЗАПЧАСТИ ПЛОЩАДЬ,AmericanTypewriter.ttc
+val_02477,0,РАЗБОР,Tahoma Bold.ttf
+val_02478,1,телефон шины диван,GillSans.ttc
+val_02479,1,Size China,Baskerville.ttc
+val_02480,1,Xiaomi Premium,AmericanTypewriter.ttc
+val_02481,1,ПРИ ВХОД ПРИ,Charter.ttc
+val_02482,1,АККУМУЛЯТОР,ヒラギノ角ゴシック W9.ttc
+val_02483,0,опыт,ヒラギノ角ゴシック W3.ttc
+val_02484,1,хлеб склад кровать,Marion.ttc
+val_02485,1,мужская работа,Arial Narrow Italic.ttf
+val_02486,0,осторожно аренда,AppleMyungjo.ttf
+val_02487,0,Toyota Toyota,Hiragino Sans GB.ttc
+val_02488,1,93053 руб.,Palatino.ttc
+val_02489,0,разбор наушники,Sathu.ttf
+val_02490,1,Москва 163%,SFNS.ttf
+val_02491,0,Apple Size,Seravek.ttc
+val_02492,1,Самара,ヒラギノ角ゴシック W9.ttc
+val_02493,0,+7 (994) 145-25-51,Palatino.ttc
+val_02494,0,Pro,Avenir Next.ttc
+val_02495,0,цена 94 шт,Trattatello.ttf
+val_02496,1,Качество,Arial Italic.ttf
+val_02497,0,56676 руб.,ヒラギノ角ゴシック W2.ttc
+val_02498,0,студия смартфон зарплата,Arial Black.ttf
+val_02499,1,Оригинал детский,DIN Condensed Bold.ttf
+val_02500,0,площадь 473%,ヒラギノ角ゴシック W8.ttc
+val_02501,0,квартира сливочное магазин,SFNSRounded.ttf
+val_02502,0,Мёд,Savoye LET.ttc
+val_02503,0,Гарантия аренда,Comic Sans MS.ttf
+val_02504,1,качество нетто мужская,Phosphate.ttc
+val_02505,0,стиральная женская шерсть,ヒラギノ角ゴシック W3.ttc
+val_02506,1,Pro Toyota,Arial Narrow Bold Italic.ttf
+val_02507,1,ШОКОЛАД КУХНЯ КОЛЯСКА,ヒラギノ角ゴシック W5.ttc
+val_02508,1,+7 (991) 156-35-89,ヒラギノ角ゴシック W3.ttc
+val_02509,1,Ноутбук детский студия,NewYork.ttf
+val_02510,1,зимняя 444 мл,Savoye LET.ttc
+val_02511,0,+7 (941) 718-52-67,ヒラギノ角ゴシック W5.ttc
+val_02512,1,65837 руб.,AmericanTypewriter.ttc
+val_02513,1,ГОДНОСТИ,ヒラギノ角ゴシック W9.ttc
+val_02514,1,детский обмен хит,ヒラギノ明朝 ProN.ttc
+val_02515,1,Nike,ヒラギノ角ゴシック W2.ttc
+val_02516,1,+7 (994) 463-54-34,PTSerifCaption.ttc
+val_02517,0,осторожно,Andale Mono.ttf
+val_02518,1,NEW Max,STIXTwoMath.otf
+val_02519,0,Zara,HelveticaNeue.ttc
+val_02520,1,внимание 382,Hoefler Text.ttc
+val_02521,1,нетто 326 шт,Songti.ttc
+val_02522,1,Комната велосипед новая,Avenir.ttc
+val_02523,0,Kinder Bosch,Baskerville.ttc
+val_02524,1,опыт 381 г,ヒラギノ明朝 ProN.ttc
+val_02525,1,осень разбор,Avenir Next.ttc
+val_02526,0,Хранить,PTMono.ttc
+val_02527,0,пишите,GillSans.ttc
+val_02528,0,состав Омск,Luminari.ttf
+val_02529,0,ТЕЛЕФОН РАЗБОР ПЕЧЕНЬЕ,Monaco.ttf
+val_02530,0,+7 (909) 946-64-37,AppleSDGothicNeo.ttc
+val_02531,0,Самара,Brush Script.ttf
+val_02532,0,+7 (943) 335-57-22,LucidaGrande.ttc
+val_02533,0,открыто шоколад водитель,Arial Bold Italic.ttf
+val_02534,1,ОСТОРОЖНО ВЫХОД,Marion.ttc
+val_02535,1,акция печенье,Arial Bold Italic.ttf
+val_02536,0,шоколад,AppleSDGothicNeo.ttc
+val_02537,0,SALE,SignPainter.ttc
+val_02538,1,Кофе вода,ヒラギノ角ゴシック W5.ttc
+val_02539,1,СОК,Verdana Italic.ttf
+val_02540,1,зарядка,SFNS.ttf
+val_02541,0,запчасти новый,Microsoft Sans Serif.ttf
+val_02542,0,Lada Apple,Futura.ttc
+val_02543,0,ШКАФ ОСТОРОЖНО,AmericanTypewriter.ttc
+val_02544,0,масса диски,Menlo.ttc
+val_02545,1,Продавец куртка куртка,Courier New Bold Italic.ttf
+val_02546,0,52575 руб.,Athelas.ttc
+val_02547,0,ХИТ СТОЛ,SnellRoundhand.ttc
+val_02548,1,China,NewYork.ttf
+val_02549,1,Краснодар 38 г,SuperClarendon.ttc
+val_02550,1,продаж 208%,Georgia.ttf
+val_02551,1,ШКАФ КАЗАНЬ,AppleGothic.ttf
+val_02552,1,график сок,SFNSMonoItalic.ttf
+val_02553,0,наушники,HelveticaNeue.ttc
+val_02554,0,график комната,Songti.ttc
+val_02555,0,водитель кожа,Noteworthy.ttc
+val_02556,0,Size,Thonburi.ttc
+val_02557,1,ШКАФ,Avenir Next Condensed.ttc
+val_02558,0,ЖЕНСКАЯ,Athelas.ttc
+val_02559,1,36593 руб.,Hoefler Text.ttc
+val_02560,0,+7 (925) 408-35-65,Trebuchet MS Italic.ttf
+val_02561,1,температуре изготовитель,Avenir.ttc
+val_02562,1,BMW Original,PTSerif.ttc
+val_02563,1,звоните инструкция торг,MarkerFelt.ttc
+val_02564,0,ОСТОРОЖНО ЕКАТЕРИНБУРГ АКЦИЯ,STIXGeneral.otf
+val_02565,1,Москва 49 шт,Marion.ttc
+val_02566,0,НАТУРАЛЬНАЯ РАБОТА РЕМОНТ,SnellRoundhand.ttc
+val_02567,1,+7 (946) 311-59-47,Avenir.ttc
+val_02568,1,+7 (940) 468-98-10,Marion.ttc
+val_02569,0,+7 (971) 585-70-85,Arial Narrow Bold.ttf
+val_02570,0,Nestle,Courier New Bold.ttf
+val_02571,0,ОСЕНЬ,SFNSMono.ttf
+val_02572,0,сумка пишите опыт,Noteworthy.ttc
+val_02573,0,САМОВЫВОЗ КРОВАТЬ,SFNS.ttf
+val_02574,1,Toyota NEW,STHeiti Light.ttc
+val_02575,0,NEW Adidas,Thonburi.ttc
+val_02576,0,Сумка,SFNSMono.ttf
+val_02577,1,обмен сумка,Times.ttc
+val_02578,0,Температуре осторожно,Georgia Bold Italic.ttf
+val_02579,0,Noire Apple,Phosphate.ttc
+val_02580,1,in Pro,ヒラギノ角ゴシック W4.ttc
+val_02581,1,кожа 21 см,STIXTwoText.ttf
+val_02582,0,звоните осень квартира,Trattatello.ttf
+val_02583,0,Bosch,Avenir Next.ttc
+val_02584,1,хлеб площадь аккумулятор,Times.ttc
+val_02585,1,обмен 457%,Athelas.ttc
+val_02586,1,куртка мужская,ヒラギノ角ゴシック W7.ttc
+val_02587,1,кровать,PTSerif.ttc
+val_02588,0,96200 руб.,ヒラギノ角ゴシック W4.ttc
+val_02589,0,18484 руб.,Palatino.ttc
+val_02590,1,Машина мёд,Arial Bold Italic.ttf
+val_02591,0,+7 (992) 289-87-16,STIXTwoMath.otf
+val_02592,0,262 292 р.,Avenir Next.ttc
+val_02593,0,НЕТТО,SFNSMono.ttf
+val_02594,1,Б/У КОФЕ,Cochin.ttc
+val_02595,0,доставка 182 г,SuperClarendon.ttc
+val_02596,1,стол пальто доставка,SFNSMono.ttf
+val_02597,1,КАЗАНЬ ОБМЕН,Trebuchet MS Bold.ttf
+val_02598,1,кровать нетто куплю,Trebuchet MS.ttf
+val_02599,0,чай конфеты,Arial Bold Italic.ttf
+val_02600,1,АРЕНДА НОВОСИБИРСК САМАРА,PTSans.ttc
+val_02601,0,Noire Kinder,Charter.ttc
+val_02602,1,НОВЫЙ СКЛАД,ヒラギノ角ゴシック W8.ttc
+val_02603,0,хит,Charter.ttc
+val_02604,0,Годности новая,DIN Condensed Bold.ttf
+val_02605,0,Новосибирск склад хлеб,PTSerifCaption.ttc
+val_02606,1,+7 (963) 380-90-98,Arial Italic.ttf
+val_02607,0,in Toyota,Songti.ttc
+val_02608,1,+7 (984) 765-97-32,ヒラギノ丸ゴ ProN W4.ttc
+val_02609,1,осторожно 340 г,PTSans.ttc
+val_02610,1,299 607 р.,Cochin.ttc
+val_02611,0,осень печенье мужская,SignPainter.ttc
+val_02612,0,продаж 326 г,PTMono.ttc
+val_02613,1,Quality Premium,Iowan Old Style.ttc
+val_02614,1,звоните,Palatino.ttc
+val_02615,1,Carte Noire,Georgia Bold.ttf
+val_02616,1,сливочное аккумулятор,Didot.ttc
+val_02617,1,доставка,Brush Script.ttf
+val_02618,1,САНКТ-ПЕТЕРБУРГ,SignPainter.ttc
+val_02619,1,МЁД,HelveticaNeue.ttc
+val_02620,1,масло,Rockwell.ttc
+val_02621,1,+7 (903) 377-92-62,Helvetica.ttc
+val_02622,1,аккумулятор,Georgia Bold.ttf
+val_02623,1,ноутбук 292%,SFNSRounded.ttf
+val_02624,1,стулья,ヒラギノ角ゴシック W0.ttc
+val_02625,0,Apple Toyota,SFCompactItalic.ttf
+val_02626,0,939 859 р.,Helvetica.ttc
+val_02627,0,КУПЛЮ,Baskerville.ttc
+val_02628,1,+7 (911) 115-90-28,ヒラギノ角ゴシック W2.ttc
+val_02629,1,LG,STIXTwoMath.otf
+val_02630,0,авто хранить работа,Hiragino Sans GB.ttc
+val_02631,0,новый 485 см,ChalkboardSE.ttc
+val_02632,1,хлеб,AquaKana.ttc
+val_02633,0,Весна доставка,Avenir Next Condensed.ttc
+val_02634,1,+7 (911) 770-87-53,Times.ttc
+val_02635,1,+7 (970) 279-71-26,Cochin.ttc
+val_02636,0,+7 (954) 890-70-97,Arial Narrow Bold.ttf
+val_02637,0,кроссовки 289 шт,ヒラギノ角ゴシック W2.ttc
+val_02638,0,зимняя,ヒラギノ丸ゴ ProN W4.ttc
+val_02639,1,70309 руб.,SuperClarendon.ttc
+val_02640,0,Noire Bosch,Times.ttc
+val_02641,0,шины диван,STIXTwoText-Italic.ttf
+val_02642,0,коляска,GillSans.ttc
+val_02643,0,выход опыт внимание,Palatino.ttc
+val_02644,1,Масса мёд,STIXTwoText.ttf
+val_02645,0,осень конфеты запчасти,SFNSMono.ttf
+val_02646,1,68578 руб.,Trebuchet MS Bold.ttf
+val_02647,0,КУРЬЕР АККУМУЛЯТОР ШОКОЛАД,SuperClarendon.ttc
+val_02648,1,iPhone,Cochin.ttc
+val_02649,1,+7 (938) 138-35-80,Futura.ttc
+val_02650,0,96097 руб.,AmericanTypewriter.ttc
+val_02651,1,+7 (935) 972-49-83,MarkerFelt.ttc
+val_02652,1,Lada,Menlo.ttc
+val_02653,0,578 406 р.,HelveticaNeue.ttc
+val_02654,1,аккумулятор осторожно стулья,SFNS.ttf
+val_02655,1,стол комната,Songti.ttc
+val_02656,0,КВАРТИРА,Arial Unicode.ttf
+val_02657,0,авто,Seravek.ttc
+val_02658,1,хит,GillSans.ttc
+val_02659,0,ОМСК ПОСУТОЧНО,Athelas.ttc
+val_02660,0,шины 148%,Tahoma Bold.ttf
+val_02661,1,+7 (928) 495-42-55,Verdana Italic.ttf
+val_02662,0,in Kinder,Arial Narrow Bold Italic.ttf
+val_02663,1,НАТУРАЛЬНАЯ ОРЕХИ,Baskerville.ttc
+val_02664,0,+7 (946) 732-18-49,Times.ttc
+val_02665,1,Новосибирск,Georgia Italic.ttf
+val_02666,0,SALE,Verdana.ttf
+val_02667,1,+7 (970) 569-66-10,Seravek.ttc
+val_02668,0,Lada,PTMono.ttc
+val_02669,1,Изготовитель,Thonburi.ttc
+val_02670,1,LG,Iowan Old Style.ttc
+val_02671,1,запчасти 372 мл,AppleSDGothicNeo.ttc
+val_02672,0,График стиральная,STIXGeneral.otf
+val_02673,0,Запчасти сок хит,Baskerville.ttc
+val_02674,0,аренда стулья,ヒラギノ角ゴシック W9.ttc
+val_02675,0,Noire LG,Trebuchet MS Italic.ttf
+val_02676,1,Акция,SFNSMonoItalic.ttf
+val_02677,0,сыр,Georgia Italic.ttf
+val_02678,1,Санкт-Петербург,AppleSDGothicNeo.ttc
+val_02679,1,ВЫХОД,ヒラギノ角ゴシック W7.ttc
+val_02680,1,ЗВОНИТЕ,Brush Script.ttf
+val_02681,0,87318 руб.,STIXTwoText.ttf
+val_02682,1,Ростов,Arial Unicode.ttf
+val_02683,0,78817 руб.,Palatino.ttc
+val_02684,0,Apple Quality,Arial Narrow Bold.ttf
+val_02685,0,температуре диван,HelveticaNeue.ttc
+val_02686,1,РАБОТА СТОЛ,Copperplate.ttc
+val_02687,0,Детский москва диван,Marion.ttc
+val_02688,0,+7 (922) 783-85-64,PTSans.ttc
+val_02689,0,оригинал Новосибирск,ヒラギノ角ゴシック W3.ttc
+val_02690,0,Sony BMW,NewYork.ttf
+val_02691,0,Lada,Avenir Next.ttc
+val_02692,0,Sony Apple,Charter.ttc
+val_02693,1,КОМНАТА ГРАФИК РАБОТА,ヒラギノ角ゴシック W1.ttc
+val_02694,1,пальто 494 мл,Trattatello.ttf
+val_02695,0,Санкт-Петербург балкон,AppleGothic.ttf
+val_02696,0,куртка 289 мл,Times.ttc
+val_02697,1,Сливочное холодильник студия,Times.ttc
+val_02698,1,Ванная,Baskerville.ttc
+val_02699,1,КРОВАТЬ ПРОДАВЕЦ ШЕРСТЬ,SFNS.ttf
+val_02700,1,МОСКВА,ヒラギノ丸ゴ ProN W4.ttc
+val_02701,0,РОСТОВ ОРЕХИ,AppleMyungjo.ttf
+val_02702,1,шкаф 5 см,Menlo.ttc
+val_02703,0,кофе,Marion.ttc
+val_02704,0,опыт стулья,Songti.ttc
+val_02705,0,Б/У,Iowan Old Style.ttc
+val_02706,1,ПЛОЩАДЬ ЗАПЧАСТИ ДИСКИ,Charter.ttc
+val_02707,1,31296 руб.,STIXGeneralBol.otf
+val_02708,1,16922 руб.,Ayuthaya.ttf
+val_02709,1,577 530 р.,SFCompactRounded.ttf
+val_02710,1,размер работа,Arial Bold Italic.ttf
+val_02711,0,производитель хлеб посуточно,Iowan Old Style.ttc
+val_02712,1,+7 (904) 911-55-25,ヒラギノ角ゴシック W9.ttc
+val_02713,0,+7 (945) 621-39-22,Hiragino Sans GB.ttc
+val_02714,0,Комната омск,Monaco.ttf
+val_02715,0,+7 (993) 998-85-36,SignPainter.ttc
+val_02716,1,Куплю,Arial Black.ttf
+val_02717,1,куплю 179 мл,SignPainter.ttc
+val_02718,1,SALE,STIXGeneral.otf
+val_02719,1,доставка 311 г,MarkerFelt.ttc
+val_02720,0,+7 (985) 301-61-92,STHeiti Medium.ttc
+val_02721,1,годности разбор,Hoefler Text.ttc
+val_02722,0,Санкт-Петербург сыр авто,PTSans.ttc
+val_02723,0,сумка,Hiragino Sans GB.ttc
+val_02724,1,Original,LucidaGrande.ttc
+val_02725,1,52 040 р.,ヒラギノ角ゴシック W3.ttc
+val_02726,1,ДИСКИ АВТО,Impact.ttf
+val_02727,1,7847 руб.,SignPainter.ttc
+val_02728,1,Ростов мёд Екатеринбург,Rockwell.ttc
+val_02729,1,ванная,ヒラギノ明朝 ProN.ttc
+val_02730,0,+7 (964) 647-28-83,GillSans.ttc
+val_02731,1,качество 460 шт,SFNS.ttf
+val_02732,0,Закрыто студия,AquaKana.ttc
+val_02733,0,ЛЕТНЯЯ,Thonburi.ttc
+val_02734,1,Обмен сливочное,STIXTwoMath.otf
+val_02735,1,РАБОТА,Brush Script.ttf
+val_02736,0,+7 (916) 821-97-67,STHeiti Light.ttc
+val_02737,1,Кофе,AppleMyungjo.ttf
+val_02738,0,масса,Arial Narrow Bold Italic.ttf
+val_02739,0,+7 (910) 868-70-88,AppleSDGothicNeo.ttc
+val_02740,1,Молоко москва,Times.ttc
+val_02741,1,качество 286 см,Charter.ttc
+val_02742,1,КАЧЕСТВО ЧАЙ ЦЕНА,Impact.ttf
+val_02743,0,Original Nike,ヒラギノ角ゴシック W1.ttc
+val_02744,1,Quality China,ヒラギノ角ゴシック W9.ttc
+val_02745,1,iPhone Nestle,Georgia Bold.ttf
+val_02746,1,+7 (995) 595-93-98,AquaKana.ttc
+val_02747,0,Сливочное сок,ヒラギノ丸ゴ ProN W4.ttc
+val_02748,0,+7 (907) 163-89-38,Avenir Next.ttc
+val_02749,1,водитель кровать торг,Verdana Bold Italic.ttf
+val_02750,1,+7 (972) 491-42-91,PTSerifCaption.ttc
+val_02751,1,SALE Premium,Arial Narrow.ttf
+val_02752,1,СМАРТФОН ТОРГ АККУМУЛЯТОР,Geneva.ttf
+val_02753,1,куплю,SFNSMono.ttf
+val_02754,1,осень 343 см,GillSans.ttc
+val_02755,1,авто масло ремонт,Menlo.ttc
+val_02756,0,Продаж,Comic Sans MS.ttf
+val_02757,0,+7 (912) 809-45-51,SFNSItalic.ttf
+val_02758,0,сок смартфон,PTSerif.ttc
+val_02759,0,+7 (990) 394-78-89,Rockwell.ttc
+val_02760,0,Краснодар водитель,Seravek.ttc
+val_02761,1,магазин 83 г,AmericanTypewriter.ttc
+val_02762,0,Kinder Lada,ヒラギノ角ゴシック W8.ttc
+val_02763,0,36343 руб.,MarkerFelt.ttc
+val_02764,0,ремонт,Hoefler Text.ttc
+val_02765,0,квартира,Times.ttc
+val_02766,0,Звоните,Iowan Old Style.ttc
+val_02767,1,in,Athelas.ttc
+val_02768,1,ЕКАТЕРИНБУРГ,SFNSRounded.ttf
+val_02769,0,Самара,Verdana.ttf
+val_02770,0,ПЛОЩАДЬ ЗАРЯДКА Б/У,AppleSDGothicNeo.ttc
+val_02771,1,открыто внимание аренда,ヒラギノ角ゴシック W8.ttc
+val_02772,1,ХРАНИТЬ ВНИМАНИЕ,ChalkboardSE.ttc
+val_02773,0,Kinder,Iowan Old Style.ttc
+val_02774,0,САМОВЫВОЗ,Noteworthy.ttc
+val_02775,1,платье 306 шт,ヒラギノ角ゴシック W8.ttc
+val_02776,1,37453 руб.,Andale Mono.ttf
+val_02777,1,ХРАНИТЬ,Seravek.ttc
+val_02778,0,83823 руб.,Trebuchet MS Bold.ttf
+val_02779,0,температуре,Ayuthaya.ttf
+val_02780,0,МЁД ЗАРЯДКА ОСТОРОЖНО,Seravek.ttc
+val_02781,1,ОСЕНЬ ХЛЕБ,AmericanTypewriter.ttc
+val_02782,0,масса 346 см,AmericanTypewriter.ttc
+val_02783,0,Apple Original,Georgia Italic.ttf
+val_02784,1,ХОЛОДИЛЬНИК,SnellRoundhand.ttc
+val_02785,1,балкон 209 мл,HelveticaNeue.ttc
+val_02786,0,42027 руб.,HelveticaNeue.ttc
+val_02787,0,Орехи,ヒラギノ角ゴシック W5.ttc
+val_02788,1,ОМСК,SFNSItalic.ttf
+val_02789,1,гарантия 194,Sathu.ttf
+val_02790,0,шоколад 190 см,Hiragino Sans GB.ttc
+val_02791,0,масса,DIN Alternate Bold.ttf
+val_02792,0,коляска,Thonburi.ttc
+val_02793,0,Велосипед,PTSerif.ttc
+val_02794,0,83682 руб.,Trebuchet MS Bold Italic.ttf
+val_02795,1,+7 (961) 451-42-10,Courier New Bold.ttf
+val_02796,0,наушники внимание,Marion.ttc
+val_02797,1,+7 (991) 855-66-92,Futura.ttc
+val_02798,0,доставка,DIN Alternate Bold.ttf
+val_02799,1,Premium,ヒラギノ明朝 ProN.ttc
+val_02800,0,Зимняя мужская,AppleSDGothicNeo.ttc
+val_02801,1,стол вакансия,GillSans.ttc
+val_02802,1,вакансия курьер состав,Arial Bold Italic.ttf
+val_02803,0,Premium Zara,Verdana Bold.ttf
+val_02804,1,314 277 р.,SFNSMonoItalic.ttf
+val_02805,0,мужская скидка,Iowan Old Style.ttc
+val_02806,1,кроссовки обмен,Trebuchet MS.ttf
+val_02807,1,СОК МАССА КУПЛЮ,SFNSRounded.ttf
+val_02808,1,+7 (947) 861-21-16,Palatino.ttc
+val_02809,1,Made,Palatino.ttc
+val_02810,0,Вход студия продам,STHeiti Medium.ttc
+val_02811,0,ПЛАТЬЕ СОСТАВ ВЕСНА,SignPainter.ttc
+val_02812,1,Детский чай,Arial Bold.ttf
+val_02813,0,Adidas,Menlo.ttc
+val_02814,1,квартира 241 см,PTSans.ttc
+val_02815,0,621 869 р.,SnellRoundhand.ttc
+val_02816,1,АККУМУЛЯТОР ПЛОЩАДЬ,Arial Unicode.ttf
+val_02817,1,ноутбук сливочное размер,LucidaGrande.ttc
+val_02818,0,362 098 р.,AppleSDGothicNeo.ttc
+val_02819,0,762 002 р.,AppleMyungjo.ttf
+val_02820,0,производитель телефон хлопок,Times New Roman Italic.ttf
+val_02821,0,Noire,ヒラギノ角ゴシック W3.ttc
+val_02822,0,Санкт-петербург квартира нетто,Courier New.ttf
+val_02823,1,торг,Trebuchet MS Italic.ttf
+val_02824,0,+7 (988) 443-81-33,SnellRoundhand.ttc
+val_02825,0,335 875 р.,ヒラギノ明朝 ProN.ttc
+val_02826,0,Омск кофе,Impact.ttf
+val_02827,0,16735 руб.,Trebuchet MS Italic.ttf
+val_02828,1,МУЖСКАЯ,SFNSMono.ttf
+val_02829,1,Скидка,SFCompactItalic.ttf
+val_02830,0,ГОДНОСТИ ВЫХОД ИНСТРУКЦИЯ,Sathu.ttf
+val_02831,1,NEW NEW,Georgia.ttf
+val_02832,0,131 472 р.,Arial Black.ttf
+val_02833,1,89226 руб.,Helvetica.ttc
+val_02834,1,вход,Hoefler Text.ttc
+val_02835,0,платье 172 г,ヒラギノ角ゴシック W9.ttc
+val_02836,1,SALE,Rockwell.ttc
+val_02837,0,Шерсть хлеб,Marion.ttc
+val_02838,0,масса,Times New Roman.ttf
+val_02839,1,75 068 р.,STHeiti Medium.ttc
+val_02840,1,+7 (949) 264-69-39,Brush Script.ttf
+val_02841,0,Детский,DIN Alternate Bold.ttf
+val_02842,1,Машина детский,Noteworthy.ttc
+val_02843,1,СТИРАЛЬНАЯ НЕТТО,Arial Unicode.ttf
+val_02844,0,ПАЛЬТО ЗИМНЯЯ СЛИВОЧНОЕ,Hiragino Sans GB.ttc
+val_02845,1,масло годности,ヒラギノ角ゴシック W8.ttc
+val_02846,0,ЗАРПЛАТА ВОДИТЕЛЬ СТУЛЬЯ,SnellRoundhand.ttc
+val_02847,0,Самара коляска авто,SnellRoundhand.ttc
+val_02848,1,куртка,PTSans.ttc
+val_02849,0,хранить,ヒラギノ角ゴシック W7.ttc
+val_02850,0,продам,LucidaGrande.ttc
+val_02851,0,Kinder LG,AmericanTypewriter.ttc
+val_02852,1,масса диван,HelveticaNeue.ttc
+val_02853,1,оригинал орехи Омск,ヒラギノ角ゴシック W1.ttc
+val_02854,0,Выход мёд детский,Didot.ttc
+val_02855,0,опыт,ChalkboardSE.ttc
+val_02856,0,Пишите температуре,Cochin.ttc
+val_02857,1,вакансия мужская,Trebuchet MS Italic.ttf
+val_02858,0,98930 руб.,Songti.ttc
+val_02859,0,Куплю,Baskerville.ttc
+val_02860,0,SALE Nestle,Microsoft Sans Serif.ttf
+val_02861,1,срок,MarkerFelt.ttc
+val_02862,0,торг цена,ヒラギノ丸ゴ ProN W4.ttc
+val_02863,0,103 223 р.,Georgia Bold Italic.ttf
+val_02864,0,масса масло,AppleSDGothicNeo.ttc
+val_02865,0,Б/у казань,Marion.ttc
+val_02866,0,BMW,PTMono.ttc
+val_02867,0,курьер,Avenir.ttc
+val_02868,0,+7 (908) 858-90-34,Courier New Bold.ttf
+val_02869,0,Noire Adidas,STIXGeneralBolIta.otf
+val_02870,1,производитель наушники этаж,Marion.ttc
+val_02871,0,ОПЫТ,Helvetica.ttc
+val_02872,1,ДИСКИ СТОЛ ПОСУТОЧНО,AppleSDGothicNeo.ttc
+val_02873,1,авто сумка,PTSans.ttc
+val_02874,1,изготовитель 56%,Trebuchet MS.ttf
+val_02875,0,Made Made,ヒラギノ明朝 ProN.ttc
+val_02876,0,245 597 р.,SFCompactRounded.ttf
+val_02877,0,чай новая внимание,Avenir Next.ttc
+val_02878,1,Sony Noire,Tahoma.ttf
+val_02879,1,оригинал 88 мл,ヒラギノ角ゴシック W6.ttc
+val_02880,0,хранить чай,Avenir Next.ttc
+val_02881,0,in,PTSerifCaption.ttc
+val_02882,1,холодильник 79 г,DIN Condensed Bold.ttf
+val_02883,1,Новая,LucidaGrande.ttc
+val_02884,1,состав Самара вход,SFNSItalic.ttf
+val_02885,0,+7 (984) 176-53-50,ヒラギノ明朝 ProN.ttc
+val_02886,1,пишите зарплата,Menlo.ttc
+val_02887,0,Sony in,Savoye LET.ttc
+val_02888,1,КУРТКА СРОК БАЛКОН,Times New Roman Bold.ttf
+val_02889,1,Мёд диски,Avenir Next.ttc
+val_02890,1,+7 (933) 408-51-83,PTSans.ttc
+val_02891,1,Хит кофе платье,ChalkboardSE.ttc
+val_02892,1,Новосибирск,Arial Unicode.ttf
+val_02893,1,154 063 р.,STIXGeneral.otf
+val_02894,1,+7 (924) 221-90-86,AmericanTypewriter.ttc
+val_02895,1,614 450 р.,Songti.ttc
+val_02896,0,платье,Cochin.ttc
+val_02897,0,График,STIXGeneral.otf
+val_02898,1,изготовитель,Seravek.ttc
+val_02899,0,Lada iPhone,SFNSItalic.ttf
+val_02900,1,Ремонт кофе кожа,Monaco.ttf
+val_02901,1,мёд мужская,ヒラギノ角ゴシック W4.ttc
+val_02902,1,+7 (905) 405-59-56,PTSerif.ttc
+val_02903,1,LG China,PTSerifCaption.ttc
+val_02904,0,МУЖСКАЯ,Ayuthaya.ttf
+val_02905,0,авто,Sathu.ttf
+val_02906,0,375 145 р.,Verdana.ttf
+val_02907,1,+7 (945) 850-87-97,ヒラギノ角ゴシック W3.ttc
+val_02908,0,20441 руб.,Rockwell.ttc
+val_02909,0,Sony Premium,Times New Roman Bold Italic.ttf
+val_02910,0,+7 (966) 154-57-84,ヒラギノ角ゴシック W9.ttc
+val_02911,1,+7 (941) 835-91-81,Trebuchet MS.ttf
+val_02912,0,САМОВЫВОЗ,ChalkboardSE.ttc
+val_02913,0,+7 (957) 769-17-12,ヒラギノ角ゴシック W9.ttc
+val_02914,0,5917 руб.,PTSans.ttc
+val_02915,1,64782 руб.,ヒラギノ角ゴシック W3.ttc
+val_02916,1,+7 (932) 417-32-36,Seravek.ttc
+val_02917,0,новая,Copperplate.ttc
+val_02918,0,работа 152 мл,Didot.ttc
+val_02919,1,график квартира,Marion.ttc
+val_02920,1,осень Омск,Arial Narrow Bold.ttf
+val_02921,0,Орехи,ヒラギノ角ゴシック W6.ttc
+val_02922,0,ОБМЕН ЭТАЖ РАБОТА,Athelas.ttc
+val_02923,1,447 665 р.,STHeiti Medium.ttc
+val_02924,1,КУХНЯ ТОРГ ВНИМАНИЕ,STIXTwoText.ttf
+val_02925,0,Bosch iPhone,Arial Bold.ttf
+val_02926,0,Торг осторожно,ヒラギノ角ゴシック W1.ttc
+val_02927,0,выход холодильник,Palatino.ttc
+val_02928,0,ХИТ,Thonburi.ttc
+val_02929,1,ПОСУТОЧНО КУРЬЕР ШКАФ,Verdana Bold Italic.ttf
+val_02930,0,389 121 р.,PTSans.ttc
+val_02931,1,SALE,ヒラギノ丸ゴ ProN W4.ttc
+val_02932,1,инструкция,GillSans.ttc
+val_02933,1,ШКАФ ТЕМПЕРАТУРЕ,SFCompactItalic.ttf
+val_02934,1,Кроссовки,SFCompactRounded.ttf
+val_02935,1,Quality,SFNSRounded.ttf
+val_02936,0,скидка 227%,Georgia Bold.ttf
+val_02937,1,Quality Zara,PTSerifCaption.ttc
+val_02938,0,женская машина,PTSans.ttc
+val_02939,0,инструкция,STIXGeneralBolIta.otf
+val_02940,1,33011 руб.,Baskerville.ttc
+val_02941,0,звоните 492,ヒラギノ角ゴシック W2.ttc
+val_02942,0,диван велосипед Санкт-Петербург,SignPainter.ttc
+val_02943,1,годности 266 см,STHeiti Medium.ttc
+val_02944,0,Pro Lada,Courier New Italic.ttf
+val_02945,1,255 707 р.,ヒラギノ角ゴシック W0.ttc
+val_02946,0,МАСЛО ПРОДАВЕЦ МЁД,Noteworthy.ttc
+val_02947,0,+7 (990) 931-87-86,Phosphate.ttc
+val_02948,0,КРОССОВКИ ТЕЛЕФОН АРЕНДА,Arial Bold.ttf
+val_02949,0,Nike,MarkerFelt.ttc
+val_02950,1,обмен кухня посуточно,PTSerif.ttc
+val_02951,1,СОСТАВ РОСТОВ,Rockwell.ttc
+val_02952,0,Производитель куртка хлеб,Arial Black.ttf
+val_02953,1,ПРОДАВЕЦ ПРИ ХЛЕБ,ヒラギノ角ゴシック W0.ttc
+val_02954,0,NEW,Noteworthy.ttc
+val_02955,0,кровать,ヒラギノ角ゴシック W9.ttc
+val_02956,1,Original,Helvetica.ttc
+val_02957,1,сок 380,Arial Italic.ttf
+val_02958,1,Ростов,ヒラギノ角ゴシック W8.ttc
+val_02959,0,+7 (992) 513-12-96,Rockwell.ttc
+val_02960,0,+7 (958) 944-53-32,HelveticaNeue.ttc
+val_02961,1,Оригинал этаж,Menlo.ttc
+val_02962,0,изготовитель 264 шт,PTSerif.ttc
+val_02963,1,МОЛОКО СЫР САНКТ-ПЕТЕРБУРГ,Avenir Next.ttc
+val_02964,0,Toyota,Menlo.ttc
+val_02965,0,МАССА АККУМУЛЯТОР ЕКАТЕРИНБУРГ,DIN Condensed Bold.ttf
+val_02966,0,летняя состав зарплата,Athelas.ttc
+val_02967,0,Диван продам,Hiragino Sans GB.ttc
+val_02968,0,Самара орехи,Noteworthy.ttc
+val_02969,0,шкаф ноутбук,DIN Condensed Bold.ttf
+val_02970,0,iPhone,Courier New Bold Italic.ttf
+val_02971,0,Original SALE,Arial Bold.ttf
+val_02972,0,+7 (980) 245-46-34,Cochin.ttc
+val_02973,0,119 479 р.,AmericanTypewriter.ttc
+val_02974,1,курьер,SFNSMonoItalic.ttf
+val_02975,0,вход,Savoye LET.ttc
+val_02976,0,ноутбук размер,Times.ttc
+val_02977,0,ОПЫТ ВЕСНА,SnellRoundhand.ttc
+val_02978,1,Size Toyota,ヒラギノ角ゴシック W1.ttc
+val_02979,0,Bosch Adidas,Andale Mono.ttf
+val_02980,0,платье 48 мл,PTSerif.ttc
+val_02981,0,ХРАНИТЬ КАЗАНЬ,SFCompactRounded.ttf
+val_02982,0,МАСЛО,ヒラギノ角ゴシック W6.ttc
+val_02983,1,Apple Zara,GillSans.ttc
+val_02984,1,СМАРТФОН ПОСУТОЧНО СТУЛЬЯ,Menlo.ttc
+val_02985,0,вода открыто,Arial Narrow Bold Italic.ttf
+val_02986,0,Омск хит,SnellRoundhand.ttc
+val_02987,1,гарантия 493 г,ヒラギノ角ゴシック W0.ttc
+val_02988,1,+7 (942) 176-33-15,ヒラギノ角ゴシック W3.ttc
+val_02989,1,Nestle Max,Trattatello.ttf
+val_02990,0,Екатеринбург нетто,ヒラギノ角ゴシック W8.ttc
+val_02991,1,вакансия,Tahoma.ttf
+val_02992,1,Внимание ростов,DIN Alternate Bold.ttf
+val_02993,1,+7 (956) 410-45-55,ヒラギノ角ゴシック W4.ttc
+val_02994,0,43434 руб.,LucidaGrande.ttc
+val_02995,1,нетто 286 мл,SFNSItalic.ttf
+val_02996,1,Площадь,Times.ttc
+val_02997,0,Гарантия,AppleMyungjo.ttf
+val_02998,1,Kinder,HelveticaNeue.ttc
+val_02999,0,СТИРАЛЬНАЯ ОРИГИНАЛ,Thonburi.ttc
