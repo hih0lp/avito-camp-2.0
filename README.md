@@ -74,7 +74,8 @@ test/images/test_00000.png ... test_19999.png
 * `scripts/` — запускаемые скрипты: `compute_features.py`, `train.py`, `predict.py`, `pack_data.py`,
   `make_calib_set.py`, `make_synth_val.py`
 * `features/` — сохранённые выходы моделей, `checkpoints/` — веса CNN
-* `data/synth_val/` — синтетическая валидация (нужна для воспроизводимости: на другой ОС шрифты другие),
+* `data/synth_val/labels.csv` — синтетическая валидация (сами картинки не нужны: калибровка учится на готовых
+  выходах моделей из `features/`; пересоздать их можно через `scripts/make_synth_val.py`),
   `data/calib_val/labels.csv` — метки реальной выборки, `data/textlm_4gram.pkl` — кэш языковой модели
 
 Внешних датасетов (~5 ГБ) и тестовых картинок здесь нет: датасеты скачиваются ссылками из ноутбука

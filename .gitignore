@@ -16,3 +16,4 @@ data/ocr_cyrillic_printed10/
 data/russian_ocr_small/
 data/packed/
 data/synth_train/
+data/synth_val/images/
