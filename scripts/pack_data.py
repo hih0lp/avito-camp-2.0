@@ -112,6 +112,9 @@ def main():
         if (OUT / f"{name}.idx.npy").exists() and not args.force:
             print(f"{name}: уже упакован")
             continue
+        if not any(DATA.glob("*/*.zip")) and not any(DATA.glob("*/*.parquet")) and name.startswith(("printed", "union", "ru_")):
+            raise SystemExit("Нет скачанных внешних датасетов. Включите DOWNLOAD_EXTERNAL в ноутбуке "
+                             "или скачайте их по ссылкам из раздела 2.2.")
         n = write_packed(OUT / name, SOURCES[name]())
         print(f"{name}: {n} картинок", flush=True)
 

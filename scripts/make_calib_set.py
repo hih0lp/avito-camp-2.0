@@ -26,6 +26,9 @@ SEED = 123
 
 
 def main():
+    if not (PACKED / "union_valid.idx.npy").exists():
+        raise SystemExit("Нет упакованных внешних данных (data/packed). Сначала включите DOWNLOAD_EXTERNAL "
+                         "в ноутбуке — он скачает датасеты и вызовет scripts/pack_data.py.")
     rng = np.random.default_rng(SEED)
     (OUT / "images").mkdir(parents=True, exist_ok=True)
     rows = []

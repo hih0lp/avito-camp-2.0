@@ -1,6 +1,6 @@
 # Ориентация кропа с текстом (0° / 180°)
 
-Подробный разбор с кодом и графиками — в **`solution.ipynb`**. Файл для отправки — **`FINALSUB.csv`**.
+Подробный разбор с кодом и графиками — в **`solution.ipynb`**. Файл для отправки — **`submission.csv`**.
 
 ## Результат
 
@@ -63,12 +63,12 @@ test/images/test_00000.png ... test_19999.png
 Откройте `solution.ipynb`, выберите ядро `avito-camp` и нажмите **Run All**. По умолчанию используются сохранённые выходы моделей (2–5 минут);
 `RECOMPUTE_FEATURES = True` пересчитывает всё на тестовых картинках (~1 ч на CPU). Seed везде 42.
 
-Ноутбук записывает **`FINALSUB.csv`** (каскад). Какой вариант считать итоговым — флаг `FINAL_VARIANT`
+Ноутбук записывает **`submission.csv`** (каскад). Какой вариант считать итоговым — флаг `FINAL_VARIANT`
 в разделе 0: `cascade`, `fast` или `accurate`.
 
 ## Структура
 
-* `solution.ipynb` — решение; `FINALSUB.csv` — файл для отправки
+* `solution.ipynb` — решение; `submission.csv` — файл для отправки
 * `src/` — модули: `io_utils.py` (чтение данных), `synth.py` (генератор синтетики), `methods.py` (обёртки готовых
   моделей), `ensemble.py` (признаки, калибровка, каскад), `textlm.py`, `model.py` и `data.py` (CNN), `packed.py`
 * `scripts/` — запускаемые скрипты: `compute_features.py`, `train.py`, `predict.py`, `pack_data.py`,
