@@ -47,7 +47,7 @@ CNN обучена на `Union14M-L-STR` (MIT, 471 тыс. реальных кр
 
 ## Запуск
 
-Python 3.10–3.12, любая ОС; GPU не обязателен.
+Python 3.11–3.12 (проверено на 3.12), любая ОС; GPU не обязателен.
 ```bash
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
@@ -74,9 +74,10 @@ test/images/test_00000.png ... test_19999.png
 * `scripts/` — запускаемые скрипты: `compute_features.py`, `train.py`, `predict.py`, `pack_data.py`,
   `make_calib_set.py`, `make_synth_val.py`
 * `features/` — сохранённые выходы моделей, `checkpoints/` — веса CNN
-* `data/synth_val/labels.csv` — синтетическая валидация (сами картинки не нужны: калибровка учится на готовых
-  выходах моделей из `features/`; пересоздать их можно через `scripts/make_synth_val.py`),
-  `data/calib_val/labels.csv` — метки реальной выборки, `data/textlm_4gram.pkl` — кэш языковой модели
+* `data/synth_val/` — синтетическая валидация (картинки и метки). Для запуска по умолчанию картинки не нужны —
+  калибровка учится на готовых выходах моделей из `features/`; при полном пересчёте с ними результат побайтно
+  воспроизводится на любой ОС. `data/calib_val/labels.csv` — метки реальной выборки,
+  `data/textlm_4gram.pkl` — кэш языковой модели
 
 Внешних датасетов (~5 ГБ) и тестовых картинок здесь нет: датасеты скачиваются ссылками из ноутбука
 (нужны только для переобучения CNN), картинки — из архива задания.
